@@ -1,0 +1,5003 @@
+{
+  "title": "토익 단어 암기 데이터",
+  "sources": {
+    "day": {
+      "label": "해커스 토익 단어장",
+      "description": "해커스 토익 단어장",
+      "items": [
+        {
+          "day": "Day 1",
+          "no": 1,
+          "word": "eligible",
+          "meaning": "자격이 있는, 적격의"
+        },
+        {
+          "day": "Day 1",
+          "no": 2,
+          "word": "managerial",
+          "meaning": "관리의"
+        },
+        {
+          "day": "Day 1",
+          "no": 3,
+          "word": "apprehensive",
+          "meaning": "걱정하는, 염려하는"
+        },
+        {
+          "day": "Day 1",
+          "no": 4,
+          "word": "entitle",
+          "meaning": "자격을 주다"
+        },
+        {
+          "day": "Day 1",
+          "no": 5,
+          "word": "payroll",
+          "meaning": "임금대장"
+        },
+        {
+          "day": "Day 1",
+          "no": 6,
+          "word": "occupation",
+          "meaning": "직업"
+        },
+        {
+          "day": "Day 1",
+          "no": 7,
+          "word": "wage",
+          "meaning": "임금, 급료"
+        },
+        {
+          "day": "Day 1",
+          "no": 8,
+          "word": "attire",
+          "meaning": "복장, 옷차림새"
+        },
+        {
+          "day": "Day 1",
+          "no": 9,
+          "word": "code",
+          "meaning": "규범, 관례"
+        },
+        {
+          "day": "Day 1",
+          "no": 10,
+          "word": "concern",
+          "meaning": "우려, 걱정"
+        },
+        {
+          "day": "Day 11",
+          "no": 1,
+          "word": "devise",
+          "meaning": "고안하다, 발명하다"
+        },
+        {
+          "day": "Day 11",
+          "no": 2,
+          "word": "revolutionary",
+          "meaning": "혁명적인"
+        },
+        {
+          "day": "Day 11",
+          "no": 3,
+          "word": "patent",
+          "meaning": "특허권, 특허"
+        },
+        {
+          "day": "Day 11",
+          "no": 4,
+          "word": "envision",
+          "meaning": "계획하다, 상상하다"
+        },
+        {
+          "day": "Day 11",
+          "no": 5,
+          "word": "intend",
+          "meaning": "~할 작정이다, 의도하다"
+        },
+        {
+          "day": "Day 11",
+          "no": 6,
+          "word": "grant",
+          "meaning": "수여하다"
+        },
+        {
+          "day": "Day 11",
+          "no": 7,
+          "word": "inspect",
+          "meaning": "~을 검사하다"
+        },
+        {
+          "day": "Day 11",
+          "no": 8,
+          "word": "increasingly",
+          "meaning": "점점, 더욱더"
+        },
+        {
+          "day": "Day 11",
+          "no": 9,
+          "word": "hold",
+          "meaning": "~를 수용하다, ~을 담다"
+        },
+        {
+          "day": "Day 11",
+          "no": 10,
+          "word": "complicated",
+          "meaning": "복잡한"
+        },
+        {
+          "day": "Day 11",
+          "no": 11,
+          "word": "accomplished",
+          "meaning": "숙련된, 노련한"
+        },
+        {
+          "day": "Day 11",
+          "no": 12,
+          "word": "inquiry",
+          "meaning": "문의, 질문"
+        },
+        {
+          "day": "Day 11",
+          "no": 13,
+          "word": "indication",
+          "meaning": "징후, 조짐"
+        },
+        {
+          "day": "Day 11",
+          "no": 14,
+          "word": "compatible",
+          "meaning": "호환되는, 양립 가능한"
+        },
+        {
+          "day": "Day 11",
+          "no": 15,
+          "word": "superior",
+          "meaning": "우수한"
+        },
+        {
+          "day": "Day 11",
+          "no": 16,
+          "word": "broaden",
+          "meaning": "넓히다"
+        },
+        {
+          "day": "Day 11",
+          "no": 17,
+          "word": "corrosion",
+          "meaning": "부식"
+        },
+        {
+          "day": "Day 11",
+          "no": 18,
+          "word": "remotely",
+          "meaning": "원격으로"
+        },
+        {
+          "day": "Day 12",
+          "no": 1,
+          "word": "specification",
+          "meaning": "명세서"
+        },
+        {
+          "day": "Day 12",
+          "no": 2,
+          "word": "properly",
+          "meaning": "정확하게, 제대로"
+        },
+        {
+          "day": "Day 12",
+          "no": 3,
+          "word": "capacity",
+          "meaning": "용량, 수용력"
+        },
+        {
+          "day": "Day 12",
+          "no": 4,
+          "word": "renovate",
+          "meaning": "개조하다, 수리하다"
+        },
+        {
+          "day": "Day 12",
+          "no": 5,
+          "word": "attribute",
+          "meaning": "~의 덕분으로 돌리다"
+        },
+        {
+          "day": "Day 12",
+          "no": 6,
+          "word": "tailored",
+          "meaning": "맞춤의"
+        },
+        {
+          "day": "Day 12",
+          "no": 7,
+          "word": "economize",
+          "meaning": "절약하다"
+        },
+        {
+          "day": "Day 12",
+          "no": 8,
+          "word": "trim",
+          "meaning": "다듬다"
+        },
+        {
+          "day": "Day 12",
+          "no": 9,
+          "word": "expiration",
+          "meaning": "만료, 만기"
+        },
+        {
+          "day": "Day 12",
+          "no": 10,
+          "word": "maneuver",
+          "meaning": "이동시키다, 움직이다"
+        },
+        {
+          "day": "Day 13",
+          "no": 1,
+          "word": "infuriate",
+          "meaning": "화나게 하다"
+        },
+        {
+          "day": "Day 13",
+          "no": 2,
+          "word": "courteous",
+          "meaning": "예의바른"
+        },
+        {
+          "day": "Day 13",
+          "no": 3,
+          "word": "commentary",
+          "meaning": "해설, 설명"
+        },
+        {
+          "day": "Day 13",
+          "no": 4,
+          "word": "notification",
+          "meaning": "통지"
+        },
+        {
+          "day": "Day 13",
+          "no": 5,
+          "word": "commitment",
+          "meaning": "헌신, 전념"
+        },
+        {
+          "day": "Day 13",
+          "no": 6,
+          "word": "applaud",
+          "meaning": "~에게 박수를 보내다"
+        },
+        {
+          "day": "Day 13",
+          "no": 7,
+          "word": "biography",
+          "meaning": "약력, 전기"
+        },
+        {
+          "day": "Day 13",
+          "no": 8,
+          "word": "priority",
+          "meaning": "우선권, 우선사항"
+        },
+        {
+          "day": "Day 13",
+          "no": 9,
+          "word": "disappoint",
+          "meaning": "실망시키다"
+        },
+        {
+          "day": "Day 13",
+          "no": 10,
+          "word": "inquire",
+          "meaning": "문의하다"
+        },
+        {
+          "day": "Day 13",
+          "no": 11,
+          "word": "disclose",
+          "meaning": "공개하다, 드러내다"
+        },
+        {
+          "day": "Day 14",
+          "no": 1,
+          "word": "attraction",
+          "meaning": "관광명소"
+        },
+        {
+          "day": "Day 14",
+          "no": 2,
+          "word": "itinerary",
+          "meaning": "여행일정"
+        },
+        {
+          "day": "Day 14",
+          "no": 3,
+          "word": "exotic",
+          "meaning": "이국적인, 이색적인"
+        },
+        {
+          "day": "Day 14",
+          "no": 4,
+          "word": "superb",
+          "meaning": "최고의, 뛰어난"
+        },
+        {
+          "day": "Day 14",
+          "no": 5,
+          "word": "baggage",
+          "meaning": "수하물"
+        },
+        {
+          "day": "Day 14",
+          "no": 6,
+          "word": "duty",
+          "meaning": "관세"
+        },
+        {
+          "day": "Day 14",
+          "no": 7,
+          "word": "declare",
+          "meaning": "신고하다"
+        },
+        {
+          "day": "Day 14",
+          "no": 8,
+          "word": "specify",
+          "meaning": "명시하다"
+        },
+        {
+          "day": "Day 14",
+          "no": 9,
+          "word": "depart",
+          "meaning": "출발하다"
+        },
+        {
+          "day": "Day 14",
+          "no": 10,
+          "word": "outgoing",
+          "meaning": "출발하는, 떠나는"
+        },
+        {
+          "day": "Day 14",
+          "no": 11,
+          "word": "carrier",
+          "meaning": "항공사, 수송기"
+        },
+        {
+          "day": "Day 14",
+          "no": 12,
+          "word": "customarily",
+          "meaning": "관례상, 관습적으로"
+        },
+        {
+          "day": "Day 14",
+          "no": 13,
+          "word": "ship",
+          "meaning": "운송하다, 수송하다"
+        },
+        {
+          "day": "Day 14",
+          "no": 14,
+          "word": "fill out / in",
+          "meaning": "기입하다, 적어놓다"
+        },
+        {
+          "day": "Day 14",
+          "no": 15,
+          "word": "customs",
+          "meaning": "세관"
+        },
+        {
+          "day": "Day 14",
+          "no": 16,
+          "word": "hospitality",
+          "meaning": "환대, 친절"
+        },
+        {
+          "day": "Day 14",
+          "no": 17,
+          "word": "indulge",
+          "meaning": "빠지다, 탐닉하다"
+        },
+        {
+          "day": "Day 14",
+          "no": 18,
+          "word": "seating",
+          "meaning": "좌석 설비, 배열"
+        },
+        {
+          "day": "Day 14",
+          "no": 19,
+          "word": "besides",
+          "meaning": "게다가, 뿐만 아니라"
+        },
+        {
+          "day": "Day 15",
+          "no": 1,
+          "word": "alliance",
+          "meaning": "동맹, 제휴"
+        },
+        {
+          "day": "Day 15",
+          "no": 2,
+          "word": "stipulation",
+          "meaning": "계약 조건"
+        },
+        {
+          "day": "Day 15",
+          "no": 3,
+          "word": "term",
+          "meaning": "조건, 임기, 기한"
+        },
+        {
+          "day": "Day 15",
+          "no": 4,
+          "word": "compromise",
+          "meaning": "타협, 화해"
+        },
+        {
+          "day": "Day 15",
+          "no": 5,
+          "word": "negotiation",
+          "meaning": "협상"
+        },
+        {
+          "day": "Day 15",
+          "no": 6,
+          "word": "deadlock",
+          "meaning": "교착상태"
+        },
+        {
+          "day": "Day 15",
+          "no": 7,
+          "word": "originally",
+          "meaning": "원래, 처음에는"
+        },
+        {
+          "day": "Day 15",
+          "no": 8,
+          "word": "expire",
+          "meaning": "만료되다"
+        },
+        {
+          "day": "Day 15",
+          "no": 9,
+          "word": "dedicate",
+          "meaning": "전념하다, 헌신하다"
+        },
+        {
+          "day": "Day 15",
+          "no": 10,
+          "word": "revised",
+          "meaning": "수정된, 변경한"
+        },
+        {
+          "day": "Day 15",
+          "no": 11,
+          "word": "imperative",
+          "meaning": "반드시 해야 하는, 필수적인"
+        },
+        {
+          "day": "Day 15",
+          "no": 12,
+          "word": "commission",
+          "meaning": "수수료, 커미션"
+        },
+        {
+          "day": "Day 15",
+          "no": 13,
+          "word": "omit",
+          "meaning": "빠트리다, 생략하다"
+        },
+        {
+          "day": "Day 15",
+          "no": 14,
+          "word": "confidentiality",
+          "meaning": "기밀, 비밀"
+        },
+        {
+          "day": "Day 15",
+          "no": 15,
+          "word": "dispute",
+          "meaning": "분쟁, 논쟁"
+        },
+        {
+          "day": "Day 15",
+          "no": 16,
+          "word": "objection",
+          "meaning": "반대, 이의"
+        },
+        {
+          "day": "Day 15",
+          "no": 17,
+          "word": "modify",
+          "meaning": "수정하다"
+        },
+        {
+          "day": "Day 15",
+          "no": 18,
+          "word": "bid",
+          "meaning": "입찰"
+        },
+        {
+          "day": "Day 15",
+          "no": 19,
+          "word": "settle",
+          "meaning": "해결하다, 처리하다"
+        },
+        {
+          "day": "Day 15",
+          "no": 20,
+          "word": "pending",
+          "meaning": "미결인, 미정인"
+        },
+        {
+          "day": "Day 16",
+          "no": 1,
+          "word": "dealer",
+          "meaning": "판매업자, 상인"
+        },
+        {
+          "day": "Day 16",
+          "no": 2,
+          "word": "inventory",
+          "meaning": "재고품, 재고 목록"
+        },
+        {
+          "day": "Day 16",
+          "no": 3,
+          "word": "short",
+          "meaning": "부족한"
+        },
+        {
+          "day": "Day 16",
+          "no": 4,
+          "word": "invoice",
+          "meaning": "송장"
+        },
+        {
+          "day": "Day 16",
+          "no": 5,
+          "word": "assure",
+          "meaning": "~에게 보장하다"
+        },
+        {
+          "day": "Day 16",
+          "no": 6,
+          "word": "subject",
+          "meaning": "~의 영향을 받기 쉬운"
+        },
+        {
+          "day": "Day 16",
+          "no": 7,
+          "word": "seek",
+          "meaning": "구하다, 찾다"
+        },
+        {
+          "day": "Day 16",
+          "no": 8,
+          "word": "satisfactory",
+          "meaning": "만족스러운"
+        },
+        {
+          "day": "Day 16",
+          "no": 9,
+          "word": "bargain",
+          "meaning": "특가품, 흥정"
+        },
+        {
+          "day": "Day 16",
+          "no": 10,
+          "word": "affordability",
+          "meaning": "감당할 수 있는 비용"
+        },
+        {
+          "day": "Day 16",
+          "no": 11,
+          "word": "clientele",
+          "meaning": "고객들, 모든 의뢰인"
+        },
+        {
+          "day": "Day 16",
+          "no": 12,
+          "word": "acclaim",
+          "meaning": "호평, 찬사"
+        },
+        {
+          "day": "Day 16",
+          "no": 13,
+          "word": "represent",
+          "meaning": "~을 대표하다"
+        },
+        {
+          "day": "Day 16",
+          "no": 14,
+          "word": "rating",
+          "meaning": "등급, 평가"
+        },
+        {
+          "day": "Day 16",
+          "no": 15,
+          "word": "encompass",
+          "meaning": "포함하다, 둘러싸다"
+        },
+        {
+          "day": "Day 16",
+          "no": 16,
+          "word": "commodity",
+          "meaning": "상품, 산물"
+        },
+        {
+          "day": "Day 16",
+          "no": 17,
+          "word": "quote",
+          "meaning": "견적"
+        },
+        {
+          "day": "Day 16",
+          "no": 18,
+          "word": "consignment",
+          "meaning": "위탁판매"
+        },
+        {
+          "day": "Day 17",
+          "no": 1,
+          "word": "perishable",
+          "meaning": "부패하기 쉬운"
+        },
+        {
+          "day": "Day 17",
+          "no": 2,
+          "word": "ensure",
+          "meaning": "확실하게 하다, 보장하다"
+        },
+        {
+          "day": "Day 17",
+          "no": 3,
+          "word": "courier",
+          "meaning": "급송택배"
+        },
+        {
+          "day": "Day 17",
+          "no": 4,
+          "word": "carton",
+          "meaning": "판지 상자"
+        },
+        {
+          "day": "Day 17",
+          "no": 5,
+          "word": "shipment",
+          "meaning": "선적, 발송"
+        },
+        {
+          "day": "Day 17",
+          "no": 6,
+          "word": "agency",
+          "meaning": "대리점"
+        },
+        {
+          "day": "Day 17",
+          "no": 7,
+          "word": "pick up",
+          "meaning": "~를 찾다"
+        },
+        {
+          "day": "Day 17",
+          "no": 8,
+          "word": "formerly",
+          "meaning": "이전에"
+        },
+        {
+          "day": "Day 17",
+          "no": 9,
+          "word": "correspondence",
+          "meaning": "편지, 통신문"
+        },
+        {
+          "day": "Day 17",
+          "no": 10,
+          "word": "remarkable",
+          "meaning": "현저한, 두드러진"
+        },
+        {
+          "day": "Day 17",
+          "no": 11,
+          "word": "impose",
+          "meaning": "부과하다"
+        },
+        {
+          "day": "Day 17",
+          "no": 12,
+          "word": "recipient",
+          "meaning": "수신자"
+        },
+        {
+          "day": "Day 17",
+          "no": 13,
+          "word": "affix",
+          "meaning": "붙이다"
+        },
+        {
+          "day": "Day 17",
+          "no": 14,
+          "word": "oblige",
+          "meaning": "~에게 강요하다"
+        },
+        {
+          "day": "Day 17",
+          "no": 15,
+          "word": "distinctive",
+          "meaning": "독특한"
+        },
+        {
+          "day": "Day 17",
+          "no": 16,
+          "word": "discreet",
+          "meaning": "신중한"
+        },
+        {
+          "day": "Day 18",
+          "no": 1,
+          "word": "complimentary",
+          "meaning": "무료의, 우대의"
+        },
+        {
+          "day": "Day 18",
+          "no": 2,
+          "word": "chef",
+          "meaning": "주방장"
+        },
+        {
+          "day": "Day 18",
+          "no": 3,
+          "word": "accommodate",
+          "meaning": "~를 수용하다, 숙박시키다"
+        },
+        {
+          "day": "Day 18",
+          "no": 4,
+          "word": "reception",
+          "meaning": "환영회, 접수처"
+        },
+        {
+          "day": "Day 18",
+          "no": 5,
+          "word": "refreshments",
+          "meaning": "다과"
+        },
+        {
+          "day": "Day 18",
+          "no": 6,
+          "word": "cater",
+          "meaning": "음식물을 공급하다"
+        },
+        {
+          "day": "Day 18",
+          "no": 7,
+          "word": "rate",
+          "meaning": "요금"
+        },
+        {
+          "day": "Day 18",
+          "no": 8,
+          "word": "amenity",
+          "meaning": "편의시설"
+        },
+        {
+          "day": "Day 18",
+          "no": 9,
+          "word": "sip",
+          "meaning": "홀짝이며 마시다"
+        },
+        {
+          "day": "Day 18",
+          "no": 10,
+          "word": "stir",
+          "meaning": "휘젓다"
+        },
+        {
+          "day": "Day 18",
+          "no": 11,
+          "word": "occupancy",
+          "meaning": "이용률"
+        },
+        {
+          "day": "Day 18",
+          "no": 12,
+          "word": "spot",
+          "meaning": "발견하다"
+        },
+        {
+          "day": "Day 19",
+          "no": 1,
+          "word": "revenue",
+          "meaning": "수입"
+        },
+        {
+          "day": "Day 19",
+          "no": 2,
+          "word": "projection",
+          "meaning": "예상(치)"
+        },
+        {
+          "day": "Day 19",
+          "no": 3,
+          "word": "sale",
+          "meaning": "매출액"
+        },
+        {
+          "day": "Day 19",
+          "no": 4,
+          "word": "representative",
+          "meaning": "직원, 대표자"
+        },
+        {
+          "day": "Day 19",
+          "no": 5,
+          "word": "figure",
+          "meaning": "총액, 합계, 수"
+        },
+        {
+          "day": "Day 19",
+          "no": 6,
+          "word": "incur",
+          "meaning": "(손실을) 입다, 지다"
+        },
+        {
+          "day": "Day 20",
+          "no": 1,
+          "word": "audit",
+          "meaning": "회계 감사, 심사"
+        },
+        {
+          "day": "Day 20",
+          "no": 2,
+          "word": "accounting",
+          "meaning": "회계"
+        },
+        {
+          "day": "Day 20",
+          "no": 3,
+          "word": "curtail",
+          "meaning": "~을 줄이다, 삭감하다"
+        },
+        {
+          "day": "Day 20",
+          "no": 4,
+          "word": "proceeds",
+          "meaning": "수익금"
+        },
+        {
+          "day": "Day 20",
+          "no": 5,
+          "word": "reimburse",
+          "meaning": "변제하다, 상환하다"
+        },
+        {
+          "day": "Day 20",
+          "no": 6,
+          "word": "inspector",
+          "meaning": "조사관, 감독관"
+        },
+        {
+          "day": "Day 20",
+          "no": 7,
+          "word": "quarter",
+          "meaning": "사분기"
+        },
+        {
+          "day": "Day 20",
+          "no": 8,
+          "word": "browse",
+          "meaning": "훑어보다"
+        },
+        {
+          "day": "Day 20",
+          "no": 9,
+          "word": "prompt",
+          "meaning": "즉각적인, 신속한"
+        },
+        {
+          "day": "Day 20",
+          "no": 10,
+          "word": "deduct",
+          "meaning": "공제하다, 빼다"
+        },
+        {
+          "day": "Day 20",
+          "no": 11,
+          "word": "amend",
+          "meaning": "수정하다"
+        },
+        {
+          "day": "Day 20",
+          "no": 12,
+          "word": "exempt",
+          "meaning": "면제된"
+        },
+        {
+          "day": "Day 20",
+          "no": 13,
+          "word": "fortunate",
+          "meaning": "운좋은"
+        },
+        {
+          "day": "Day 20",
+          "no": 14,
+          "word": "expenditure",
+          "meaning": "지출, 비용"
+        },
+        {
+          "day": "Day 20",
+          "no": 15,
+          "word": "fiscal",
+          "meaning": "회계의"
+        },
+        {
+          "day": "Day 20",
+          "no": 16,
+          "word": "incidental",
+          "meaning": "부수적인"
+        },
+        {
+          "day": "Day 20",
+          "no": 17,
+          "word": "liable",
+          "meaning": "책임져야 할"
+        },
+        {
+          "day": "Day 20",
+          "no": 18,
+          "word": "turnover",
+          "meaning": "총 매상고"
+        },
+        {
+          "day": "Day 21",
+          "no": 1,
+          "word": "foresee",
+          "meaning": "예견하다, 예감하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 2,
+          "word": "relocate",
+          "meaning": "이전하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 3,
+          "word": "asset",
+          "meaning": "자산"
+        },
+        {
+          "day": "Day 21",
+          "no": 4,
+          "word": "misplace",
+          "meaning": "잃어버리다"
+        },
+        {
+          "day": "Day 21",
+          "no": 5,
+          "word": "considerable",
+          "meaning": "상당한"
+        },
+        {
+          "day": "Day 21",
+          "no": 6,
+          "word": "last",
+          "meaning": "지속되다"
+        },
+        {
+          "day": "Day 21",
+          "no": 7,
+          "word": "persist",
+          "meaning": "계속하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 8,
+          "word": "force",
+          "meaning": "세력"
+        },
+        {
+          "day": "Day 21",
+          "no": 9,
+          "word": "establish",
+          "meaning": "설립하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 10,
+          "word": "initiate",
+          "meaning": "착수하다, 시작하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 11,
+          "word": "renowned",
+          "meaning": "명성이 있는"
+        },
+        {
+          "day": "Day 21",
+          "no": 12,
+          "word": "informed",
+          "meaning": "정보에 근거한"
+        },
+        {
+          "day": "Day 21",
+          "no": 13,
+          "word": "minutes",
+          "meaning": "회의록"
+        },
+        {
+          "day": "Day 21",
+          "no": 14,
+          "word": "waive",
+          "meaning": "적용하지 않다, 포기하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 15,
+          "word": "authority",
+          "meaning": "권한, 당국"
+        },
+        {
+          "day": "Day 21",
+          "no": 16,
+          "word": "surpass",
+          "meaning": "능가하다"
+        },
+        {
+          "day": "Day 21",
+          "no": 17,
+          "word": "improbable",
+          "meaning": "일어날 것 같지 않은"
+        },
+        {
+          "day": "Day 21",
+          "no": 18,
+          "word": "simultaneously",
+          "meaning": "동시에"
+        },
+        {
+          "day": "Day 21",
+          "no": 19,
+          "word": "premier",
+          "meaning": "으뜸의"
+        },
+        {
+          "day": "Day 22",
+          "no": 1,
+          "word": "convene",
+          "meaning": "모이다, 개최하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 2,
+          "word": "refute",
+          "meaning": "부인하다, 반박하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 3,
+          "word": "coordination",
+          "meaning": "조정"
+        },
+        {
+          "day": "Day 22",
+          "no": 4,
+          "word": "unanimous",
+          "meaning": "만장일치의"
+        },
+        {
+          "day": "Day 22",
+          "no": 5,
+          "word": "convince",
+          "meaning": "납득시키다"
+        },
+        {
+          "day": "Day 22",
+          "no": 6,
+          "word": "consensus",
+          "meaning": "여론, 일치된 의견"
+        },
+        {
+          "day": "Day 22",
+          "no": 7,
+          "word": "defer",
+          "meaning": "미루다, 연기하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 8,
+          "word": "comment",
+          "meaning": "논평하다, 언급하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 9,
+          "word": "object",
+          "meaning": "반대하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 10,
+          "word": "distract",
+          "meaning": "산만하게 하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 11,
+          "word": "persuasive",
+          "meaning": "설득력 있는"
+        },
+        {
+          "day": "Day 22",
+          "no": 12,
+          "word": "preside",
+          "meaning": "사회를 보다"
+        },
+        {
+          "day": "Day 22",
+          "no": 13,
+          "word": "constraint",
+          "meaning": "제한"
+        },
+        {
+          "day": "Day 22",
+          "no": 14,
+          "word": "condensed",
+          "meaning": "요약한, 응축한"
+        },
+        {
+          "day": "Day 22",
+          "no": 15,
+          "word": "endorse",
+          "meaning": "지지하다, 보증하다"
+        },
+        {
+          "day": "Day 22",
+          "no": 16,
+          "word": "punctually",
+          "meaning": "제시간에"
+        },
+        {
+          "day": "Day 23",
+          "no": 1,
+          "word": "enroll",
+          "meaning": "등록하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 2,
+          "word": "assent",
+          "meaning": "찬성하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 3,
+          "word": "regard",
+          "meaning": "~을 ~으로 간주하다, 여기다"
+        },
+        {
+          "day": "Day 23",
+          "no": 4,
+          "word": "tentative",
+          "meaning": "임시적인, 잠정적인"
+        },
+        {
+          "day": "Day 23",
+          "no": 5,
+          "word": "function",
+          "meaning": "행사, 연회"
+        },
+        {
+          "day": "Day 23",
+          "no": 6,
+          "word": "commence",
+          "meaning": "시작되다"
+        },
+        {
+          "day": "Day 23",
+          "no": 7,
+          "word": "objective",
+          "meaning": "목표, 목적"
+        },
+        {
+          "day": "Day 23",
+          "no": 8,
+          "word": "reimbursement",
+          "meaning": "상환, 변제"
+        },
+        {
+          "day": "Day 23",
+          "no": 9,
+          "word": "arise",
+          "meaning": "발생하다, 일어나다"
+        },
+        {
+          "day": "Day 23",
+          "no": 10,
+          "word": "union",
+          "meaning": "노동조합"
+        },
+        {
+          "day": "Day 23",
+          "no": 11,
+          "word": "exploit",
+          "meaning": "착취하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 12,
+          "word": "appoint",
+          "meaning": "임명하다, 지명하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 13,
+          "word": "appraisal",
+          "meaning": "평가"
+        },
+        {
+          "day": "Day 23",
+          "no": 14,
+          "word": "radically",
+          "meaning": "완전히, 철저히"
+        },
+        {
+          "day": "Day 23",
+          "no": 15,
+          "word": "mandatory",
+          "meaning": "의무적인"
+        },
+        {
+          "day": "Day 23",
+          "no": 16,
+          "word": "competent",
+          "meaning": "유능한, 능숙한"
+        },
+        {
+          "day": "Day 23",
+          "no": 17,
+          "word": "designate",
+          "meaning": "지명하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 18,
+          "word": "executive",
+          "meaning": "경영의"
+        },
+        {
+          "day": "Day 23",
+          "no": 19,
+          "word": "dedication",
+          "meaning": "헌신"
+        },
+        {
+          "day": "Day 23",
+          "no": 20,
+          "word": "dismiss",
+          "meaning": "해임하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 21,
+          "word": "praise",
+          "meaning": "칭찬"
+        },
+        {
+          "day": "Day 23",
+          "no": 22,
+          "word": "deliberation",
+          "meaning": "토의"
+        },
+        {
+          "day": "Day 23",
+          "no": 23,
+          "word": "serve",
+          "meaning": "일하다, 근무하다"
+        },
+        {
+          "day": "Day 23",
+          "no": 24,
+          "word": "resignation",
+          "meaning": "사임, 사직서"
+        },
+        {
+          "day": "Day 25",
+          "no": 1,
+          "word": "congestion",
+          "meaning": "체증, 혼잡"
+        },
+        {
+          "day": "Day 25",
+          "no": 2,
+          "word": "divert",
+          "meaning": "우회시키다"
+        },
+        {
+          "day": "Day 25",
+          "no": 3,
+          "word": "detour",
+          "meaning": "우회"
+        },
+        {
+          "day": "Day 25",
+          "no": 4,
+          "word": "malfunction",
+          "meaning": "오작동, 기능불량"
+        },
+        {
+          "day": "Day 25",
+          "no": 5,
+          "word": "permit",
+          "meaning": "허락하다"
+        },
+        {
+          "day": "Day 25",
+          "no": 6,
+          "word": "designated",
+          "meaning": "지정된"
+        },
+        {
+          "day": "Day 25",
+          "no": 7,
+          "word": "equip",
+          "meaning": "갖추다, 설비하다"
+        },
+        {
+          "day": "Day 25",
+          "no": 8,
+          "word": "transit",
+          "meaning": "교통, 수송"
+        },
+        {
+          "day": "Day 25",
+          "no": 9,
+          "word": "collision",
+          "meaning": "충돌"
+        },
+        {
+          "day": "Day 25",
+          "no": 10,
+          "word": "tow",
+          "meaning": "견인하다"
+        },
+        {
+          "day": "Day 26",
+          "no": 1,
+          "word": "delinquent",
+          "meaning": "연체된, 미불의"
+        },
+        {
+          "day": "Day 26",
+          "no": 2,
+          "word": "overdue",
+          "meaning": "기한이 지난"
+        },
+        {
+          "day": "Day 26",
+          "no": 3,
+          "word": "regrettably",
+          "meaning": "유감스럽게도"
+        },
+        {
+          "day": "Day 26",
+          "no": 4,
+          "word": "lower",
+          "meaning": "줄이다"
+        },
+        {
+          "day": "Day 26",
+          "no": 5,
+          "word": "transaction",
+          "meaning": "거래, 업무"
+        },
+        {
+          "day": "Day 26",
+          "no": 6,
+          "word": "dissatisfaction",
+          "meaning": "불만, 불평"
+        },
+        {
+          "day": "Day 26",
+          "no": 7,
+          "word": "tentatively",
+          "meaning": "임시로, 시험적으로"
+        },
+        {
+          "day": "Day 26",
+          "no": 8,
+          "word": "loan",
+          "meaning": "대출, 대여금"
+        },
+        {
+          "day": "Day 26",
+          "no": 9,
+          "word": "mortgage",
+          "meaning": "대출"
+        },
+        {
+          "day": "Day 26",
+          "no": 10,
+          "word": "payable",
+          "meaning": "지불해야 하는"
+        },
+        {
+          "day": "Day 27",
+          "no": 1,
+          "word": "lucrative",
+          "meaning": "수익성 있는, 돈이 되는"
+        },
+        {
+          "day": "Day 27",
+          "no": 2,
+          "word": "inherently",
+          "meaning": "본질적으로"
+        },
+        {
+          "day": "Day 27",
+          "no": 3,
+          "word": "secure",
+          "meaning": "확보하다, 묶어 매다"
+        },
+        {
+          "day": "Day 27",
+          "no": 4,
+          "word": "foreseeable",
+          "meaning": "예견할 수 있는"
+        },
+        {
+          "day": "Day 27",
+          "no": 5,
+          "word": "property",
+          "meaning": "재산"
+        },
+        {
+          "day": "Day 27",
+          "no": 6,
+          "word": "on behalf of",
+          "meaning": "~를 대신하여"
+        },
+        {
+          "day": "Day 27",
+          "no": 7,
+          "word": "consent",
+          "meaning": "동의, 허락"
+        },
+        {
+          "day": "Day 27",
+          "no": 8,
+          "word": "speculation",
+          "meaning": "추측"
+        },
+        {
+          "day": "Day 27",
+          "no": 9,
+          "word": "entrepreneur",
+          "meaning": "사업가"
+        },
+        {
+          "day": "Day 27",
+          "no": 10,
+          "word": "shareholder",
+          "meaning": "주주"
+        },
+        {
+          "day": "Day 27",
+          "no": 11,
+          "word": "bond",
+          "meaning": "채권"
+        },
+        {
+          "day": "Day 27",
+          "no": 12,
+          "word": "depreciation",
+          "meaning": "가치 하락"
+        },
+        {
+          "day": "Day 27",
+          "no": 13,
+          "word": "prevalent",
+          "meaning": "유행하고 있는, 만연된"
+        },
+        {
+          "day": "Day 27",
+          "no": 14,
+          "word": "yield",
+          "meaning": "가져오다, 산출하다"
+        },
+        {
+          "day": "Day 28",
+          "no": 1,
+          "word": "furnished",
+          "meaning": "가구가 비치된"
+        },
+        {
+          "day": "Day 28",
+          "no": 2,
+          "word": "residence",
+          "meaning": "거주지, 주택"
+        },
+        {
+          "day": "Day 28",
+          "no": 3,
+          "word": "drape",
+          "meaning": "장식하다"
+        },
+        {
+          "day": "Day 28",
+          "no": 4,
+          "word": "unoccupied",
+          "meaning": "비어있는"
+        },
+        {
+          "day": "Day 28",
+          "no": 5,
+          "word": "presently",
+          "meaning": "현재"
+        },
+        {
+          "day": "Day 28",
+          "no": 6,
+          "word": "abandon",
+          "meaning": "그만두다, 버리다"
+        },
+        {
+          "day": "Day 28",
+          "no": 7,
+          "word": "contractor",
+          "meaning": "계약자"
+        },
+        {
+          "day": "Day 28",
+          "no": 8,
+          "word": "district",
+          "meaning": "지역, 지구"
+        },
+        {
+          "day": "Day 28",
+          "no": 9,
+          "word": "compulsory",
+          "meaning": "의무적인"
+        },
+        {
+          "day": "Day 28",
+          "no": 10,
+          "word": "interfere",
+          "meaning": "방해하다, 해치다"
+        },
+        {
+          "day": "Day 28",
+          "no": 11,
+          "word": "enlarge",
+          "meaning": "확장하다, 확대하다"
+        },
+        {
+          "day": "Day 28",
+          "no": 12,
+          "word": "suppose",
+          "meaning": "생각하다, 추측하다"
+        },
+        {
+          "day": "Day 28",
+          "no": 13,
+          "word": "utility",
+          "meaning": "공공시설, 공공요금"
+        },
+        {
+          "day": "Day 29",
+          "no": 1,
+          "word": "conserve",
+          "meaning": "보존하다, 유지하다"
+        },
+        {
+          "day": "Day 29",
+          "no": 2,
+          "word": "forecast",
+          "meaning": "예보"
+        },
+        {
+          "day": "Day 29",
+          "no": 3,
+          "word": "dispose",
+          "meaning": "처분하다, 처리하다"
+        },
+        {
+          "day": "Day 29",
+          "no": 4,
+          "word": "organization",
+          "meaning": "단체"
+        },
+        {
+          "day": "Day 29",
+          "no": 5,
+          "word": "discharge",
+          "meaning": "방출하다"
+        },
+        {
+          "day": "Day 29",
+          "no": 6,
+          "word": "deplete",
+          "meaning": "고갈시키다"
+        },
+        {
+          "day": "Day 29",
+          "no": 7,
+          "word": "inflict",
+          "meaning": "입히다, 가하다"
+        },
+        {
+          "day": "Day 29",
+          "no": 8,
+          "word": "ecology",
+          "meaning": "생태, 자연환경"
+        },
+        {
+          "day": "Day 30",
+          "no": 1,
+          "word": "operation",
+          "meaning": "운용"
+        },
+        {
+          "day": "Day 30",
+          "no": 2,
+          "word": "cleanliness",
+          "meaning": "청결"
+        },
+        {
+          "day": "Day 30",
+          "no": 3,
+          "word": "transmit",
+          "meaning": "전염시키다"
+        },
+        {
+          "day": "Day 30",
+          "no": 4,
+          "word": "pharmaceutical",
+          "meaning": "제약의"
+        },
+        {
+          "day": "Day 30",
+          "no": 5,
+          "word": "premium",
+          "meaning": "보험료"
+        },
+        {
+          "day": "Day 30",
+          "no": 6,
+          "word": "conscious",
+          "meaning": "알고 있는, 자각하고 있는"
+        },
+        {
+          "day": "Day 30",
+          "no": 7,
+          "word": "susceptible",
+          "meaning": "~에 감염되기 쉬운"
+        }
+      ]
+    },
+    "pv": {
+      "label": "구동사 단어장",
+      "description": "구동사 단어장",
+      "items": [
+        {
+          "no": 1,
+          "phrase": "add up to something",
+          "meaning": "합계가 ~이 되다",
+          "meaning_en": "equal",
+          "example": "Your purchases add up to $24."
+        },
+        {
+          "no": 2,
+          "phrase": "ask around",
+          "meaning": "여기저기 물어보다",
+          "meaning_en": "ask many people the same question",
+          "example": "I asked around but nobody has seen my wallet."
+        },
+        {
+          "no": 3,
+          "phrase": "ask somebody out",
+          "meaning": "~에게 데이트를 신청하다",
+          "meaning_en": "invite on a date",
+          "example": "Brian asked Judy out to dinner."
+        },
+        {
+          "no": 4,
+          "phrase": "back something up",
+          "meaning": "후진하다",
+          "meaning_en": "reverse",
+          "example": "You'll have to back up your car so that I can get out."
+        },
+        {
+          "no": 5,
+          "phrase": "back somebody up",
+          "meaning": "~를 지지하다, 편들다",
+          "meaning_en": "support",
+          "example": "My wife backed me up over my decision to quit my job."
+        },
+        {
+          "no": 6,
+          "phrase": "blow up",
+          "meaning": "폭발하다",
+          "meaning_en": "explode",
+          "example": "The racing car blew up after it crashed into the fence."
+        },
+        {
+          "no": 7,
+          "phrase": "blow something up",
+          "meaning": "바람을 넣어 부풀리다",
+          "meaning_en": "add air",
+          "example": "We have to blow 50 balloons up for the party."
+        },
+        {
+          "no": 8,
+          "phrase": "break down",
+          "meaning": "고장 나다",
+          "meaning_en": "stop functioning (vehicle, machine)",
+          "example": "Our car broke down at the side of the highway in the snowstorm."
+        },
+        {
+          "no": 9,
+          "phrase": "break down",
+          "meaning": "(감정이) 무너지다, 주저앉아 울다",
+          "meaning_en": "get upset",
+          "example": "The woman broke down when the police told her that her son had died."
+        },
+        {
+          "no": 10,
+          "phrase": "break something down",
+          "meaning": "잘게 나누다, 세분하다",
+          "meaning_en": "divide into smaller parts",
+          "example": "Our teacher broke the final project down into three separate parts."
+        },
+        {
+          "no": 11,
+          "phrase": "break in",
+          "meaning": "(건물에) 침입하다",
+          "meaning_en": "force entry to a building",
+          "example": "Somebody broke in last night and stole our stereo."
+        },
+        {
+          "no": 12,
+          "phrase": "break into something",
+          "meaning": "~에 강제로 들어가다",
+          "meaning_en": "enter forcibly",
+          "example": "The firemen had to break into the room to rescue the children."
+        },
+        {
+          "no": 13,
+          "phrase": "break something in",
+          "meaning": "길들이다",
+          "meaning_en": "wear something a few times so that it doesn't look/feel new",
+          "example": "I need to break these shoes in before we run next week."
+        },
+        {
+          "no": 14,
+          "phrase": "break in",
+          "meaning": "말을 끊고 끼어들다",
+          "meaning_en": "interrupt",
+          "example": "The TV station broke in to report the news of the president's death."
+        },
+        {
+          "no": 15,
+          "phrase": "break up",
+          "meaning": "헤어지다",
+          "meaning_en": "end a relationship",
+          "example": "My boyfriend and I broke up before I moved to America."
+        },
+        {
+          "no": 16,
+          "phrase": "break up",
+          "meaning": "웃음을 터뜨리다",
+          "meaning_en": "start laughing (informal)",
+          "example": "The kids just broke up as soon as the clown started talking."
+        },
+        {
+          "no": 17,
+          "phrase": "break out",
+          "meaning": "탈출하다",
+          "meaning_en": "escape",
+          "example": "The prisoners broke out of jail when the guards weren't looking."
+        },
+        {
+          "no": 18,
+          "phrase": "break out in something",
+          "meaning": "(발진 등이) 나다",
+          "meaning_en": "develop a skin condition",
+          "example": "I broke out in a rash after our camping trip."
+        },
+        {
+          "no": 19,
+          "phrase": "bring somebody down",
+          "meaning": "~를 우울하게 만들다",
+          "meaning_en": "make unhappy",
+          "example": "This sad music is bringing me down."
+        },
+        {
+          "no": 20,
+          "phrase": "bring somebody up",
+          "meaning": "~를 키우다, 양육하다",
+          "meaning_en": "raise a child",
+          "example": "My grandparents brought me up after my parents died."
+        },
+        {
+          "no": 21,
+          "phrase": "bring something up",
+          "meaning": "(화제를) 꺼내다",
+          "meaning_en": "start talking about a subject",
+          "example": "My mother walks out of the room when my father brings up sports."
+        },
+        {
+          "no": 22,
+          "phrase": "bring something up",
+          "meaning": "토하다",
+          "meaning_en": "vomit",
+          "example": "He drank so much that he brought his dinner up in the toilet."
+        },
+        {
+          "no": 23,
+          "phrase": "call around",
+          "meaning": "여기저기 전화해 보다",
+          "meaning_en": "phone many different places/people",
+          "example": "We called around but we weren't able to find the car part we needed."
+        },
+        {
+          "no": 24,
+          "phrase": "call somebody back",
+          "meaning": "~에게 답신 전화를 하다",
+          "meaning_en": "return a phone call",
+          "example": "I called the company back but the offices were closed for the weekend."
+        },
+        {
+          "no": 25,
+          "phrase": "call something off",
+          "meaning": "취소하다",
+          "meaning_en": "cancel",
+          "example": "Jason called the wedding off because he wasn't in love with his fiancé."
+        },
+        {
+          "no": 26,
+          "phrase": "call on somebody",
+          "meaning": "~를 지목하다, 시키다",
+          "meaning_en": "ask for an answer or opinion",
+          "example": "The professor called on me for question 1."
+        },
+        {
+          "no": 27,
+          "phrase": "call on somebody",
+          "meaning": "~를 방문하다",
+          "meaning_en": "visit somebody",
+          "example": "We called on you last night but you weren't home."
+        },
+        {
+          "no": 28,
+          "phrase": "call somebody up",
+          "meaning": "~에게 전화하다",
+          "meaning_en": "phone",
+          "example": "Give me your phone number and I will call you up when we are in town."
+        },
+        {
+          "no": 29,
+          "phrase": "calm down",
+          "meaning": "진정하다",
+          "meaning_en": "relax after being angry",
+          "example": "You are still mad. You need to calm down before you drive the car."
+        },
+        {
+          "no": 30,
+          "phrase": "not care for somebody/something",
+          "meaning": "~를 좋아하지 않다",
+          "meaning_en": "not like (formal)",
+          "example": "I don't care for his behaviour."
+        },
+        {
+          "no": 31,
+          "phrase": "catch up",
+          "meaning": "따라잡다",
+          "meaning_en": "get to the same point as somebody else",
+          "example": "You'll have to run faster than that if you want to catch up with Marty."
+        },
+        {
+          "no": 32,
+          "phrase": "check in",
+          "meaning": "체크인하다, 탑승 수속을 하다",
+          "meaning_en": "arrive and register at a hotel or airport",
+          "example": "We will get the hotel keys when we check in."
+        },
+        {
+          "no": 33,
+          "phrase": "check out",
+          "meaning": "체크아웃하다",
+          "meaning_en": "leave a hotel",
+          "example": "You have to check out of the hotel before 11:00 AM."
+        },
+        {
+          "no": 34,
+          "phrase": "check somebody/something out",
+          "meaning": "면밀히 조사하다",
+          "meaning_en": "look at carefully, investigate",
+          "example": "The company checks out all new employees."
+        },
+        {
+          "no": 35,
+          "phrase": "check out somebody/something",
+          "meaning": "한번 보다, 구경하다",
+          "meaning_en": "look at (informal)",
+          "example": "Check out the crazy hair on that guy!"
+        },
+        {
+          "no": 36,
+          "phrase": "cheer up",
+          "meaning": "기운이 나다",
+          "meaning_en": "become happier",
+          "example": "She cheered up when she heard the good news."
+        },
+        {
+          "no": 37,
+          "phrase": "cheer somebody up",
+          "meaning": "~를 기운 나게 하다",
+          "meaning_en": "make happier",
+          "example": "I brought you some flowers to cheer you up."
+        },
+        {
+          "no": 38,
+          "phrase": "chip in",
+          "meaning": "(돈·힘을) 보태다",
+          "meaning_en": "help",
+          "example": "If everyone chips in we can get the kitchen painted by noon."
+        },
+        {
+          "no": 39,
+          "phrase": "clean something up",
+          "meaning": "치우다, 깨끗이 정리하다",
+          "meaning_en": "tidy, clean",
+          "example": "Please clean up your bedroom before you go outside."
+        },
+        {
+          "no": 40,
+          "phrase": "come across something",
+          "meaning": "우연히 발견하다",
+          "meaning_en": "find unexpectedly",
+          "example": "I came across these old photos when I was tidying the closet."
+        },
+        {
+          "no": 41,
+          "phrase": "come apart",
+          "meaning": "분리되다, 떨어지다",
+          "meaning_en": "separate",
+          "example": "The top and bottom come apart if you pull hard enough."
+        },
+        {
+          "no": 42,
+          "phrase": "come down with something",
+          "meaning": "(병에) 걸리다",
+          "meaning_en": "become sick",
+          "example": "My nephew came down with chicken pox this weekend."
+        },
+        {
+          "no": 43,
+          "phrase": "come forward",
+          "meaning": "자진해서 나서다",
+          "meaning_en": "volunteer for a task or to give evidence",
+          "example": "The woman came forward with her husband's finger prints."
+        },
+        {
+          "no": 44,
+          "phrase": "come from some place",
+          "meaning": "~에서 유래하다",
+          "meaning_en": "originate in",
+          "example": "The art of origami comes from Asia."
+        },
+        {
+          "no": 45,
+          "phrase": "count on somebody/something",
+          "meaning": "~를 믿다, 의지하다",
+          "meaning_en": "rely on",
+          "example": "I am counting on you to make dinner while I am out."
+        },
+        {
+          "no": 46,
+          "phrase": "cross something out",
+          "meaning": "줄을 그어 지우다",
+          "meaning_en": "draw a line through",
+          "example": "Please cross out your old address and write your new one."
+        },
+        {
+          "no": 47,
+          "phrase": "cut back on something",
+          "meaning": "~를 줄이다",
+          "meaning_en": "consume less",
+          "example": "My doctor wants me to cut back on sweets and fatty foods."
+        },
+        {
+          "no": 48,
+          "phrase": "cut something down",
+          "meaning": "베어 넘어뜨리다",
+          "meaning_en": "make something fall to the ground",
+          "example": "We had to cut the old tree in our yard down after the storm."
+        },
+        {
+          "no": 49,
+          "phrase": "cut in",
+          "meaning": "말을 끊고 끼어들다",
+          "meaning_en": "interrupt",
+          "example": "Your father cut in while I was dancing with your uncle."
+        },
+        {
+          "no": 50,
+          "phrase": "cut in",
+          "meaning": "(차가) 끼어들다",
+          "meaning_en": "pull in too closely in front of another vehicle",
+          "example": "The bus driver got angry when that car cut in."
+        },
+        {
+          "no": 51,
+          "phrase": "cut in",
+          "meaning": "(기계가) 작동하기 시작하다",
+          "meaning_en": "start operating (of an engine or electrical device)",
+          "example": "The air conditioner cuts in when the temperature gets to 22°C."
+        },
+        {
+          "no": 52,
+          "phrase": "cut something off",
+          "meaning": "잘라내다",
+          "meaning_en": "remove with something sharp",
+          "example": "The doctors cut off his leg because it was severely injured."
+        },
+        {
+          "no": 53,
+          "phrase": "cut something off",
+          "meaning": "공급을 끊다",
+          "meaning_en": "stop providing",
+          "example": "The phone company cut off our phone because we didn't pay the bill."
+        },
+        {
+          "no": 54,
+          "phrase": "cut somebody off",
+          "meaning": "상속에서 제외하다",
+          "meaning_en": "take out of a will",
+          "example": "My grandparents cut my father off when he remarried."
+        },
+        {
+          "no": 55,
+          "phrase": "cut something out",
+          "meaning": "오려내다",
+          "meaning_en": "remove part of something (usually with scissors and paper)",
+          "example": "I cut this ad out of the newspaper."
+        },
+        {
+          "no": 56,
+          "phrase": "do somebody/something over",
+          "meaning": "두들겨 패다, 털다",
+          "meaning_en": "beat up, ransack (BrE, informal)",
+          "example": "He's lucky to be alive. His shop was done over by a street gang."
+        },
+        {
+          "no": 57,
+          "phrase": "do something over",
+          "meaning": "다시 하다",
+          "meaning_en": "do again (AmE)",
+          "example": "My teacher wants me to do my essay over because she doesn't like my topic."
+        },
+        {
+          "no": 58,
+          "phrase": "do away with something",
+          "meaning": "없애다, 폐지하다",
+          "meaning_en": "discard",
+          "example": "It's time to do away with all of these old tax records."
+        },
+        {
+          "no": 59,
+          "phrase": "do something up",
+          "meaning": "잠그다, 여미다",
+          "meaning_en": "fasten, close",
+          "example": "Do your coat up before you go outside. It's snowing!"
+        },
+        {
+          "no": 60,
+          "phrase": "dress up",
+          "meaning": "차려입다",
+          "meaning_en": "wear nice clothing",
+          "example": "It's a fancy restaurant so we have to dress up."
+        },
+        {
+          "no": 61,
+          "phrase": "drop back",
+          "meaning": "뒤로 처지다",
+          "meaning_en": "move back in a position/group",
+          "example": "Andrea dropped back to third place when she fell off her bike."
+        },
+        {
+          "no": 62,
+          "phrase": "drop in / by / over",
+          "meaning": "불쑥 들르다",
+          "meaning_en": "come without an appointment",
+          "example": "I might drop in/by/over for tea sometime this week."
+        },
+        {
+          "no": 63,
+          "phrase": "drop somebody/something off",
+          "meaning": "내려주다, 갖다 놓다",
+          "meaning_en": "take somebody/something somewhere and leave them/it there",
+          "example": "I have to drop my sister off at work before I come over."
+        },
+        {
+          "no": 64,
+          "phrase": "drop out",
+          "meaning": "중퇴하다, 중도에 그만두다",
+          "meaning_en": "quit a class, school etc",
+          "example": "I dropped out of Science because it was too difficult."
+        },
+        {
+          "no": 65,
+          "phrase": "eat out",
+          "meaning": "외식하다",
+          "meaning_en": "eat at a restaurant",
+          "example": "I don't feel like cooking tonight. Let's eat out."
+        },
+        {
+          "no": 66,
+          "phrase": "end up",
+          "meaning": "결국 ~하게 되다",
+          "meaning_en": "eventually reach/do/decide",
+          "example": "We ended up renting a movie instead of going to the theatre."
+        },
+        {
+          "no": 67,
+          "phrase": "fall apart",
+          "meaning": "산산이 부서지다",
+          "meaning_en": "break into pieces",
+          "example": "My new dress fell apart in the washing machine."
+        },
+        {
+          "no": 68,
+          "phrase": "fall down",
+          "meaning": "넘어지다, 떨어지다",
+          "meaning_en": "fall to the ground",
+          "example": "The picture that you hung up last night fell down this morning."
+        },
+        {
+          "no": 69,
+          "phrase": "fall out",
+          "meaning": "(안에서) 빠져 떨어지다",
+          "meaning_en": "separate from an interior",
+          "example": "The money must have fallen out of my pocket."
+        },
+        {
+          "no": 70,
+          "phrase": "fall out",
+          "meaning": "(머리카락·이가) 빠지다",
+          "meaning_en": "(of hair, teeth) become loose and unattached",
+          "example": "His hair started to fall out when he was only 35."
+        },
+        {
+          "no": 71,
+          "phrase": "figure something out",
+          "meaning": "알아내다, 이해하다",
+          "meaning_en": "understand, find the answer",
+          "example": "I need to figure out how to fit the piano and the bookshelf in this room."
+        },
+        {
+          "no": 72,
+          "phrase": "fill something in",
+          "meaning": "(양식을) 기입하다",
+          "meaning_en": "to write information in blanks, as on a form (BrE)",
+          "example": "Please fill in the form with your name, address, and phone number."
+        },
+        {
+          "no": 73,
+          "phrase": "fill something out",
+          "meaning": "(양식을) 작성하다",
+          "meaning_en": "to write information in blanks, as on a form (AmE)",
+          "example": "The form must be filled out in capital letters."
+        },
+        {
+          "no": 74,
+          "phrase": "fill something up",
+          "meaning": "가득 채우다",
+          "meaning_en": "fill to the top",
+          "example": "I always fill the water jug up when it is empty."
+        },
+        {
+          "no": 75,
+          "phrase": "find out",
+          "meaning": "알아내다, 알게 되다",
+          "meaning_en": "discover",
+          "example": "We don't know where he lives. How can we find out?"
+        },
+        {
+          "no": 76,
+          "phrase": "find something out",
+          "meaning": "~을 알아내다",
+          "meaning_en": "discover",
+          "example": "We tried to keep the time of the party a secret, but Samantha found it out."
+        },
+        {
+          "no": 77,
+          "phrase": "get something across / over",
+          "meaning": "이해시키다, 전달하다",
+          "meaning_en": "communicate, make understandable",
+          "example": "I tried to get my point across/over to the judge but she wouldn't listen."
+        },
+        {
+          "no": 78,
+          "phrase": "get along / on",
+          "meaning": "사이좋게 지내다",
+          "meaning_en": "like each other",
+          "example": "I was surprised how well my new girlfriend and my sister got along/on."
+        },
+        {
+          "no": 79,
+          "phrase": "get around",
+          "meaning": "돌아다니다",
+          "meaning_en": "have mobility",
+          "example": "My grandfather can get around fine in his new wheelchair."
+        },
+        {
+          "no": 80,
+          "phrase": "get away",
+          "meaning": "휴가를 떠나다",
+          "meaning_en": "go on a vacation",
+          "example": "We worked so hard this year that we had to get away for a week."
+        },
+        {
+          "no": 81,
+          "phrase": "get away with something",
+          "meaning": "들키지 않고 넘어가다, 처벌을 면하다",
+          "meaning_en": "do without being noticed or punished",
+          "example": "Jason always gets away with cheating in his maths tests."
+        },
+        {
+          "no": 82,
+          "phrase": "get back",
+          "meaning": "돌아오다",
+          "meaning_en": "return",
+          "example": "We got back from our vacation last week."
+        },
+        {
+          "no": 83,
+          "phrase": "get something back",
+          "meaning": "~을 돌려받다",
+          "meaning_en": "receive something you had before",
+          "example": "Liz finally got her Science notes back from my roommate."
+        },
+        {
+          "no": 84,
+          "phrase": "get back at somebody",
+          "meaning": "~에게 복수하다",
+          "meaning_en": "retaliate, take revenge",
+          "example": "My sister got back at me for stealing her shoes. She stole my favourite hat."
+        },
+        {
+          "no": 85,
+          "phrase": "get back into something",
+          "meaning": "~에 다시 재미를 붙이다",
+          "meaning_en": "become interested in something again",
+          "example": "I finally got back into my novel and finished it."
+        },
+        {
+          "no": 86,
+          "phrase": "get on something",
+          "meaning": "(차량에) 타다",
+          "meaning_en": "step onto a vehicle",
+          "example": "We're going to freeze out here if you don't let us get on the bus."
+        },
+        {
+          "no": 87,
+          "phrase": "get over something",
+          "meaning": "(병·상실에서) 회복하다",
+          "meaning_en": "recover from an illness, loss, difficulty",
+          "example": "I just got over the flu and now my sister has it."
+        },
+        {
+          "no": 88,
+          "phrase": "get over something",
+          "meaning": "(문제를) 극복하다",
+          "meaning_en": "overcome a problem",
+          "example": "The company will have to close if it can't get over the new regulations."
+        },
+        {
+          "no": 89,
+          "phrase": "get round to something",
+          "meaning": "짬을 내어 ~하다",
+          "meaning_en": "finally find time to do (AmE: get around to something)",
+          "example": "I don't know when I am going to get round to writing the thank you cards."
+        },
+        {
+          "no": 90,
+          "phrase": "get together",
+          "meaning": "모이다",
+          "meaning_en": "meet (usually for social reasons)",
+          "example": "Let's get together for a BBQ this weekend."
+        },
+        {
+          "no": 91,
+          "phrase": "get up",
+          "meaning": "잠자리에서 일어나다",
+          "meaning_en": "get out of bed",
+          "example": "I got up early today to study for my exam."
+        },
+        {
+          "no": 92,
+          "phrase": "get up",
+          "meaning": "일어서다",
+          "meaning_en": "stand",
+          "example": "You should get up and give the elderly man your seat."
+        },
+        {
+          "no": 93,
+          "phrase": "give somebody away",
+          "meaning": "~의 비밀을 폭로하다, 밀고하다",
+          "meaning_en": "reveal hidden information about somebody",
+          "example": "His wife gave him away to the police."
+        },
+        {
+          "no": 94,
+          "phrase": "give somebody away",
+          "meaning": "신부를 신랑에게 인도하다",
+          "meaning_en": "take the bride to the altar",
+          "example": "My father gave me away at my wedding."
+        },
+        {
+          "no": 95,
+          "phrase": "give something away",
+          "meaning": "비밀을 누설하다",
+          "meaning_en": "ruin a secret",
+          "example": "My little sister gave the surprise party away by accident."
+        },
+        {
+          "no": 96,
+          "phrase": "give something away",
+          "meaning": "거저 주다, 나눠 주다",
+          "meaning_en": "give something to somebody for free",
+          "example": "The library was giving away old books on Friday."
+        },
+        {
+          "no": 97,
+          "phrase": "give something back",
+          "meaning": "돌려주다",
+          "meaning_en": "return a borrowed item",
+          "example": "I have to give these skates back to Franz before his hockey game."
+        },
+        {
+          "no": 98,
+          "phrase": "give in",
+          "meaning": "마지못해 굴복하다",
+          "meaning_en": "reluctantly stop fighting or arguing",
+          "example": "My boyfriend didn't want to go to the ballet, but he finally gave in."
+        },
+        {
+          "no": 99,
+          "phrase": "give something out",
+          "meaning": "여러 사람에게 나눠 주다",
+          "meaning_en": "give to many people (usually at no cost)",
+          "example": "They were giving out free perfume samples at the department store."
+        },
+        {
+          "no": 100,
+          "phrase": "give something up",
+          "meaning": "(습관을) 끊다",
+          "meaning_en": "quit a habit",
+          "example": "I am giving up smoking as of January 1st."
+        },
+        {
+          "no": 101,
+          "phrase": "give up",
+          "meaning": "포기하다",
+          "meaning_en": "stop trying",
+          "example": "My maths homework was too difficult so I gave up."
+        },
+        {
+          "no": 102,
+          "phrase": "go after somebody",
+          "meaning": "~를 뒤쫓다",
+          "meaning_en": "follow somebody",
+          "example": "My brother tried to go after the thief in his car."
+        },
+        {
+          "no": 103,
+          "phrase": "go after something",
+          "meaning": "~를 얻으려 애쓰다",
+          "meaning_en": "try to achieve something",
+          "example": "I went after my dream and now I am a published writer."
+        },
+        {
+          "no": 104,
+          "phrase": "go against somebody",
+          "meaning": "~와 맞서다, 겨루다",
+          "meaning_en": "compete, oppose",
+          "example": "We are going against the best soccer team in the city tonight."
+        },
+        {
+          "no": 105,
+          "phrase": "go ahead",
+          "meaning": "먼저 하다, 진행하다",
+          "meaning_en": "start, proceed",
+          "example": "Please go ahead and eat before the food gets cold."
+        },
+        {
+          "no": 106,
+          "phrase": "go back",
+          "meaning": "돌아가다",
+          "meaning_en": "return to a place",
+          "example": "I have to go back home and get my lunch."
+        },
+        {
+          "no": 107,
+          "phrase": "go out",
+          "meaning": "외출하다",
+          "meaning_en": "leave home to go on a social event",
+          "example": "We're going out for dinner tonight."
+        },
+        {
+          "no": 108,
+          "phrase": "go out with somebody",
+          "meaning": "~와 사귀다",
+          "meaning_en": "date",
+          "example": "Jesse has been going out with Luke since they met last winter."
+        },
+        {
+          "no": 109,
+          "phrase": "go over something",
+          "meaning": "검토하다",
+          "meaning_en": "review",
+          "example": "Please go over your answers before you submit your test."
+        },
+        {
+          "no": 110,
+          "phrase": "go over",
+          "meaning": "(가까운 곳에) 들르다",
+          "meaning_en": "visit somebody nearby",
+          "example": "I haven't seen Tina for a long time. I think I'll go over for an hour or two."
+        },
+        {
+          "no": 111,
+          "phrase": "go without something",
+          "meaning": "~없이 지내다",
+          "meaning_en": "suffer lack or deprivation",
+          "example": "When I was young, we went without winter boots."
+        },
+        {
+          "no": 112,
+          "phrase": "grow apart",
+          "meaning": "사이가 멀어지다",
+          "meaning_en": "stop being friends over time",
+          "example": "My best friend and I grew apart after she changed schools."
+        },
+        {
+          "no": 113,
+          "phrase": "grow back",
+          "meaning": "다시 자라다",
+          "meaning_en": "regrow",
+          "example": "My roses grew back this summer."
+        },
+        {
+          "no": 114,
+          "phrase": "grow into something",
+          "meaning": "자라서 ~에 맞게 되다",
+          "meaning_en": "grow big enough to fit",
+          "example": "This bike is too big for him now, but he should grow into it by next year."
+        },
+        {
+          "no": 115,
+          "phrase": "grow out of something",
+          "meaning": "자라서 못 쓰게 되다",
+          "meaning_en": "get too big for",
+          "example": "Elizabeth needs a new pair of shoes because she has grown out of her old ones."
+        },
+        {
+          "no": 116,
+          "phrase": "grow up",
+          "meaning": "자라다, 어른이 되다",
+          "meaning_en": "become an adult",
+          "example": "When Jack grows up he wants to be a fireman."
+        },
+        {
+          "no": 117,
+          "phrase": "hand something down",
+          "meaning": "물려주다",
+          "meaning_en": "give something used to somebody else",
+          "example": "I handed my old comic books down to my little cousin."
+        },
+        {
+          "no": 118,
+          "phrase": "hand something in",
+          "meaning": "제출하다",
+          "meaning_en": "submit",
+          "example": "I have to hand in my essay by Friday."
+        },
+        {
+          "no": 119,
+          "phrase": "hand something out",
+          "meaning": "나눠 주다, 배포하다",
+          "meaning_en": "to distribute to a group of people",
+          "example": "We will hand out the invitations at the door."
+        },
+        {
+          "no": 120,
+          "phrase": "hand something over",
+          "meaning": "(마지못해) 넘겨주다",
+          "meaning_en": "give (usually unwillingly)",
+          "example": "The police asked the man to hand over his wallet and his weapons."
+        },
+        {
+          "no": 121,
+          "phrase": "hang in",
+          "meaning": "버티다, 견디다",
+          "meaning_en": "stay positive (informal)",
+          "example": "Hang in there. I'm sure you'll find a job very soon."
+        },
+        {
+          "no": 122,
+          "phrase": "hang on",
+          "meaning": "잠깐 기다리다",
+          "meaning_en": "wait a short time (informal)",
+          "example": "Hang on while I grab my coat and shoes!"
+        },
+        {
+          "no": 123,
+          "phrase": "hang out",
+          "meaning": "시간을 보내며 놀다",
+          "meaning_en": "spend time relaxing (informal)",
+          "example": "Instead of going to the party we are just going to hang out at my place."
+        },
+        {
+          "no": 124,
+          "phrase": "hang up",
+          "meaning": "전화를 끊다",
+          "meaning_en": "end a phone call",
+          "example": "He didn't say goodbye before he hung up."
+        },
+        {
+          "no": 125,
+          "phrase": "hold somebody/something back",
+          "meaning": "못 가게 막다, 저지하다",
+          "meaning_en": "prevent from doing/going",
+          "example": "I had to hold my dog back because there was a cat in the park."
+        },
+        {
+          "no": 126,
+          "phrase": "hold something back",
+          "meaning": "(감정을) 억누르다",
+          "meaning_en": "hide an emotion",
+          "example": "Jamie held back his tears at his grandfather's funeral."
+        },
+        {
+          "no": 127,
+          "phrase": "hold on",
+          "meaning": "잠시 기다리다",
+          "meaning_en": "wait a short time",
+          "example": "Please hold on while I transfer you to the Sales Department."
+        },
+        {
+          "no": 128,
+          "phrase": "hold onto somebody/something",
+          "meaning": "꽉 붙잡다",
+          "meaning_en": "hold firmly using your hands or arms",
+          "example": "Hold onto your hat because it's very windy outside."
+        },
+        {
+          "no": 129,
+          "phrase": "hold somebody/something up",
+          "meaning": "강도질하다",
+          "meaning_en": "rob",
+          "example": "A man in a black mask held the bank up this morning."
+        },
+        {
+          "no": 130,
+          "phrase": "keep on doing something",
+          "meaning": "계속 ~하다",
+          "meaning_en": "continue doing",
+          "example": "Keep on stirring until the liquid comes to a boil."
+        },
+        {
+          "no": 131,
+          "phrase": "keep something from somebody",
+          "meaning": "~에게 숨기다",
+          "meaning_en": "not tell",
+          "example": "We kept our relationship from our parents for two years."
+        },
+        {
+          "no": 132,
+          "phrase": "keep somebody/something out",
+          "meaning": "들어오지 못하게 하다",
+          "meaning_en": "stop from entering",
+          "example": "Try to keep the wet dog out of the living room."
+        },
+        {
+          "no": 133,
+          "phrase": "keep something up",
+          "meaning": "계속 유지하다",
+          "meaning_en": "continue at the same rate",
+          "example": "If you keep those results up you will get into a great college."
+        },
+        {
+          "no": 134,
+          "phrase": "let somebody down",
+          "meaning": "실망시키다",
+          "meaning_en": "fail to support or help, disappoint",
+          "example": "I need you to be on time. Don't let me down this time."
+        },
+        {
+          "no": 135,
+          "phrase": "let somebody in",
+          "meaning": "들여보내다",
+          "meaning_en": "allow to enter",
+          "example": "Can you let the cat in before you go to school?"
+        },
+        {
+          "no": 136,
+          "phrase": "log in (or on)",
+          "meaning": "로그인하다",
+          "meaning_en": "sign in (to a website, database etc)",
+          "example": "I can't log in to Facebook because I've forgotten my password."
+        },
+        {
+          "no": 137,
+          "phrase": "log out (or off)",
+          "meaning": "로그아웃하다",
+          "meaning_en": "sign out (of a website, database etc)",
+          "example": "If you don't log off somebody could get into your account."
+        },
+        {
+          "no": 138,
+          "phrase": "look after somebody/something",
+          "meaning": "돌보다",
+          "meaning_en": "take care of",
+          "example": "I have to look after my sick grandmother."
+        },
+        {
+          "no": 139,
+          "phrase": "look down on somebody",
+          "meaning": "얕보다, 무시하다",
+          "meaning_en": "think less of, consider inferior",
+          "example": "Ever since we stole that chocolate bar your dad has looked down on me."
+        },
+        {
+          "no": 140,
+          "phrase": "look for somebody/something",
+          "meaning": "찾다",
+          "meaning_en": "try to find",
+          "example": "I'm looking for a red dress for the wedding."
+        },
+        {
+          "no": 141,
+          "phrase": "look forward to something",
+          "meaning": "~를 기대하다",
+          "meaning_en": "be excited about the future",
+          "example": "I'm looking forward to the Christmas break."
+        },
+        {
+          "no": 142,
+          "phrase": "look into something",
+          "meaning": "조사하다, 알아보다",
+          "meaning_en": "investigate",
+          "example": "We are going to look into the price of snowboards today."
+        },
+        {
+          "no": 143,
+          "phrase": "look out",
+          "meaning": "조심하다",
+          "meaning_en": "be careful, vigilant, and take notice",
+          "example": "Look out! That car's going to hit you!"
+        },
+        {
+          "no": 144,
+          "phrase": "look out for somebody/something",
+          "meaning": "~를 각별히 살피다",
+          "meaning_en": "be especially vigilant for",
+          "example": "Don't forget to look out for snakes on the hiking trail."
+        },
+        {
+          "no": 145,
+          "phrase": "look something over",
+          "meaning": "훑어보다, 점검하다",
+          "meaning_en": "check, examine",
+          "example": "Can you look over my essay for spelling mistakes?"
+        },
+        {
+          "no": 146,
+          "phrase": "look something up",
+          "meaning": "(자료에서) 찾아보다",
+          "meaning_en": "search and find information in a reference book or database",
+          "example": "We can look her phone number up on the Internet."
+        },
+        {
+          "no": 147,
+          "phrase": "look up to somebody",
+          "meaning": "~를 존경하다",
+          "meaning_en": "have a lot of respect for",
+          "example": "My little sister has always looked up to me."
+        },
+        {
+          "no": 148,
+          "phrase": "make something up",
+          "meaning": "지어내다, 꾸며내다",
+          "meaning_en": "invent, lie about something",
+          "example": "Josie made up a story about why we were late."
+        },
+        {
+          "no": 149,
+          "phrase": "make up",
+          "meaning": "화해하다",
+          "meaning_en": "forgive each other",
+          "example": "We were angry last night, but we made up at breakfast."
+        },
+        {
+          "no": 150,
+          "phrase": "make somebody up",
+          "meaning": "~에게 화장을 해 주다",
+          "meaning_en": "apply cosmetics to",
+          "example": "My sisters made me up for my graduation party."
+        },
+        {
+          "no": 151,
+          "phrase": "mix something up",
+          "meaning": "혼동하다, 헷갈리다",
+          "meaning_en": "confuse two or more things",
+          "example": "I mixed up the twins' names again!"
+        },
+        {
+          "no": 152,
+          "phrase": "pass away",
+          "meaning": "돌아가시다, 사망하다",
+          "meaning_en": "die",
+          "example": "His uncle passed away last night after a long illness."
+        },
+        {
+          "no": 153,
+          "phrase": "pass out",
+          "meaning": "기절하다",
+          "meaning_en": "faint",
+          "example": "It was so hot in the church that an elderly lady passed out."
+        },
+        {
+          "no": 154,
+          "phrase": "pass something out",
+          "meaning": "여러 사람에게 나눠 주다",
+          "meaning_en": "give the same thing to many people",
+          "example": "The professor passed the textbooks out before class."
+        },
+        {
+          "no": 155,
+          "phrase": "pass something up",
+          "meaning": "(기회를) 거절하다, 놓치다",
+          "meaning_en": "decline (usually something good)",
+          "example": "I passed up the job because I am afraid of change."
+        },
+        {
+          "no": 156,
+          "phrase": "pay somebody back",
+          "meaning": "빌린 돈을 갚다",
+          "meaning_en": "return owed money",
+          "example": "Thanks for buying my ticket. I'll pay you back on Friday."
+        },
+        {
+          "no": 157,
+          "phrase": "pay for something",
+          "meaning": "~에 대한 대가를 치르다",
+          "meaning_en": "be punished for doing something bad",
+          "example": "That bully will pay for being mean to my little brother."
+        },
+        {
+          "no": 158,
+          "phrase": "pick something out",
+          "meaning": "고르다",
+          "meaning_en": "choose",
+          "example": "I picked out three sweaters for you to try on."
+        },
+        {
+          "no": 159,
+          "phrase": "point somebody/something out",
+          "meaning": "가리키다, 지적하다",
+          "meaning_en": "indicate with your finger",
+          "example": "I'll point my boyfriend out when he runs by."
+        },
+        {
+          "no": 160,
+          "phrase": "put something down",
+          "meaning": "내려놓다",
+          "meaning_en": "put what you are holding on a surface or floor",
+          "example": "You can put the groceries down on the kitchen counter."
+        },
+        {
+          "no": 161,
+          "phrase": "put somebody down",
+          "meaning": "깎아내리다, 면박을 주다",
+          "meaning_en": "insult, make somebody feel stupid",
+          "example": "The students put the substitute teacher down because his pants were too short."
+        },
+        {
+          "no": 162,
+          "phrase": "put something off",
+          "meaning": "미루다, 연기하다",
+          "meaning_en": "postpone",
+          "example": "We are putting off our trip until January because of the hurricane."
+        },
+        {
+          "no": 163,
+          "phrase": "put something out",
+          "meaning": "(불을) 끄다",
+          "meaning_en": "extinguish",
+          "example": "The neighbours put the fire out before the firemen arrived."
+        },
+        {
+          "no": 164,
+          "phrase": "put something together",
+          "meaning": "조립하다",
+          "meaning_en": "assemble",
+          "example": "I have to put the crib together before the baby arrives."
+        },
+        {
+          "no": 165,
+          "phrase": "put up with somebody/something",
+          "meaning": "참다, 견디다",
+          "meaning_en": "tolerate",
+          "example": "I don't think I can put up with three small children in the car."
+        },
+        {
+          "no": 166,
+          "phrase": "put something on",
+          "meaning": "입다, 착용하다",
+          "meaning_en": "put clothing/accessories on your body",
+          "example": "Don't forget to put on your new earrings for the party."
+        },
+        {
+          "no": 167,
+          "phrase": "run into somebody/something",
+          "meaning": "우연히 마주치다",
+          "meaning_en": "meet unexpectedly",
+          "example": "I ran into an old school-friend at the mall."
+        },
+        {
+          "no": 168,
+          "phrase": "run over somebody/something",
+          "meaning": "(차로) 치다",
+          "meaning_en": "drive a vehicle over a person or thing",
+          "example": "I accidentally ran over your bicycle in the driveway."
+        },
+        {
+          "no": 169,
+          "phrase": "run over / through something",
+          "meaning": "훑어보다, 연습해 보다",
+          "meaning_en": "rehearse, review",
+          "example": "Let's run over/through these lines one more time before the show."
+        },
+        {
+          "no": 170,
+          "phrase": "run away",
+          "meaning": "도망치다, 가출하다",
+          "meaning_en": "leave unexpectedly, escape",
+          "example": "The child ran away from home and has been missing for three days."
+        },
+        {
+          "no": 171,
+          "phrase": "run out",
+          "meaning": "다 떨어지다",
+          "meaning_en": "have none left",
+          "example": "We ran out of shampoo so I had to wash my hair with soap."
+        },
+        {
+          "no": 172,
+          "phrase": "send something back",
+          "meaning": "반송하다, 돌려보내다",
+          "meaning_en": "return (usually by mail)",
+          "example": "My letter got sent back to me because I used the wrong stamp."
+        },
+        {
+          "no": 173,
+          "phrase": "set something up",
+          "meaning": "마련하다, 준비하다",
+          "meaning_en": "arrange, organize",
+          "example": "Our boss set a meeting up with the president of the company."
+        },
+        {
+          "no": 174,
+          "phrase": "set somebody up",
+          "meaning": "함정에 빠뜨리다",
+          "meaning_en": "trick, trap",
+          "example": "The police set up the car thief by using a hidden camera."
+        },
+        {
+          "no": 175,
+          "phrase": "shop around",
+          "meaning": "여러 곳을 비교하며 다니다",
+          "meaning_en": "compare prices",
+          "example": "I want to shop around a little before I decide on these boots."
+        },
+        {
+          "no": 176,
+          "phrase": "show off",
+          "meaning": "뽐내다, 과시하다",
+          "meaning_en": "act extra special for people watching (usually boastfully)",
+          "example": "He always shows off on his skateboard."
+        },
+        {
+          "no": 177,
+          "phrase": "sleep over",
+          "meaning": "남의 집에서 자고 오다",
+          "meaning_en": "stay somewhere for the night (informal)",
+          "example": "You should sleep over tonight if the weather is too bad to drive home."
+        },
+        {
+          "no": 178,
+          "phrase": "sort something out",
+          "meaning": "정리하다, 해결하다",
+          "meaning_en": "organize, resolve a problem",
+          "example": "We need to sort the bills out before the first of the month."
+        },
+        {
+          "no": 179,
+          "phrase": "stick to something",
+          "meaning": "~를 고수하다, 꾸준히 지키다",
+          "meaning_en": "continue doing something, limit yourself to one particular thing",
+          "example": "You will lose weight if you stick to the diet."
+        },
+        {
+          "no": 180,
+          "phrase": "switch something off",
+          "meaning": "(전원을) 끄다",
+          "meaning_en": "stop the energy flow, turn off",
+          "example": "The light's too bright. Could you switch it off."
+        },
+        {
+          "no": 181,
+          "phrase": "switch something on",
+          "meaning": "(전원을) 켜다",
+          "meaning_en": "start the energy flow, turn on",
+          "example": "We heard the news as soon as we switched on the car radio."
+        },
+        {
+          "no": 182,
+          "phrase": "take after somebody",
+          "meaning": "~를 닮다",
+          "meaning_en": "resemble a family member",
+          "example": "I take after my mother. We are both impatient."
+        },
+        {
+          "no": 183,
+          "phrase": "take something apart",
+          "meaning": "분해하다",
+          "meaning_en": "purposely break into pieces",
+          "example": "He took the car brakes apart and found the problem."
+        },
+        {
+          "no": 184,
+          "phrase": "take something back",
+          "meaning": "반품하다, 도로 가져가다",
+          "meaning_en": "return an item",
+          "example": "I have to take our new TV back because it doesn't work."
+        },
+        {
+          "no": 185,
+          "phrase": "take off",
+          "meaning": "이륙하다",
+          "meaning_en": "start to fly",
+          "example": "My plane takes off in five minutes."
+        },
+        {
+          "no": 186,
+          "phrase": "take something off",
+          "meaning": "(옷을) 벗다",
+          "meaning_en": "remove something (usually clothing)",
+          "example": "Take off your socks and shoes and come in the lake!"
+        },
+        {
+          "no": 187,
+          "phrase": "take something out",
+          "meaning": "꺼내다, 내다 버리다",
+          "meaning_en": "remove from a place or thing",
+          "example": "Can you take the garbage out to the street for me?"
+        },
+        {
+          "no": 188,
+          "phrase": "take somebody out",
+          "meaning": "~를 데리고 나가 대접하다",
+          "meaning_en": "pay for somebody to go somewhere with you",
+          "example": "My grandparents took us out for dinner and a movie."
+        },
+        {
+          "no": 189,
+          "phrase": "tear something up",
+          "meaning": "갈기갈기 찢다",
+          "meaning_en": "rip into pieces",
+          "example": "I tore up my ex-boyfriend's letters and gave them back to him."
+        },
+        {
+          "no": 190,
+          "phrase": "think back",
+          "meaning": "회상하다, 돌이켜 보다",
+          "meaning_en": "remember (often + to, sometimes + on)",
+          "example": "When I think back on my youth, I wish I had studied harder."
+        },
+        {
+          "no": 191,
+          "phrase": "think something over",
+          "meaning": "숙고하다",
+          "meaning_en": "consider",
+          "example": "I'll have to think this job offer over before I make my final decision."
+        },
+        {
+          "no": 192,
+          "phrase": "throw something away",
+          "meaning": "버리다",
+          "meaning_en": "dispose of",
+          "example": "We threw our old furniture away when we won the lottery."
+        },
+        {
+          "no": 193,
+          "phrase": "turn something down",
+          "meaning": "(소리·온도를) 줄이다",
+          "meaning_en": "decrease the volume or strength (heat, light etc)",
+          "example": "Please turn the TV down while the guests are here."
+        },
+        {
+          "no": 194,
+          "phrase": "turn something down",
+          "meaning": "거절하다",
+          "meaning_en": "refuse",
+          "example": "I turned the job down because I don't want to move."
+        },
+        {
+          "no": 195,
+          "phrase": "turn something off",
+          "meaning": "끄다",
+          "meaning_en": "stop the energy flow, switch off",
+          "example": "Your mother wants you to turn the TV off and come for dinner."
+        },
+        {
+          "no": 196,
+          "phrase": "turn something on",
+          "meaning": "켜다",
+          "meaning_en": "start the energy, switch on",
+          "example": "It's too dark in here. Let's turn some lights on."
+        },
+        {
+          "no": 197,
+          "phrase": "turn something up",
+          "meaning": "(소리·온도를) 높이다",
+          "meaning_en": "increase the volume or strength (heat, light etc)",
+          "example": "Can you turn the music up? This is my favourite song."
+        },
+        {
+          "no": 198,
+          "phrase": "turn up",
+          "meaning": "불쑥 나타나다",
+          "meaning_en": "appear suddenly",
+          "example": "Our cat turned up after we put posters up all over the neighbourhood."
+        },
+        {
+          "no": 199,
+          "phrase": "try something on",
+          "meaning": "입어 보다",
+          "meaning_en": "sample clothing",
+          "example": "I'm going to try these jeans on, but I don't think they will fit."
+        },
+        {
+          "no": 200,
+          "phrase": "try something out",
+          "meaning": "시험 삼아 써 보다",
+          "meaning_en": "test",
+          "example": "I am going to try this new brand of detergent out."
+        },
+        {
+          "no": 201,
+          "phrase": "use something up",
+          "meaning": "다 써 버리다",
+          "meaning_en": "finish the supply",
+          "example": "The kids used all of the toothpaste up so we need to buy some more."
+        },
+        {
+          "no": 202,
+          "phrase": "wake up",
+          "meaning": "잠에서 깨다",
+          "meaning_en": "stop sleeping",
+          "example": "We have to wake up early for work on Monday."
+        },
+        {
+          "no": 203,
+          "phrase": "warm somebody/something up",
+          "meaning": "따뜻하게 데우다",
+          "meaning_en": "increase the temperature",
+          "example": "You can warm your feet up in front of the fireplace."
+        },
+        {
+          "no": 204,
+          "phrase": "warm up",
+          "meaning": "준비운동을 하다",
+          "meaning_en": "prepare body for exercise",
+          "example": "I always warm up by doing sit-ups before I go for a run."
+        },
+        {
+          "no": 205,
+          "phrase": "wear off",
+          "meaning": "서서히 사라지다",
+          "meaning_en": "fade away",
+          "example": "Most of my make-up wore off before I got to the party."
+        },
+        {
+          "no": 206,
+          "phrase": "work out",
+          "meaning": "운동하다",
+          "meaning_en": "exercise",
+          "example": "I work out at the gym three times a week."
+        },
+        {
+          "no": 207,
+          "phrase": "work out",
+          "meaning": "잘 풀리다, 잘 되다",
+          "meaning_en": "be successful",
+          "example": "Our plan worked out fine."
+        },
+        {
+          "no": 208,
+          "phrase": "work something out",
+          "meaning": "계산해 내다, 해결하다",
+          "meaning_en": "make a calculation",
+          "example": "We have to work out the total cost before we buy the house."
+        }
+      ]
+    },
+    "extra": {
+      "label": "토익 빈출 단어장",
+      "description": "토익 빈출 단어장",
+      "items": [
+        {
+          "word": "applicant",
+          "pos": "명",
+          "meaning": "지원자",
+          "example": {
+            "en": "Each applicant must submit two references.",
+            "ko": "지원자는 각각 추천서 두 부를 제출해야 한다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "candidate",
+          "pos": "명",
+          "meaning": "후보자",
+          "example": {
+            "en": "We interviewed three candidates for the position.",
+            "ko": "그 자리에 후보자 세 명을 면접했다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "qualification",
+          "pos": "명",
+          "meaning": "자격, 자격 요건",
+          "example": {
+            "en": "She has all the qualifications for the job.",
+            "ko": "그녀는 그 일에 필요한 자격을 모두 갖췄다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "qualified",
+          "pos": "형",
+          "meaning": "자격을 갖춘",
+          "example": {
+            "en": "We are looking for a qualified accountant.",
+            "ko": "자격을 갖춘 회계사를 찾고 있다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "recruit",
+          "pos": "동",
+          "meaning": "모집하다, 채용하다",
+          "example": {
+            "en": "The firm plans to recruit 50 new engineers.",
+            "ko": "회사는 신입 엔지니어 50명을 채용할 계획이다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "credentials",
+          "pos": "명",
+          "meaning": "자격 증명, 경력",
+          "example": {
+            "en": "Please send your credentials to the HR office.",
+            "ko": "자격 증명 서류를 인사팀으로 보내 주세요."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "reference",
+          "pos": "명",
+          "meaning": "추천서, 추천인, 참고",
+          "example": {
+            "en": "May I list you as a reference?",
+            "ko": "당신을 추천인으로 적어도 될까요?"
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "probation",
+          "pos": "명",
+          "meaning": "수습 기간",
+          "example": {
+            "en": "New hires are on probation for three months.",
+            "ko": "신입 직원은 3개월간 수습 기간을 거친다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "promote",
+          "pos": "동",
+          "meaning": "승진시키다, 홍보하다",
+          "example": {
+            "en": "Mr. Cho was promoted to sales director.",
+            "ko": "조 씨는 영업 이사로 승진했다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "transfer",
+          "pos": "동",
+          "meaning": "전근시키다, 옮기다",
+          "example": {
+            "en": "She was transferred to the Busan branch.",
+            "ko": "그녀는 부산 지점으로 전근되었다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "retire",
+          "pos": "동",
+          "meaning": "은퇴하다",
+          "example": {
+            "en": "He will retire at the end of the year.",
+            "ko": "그는 연말에 은퇴한다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "workforce",
+          "pos": "명",
+          "meaning": "전체 직원, 노동 인구",
+          "example": {
+            "en": "The company plans to reduce its workforce.",
+            "ko": "회사는 인력을 줄일 계획이다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "personnel",
+          "pos": "명",
+          "meaning": "직원들, 인사과",
+          "example": {
+            "en": "All personnel must wear ID badges.",
+            "ko": "전 직원은 사원증을 착용해야 한다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "supervise",
+          "pos": "동",
+          "meaning": "감독하다",
+          "example": {
+            "en": "Ms. Park supervises a team of ten.",
+            "ko": "박 씨는 10명으로 된 팀을 감독한다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "evaluate",
+          "pos": "동",
+          "meaning": "평가하다",
+          "example": {
+            "en": "Managers evaluate staff performance twice a year.",
+            "ko": "관리자는 1년에 두 번 직원 성과를 평가한다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "incentive",
+          "pos": "명",
+          "meaning": "장려책, 인센티브",
+          "example": {
+            "en": "The bonus is an incentive to meet sales goals.",
+            "ko": "보너스는 판매 목표 달성을 위한 장려책이다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "compensation",
+          "pos": "명",
+          "meaning": "보상, 보수",
+          "example": {
+            "en": "The compensation package includes health insurance.",
+            "ko": "보수에는 건강보험이 포함되어 있다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "vacancy",
+          "pos": "명",
+          "meaning": "공석, 빈방",
+          "example": {
+            "en": "There is a vacancy in the marketing department.",
+            "ko": "마케팅 부서에 공석이 하나 있다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "experienced",
+          "pos": "형",
+          "meaning": "경험이 많은",
+          "example": {
+            "en": "We need an experienced project manager.",
+            "ko": "경험 많은 프로젝트 매니저가 필요하다."
+          },
+          "theme": "채용·인사"
+        },
+        {
+          "word": "postpone",
+          "pos": "동",
+          "meaning": "연기하다",
+          "example": {
+            "en": "The meeting was postponed until Friday.",
+            "ko": "회의가 금요일로 연기되었다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "reschedule",
+          "pos": "동",
+          "meaning": "일정을 다시 잡다",
+          "example": {
+            "en": "Can we reschedule the interview?",
+            "ko": "면접 일정을 다시 잡을 수 있을까요?"
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "allocate",
+          "pos": "동",
+          "meaning": "할당하다, 배분하다",
+          "example": {
+            "en": "The budget was allocated to three projects.",
+            "ko": "예산은 세 프로젝트에 배분되었다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "assign",
+          "pos": "동",
+          "meaning": "배정하다, 맡기다",
+          "example": {
+            "en": "I was assigned to the new client account.",
+            "ko": "나는 새 고객 담당으로 배정되었다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "delegate",
+          "pos": "동",
+          "meaning": "위임하다",
+          "example": {
+            "en": "Good managers delegate tasks to their staff.",
+            "ko": "좋은 관리자는 직원에게 업무를 위임한다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "submit",
+          "pos": "동",
+          "meaning": "제출하다",
+          "example": {
+            "en": "Please submit the form by Monday.",
+            "ko": "월요일까지 양식을 제출해 주세요."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "attach",
+          "pos": "동",
+          "meaning": "첨부하다",
+          "example": {
+            "en": "I have attached the revised schedule.",
+            "ko": "수정된 일정을 첨부했습니다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "enclose",
+          "pos": "동",
+          "meaning": "동봉하다",
+          "example": {
+            "en": "A copy of the receipt is enclosed.",
+            "ko": "영수증 사본이 동봉되어 있다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "duplicate",
+          "pos": "명",
+          "meaning": "사본",
+          "example": {
+            "en": "Keep a duplicate of the contract for your records.",
+            "ko": "계약서 사본 하나는 기록용으로 보관하세요."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "oversee",
+          "pos": "동",
+          "meaning": "감독하다, 총괄하다",
+          "example": {
+            "en": "She oversees the entire production process.",
+            "ko": "그녀는 생산 과정 전체를 총괄한다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "prioritize",
+          "pos": "동",
+          "meaning": "우선순위를 매기다",
+          "example": {
+            "en": "We need to prioritize customer requests.",
+            "ko": "고객 요청에 우선순위를 두어야 한다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "streamline",
+          "pos": "동",
+          "meaning": "간소화하다, 효율화하다",
+          "example": {
+            "en": "The new software will streamline the ordering process.",
+            "ko": "새 소프트웨어가 주문 과정을 간소화할 것이다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "draft",
+          "pos": "명",
+          "meaning": "초안",
+          "example": {
+            "en": "Please review the first draft of the report.",
+            "ko": "보고서 초안을 검토해 주세요."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "approve",
+          "pos": "동",
+          "meaning": "승인하다",
+          "example": {
+            "en": "The director approved the budget request.",
+            "ko": "이사가 예산 요청을 승인했다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "authorize",
+          "pos": "동",
+          "meaning": "권한을 주다, 허가하다",
+          "example": {
+            "en": "Only managers can authorize refunds.",
+            "ko": "관리자만 환불을 승인할 수 있다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "verify",
+          "pos": "동",
+          "meaning": "확인하다, 검증하다",
+          "example": {
+            "en": "Please verify your address before ordering.",
+            "ko": "주문 전에 주소를 확인해 주세요."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "workload",
+          "pos": "명",
+          "meaning": "업무량",
+          "example": {
+            "en": "The team's workload has doubled this month.",
+            "ko": "이번 달 팀 업무량이 두 배가 되었다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "efficient",
+          "pos": "형",
+          "meaning": "효율적인",
+          "example": {
+            "en": "The new system is more efficient.",
+            "ko": "새 시스템이 더 효율적이다."
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "in charge of",
+          "pos": "구",
+          "meaning": "~을 담당하는",
+          "example": {
+            "en": "Who is in charge of the event?",
+            "ko": "그 행사는 누가 담당하나요?"
+          },
+          "theme": "사무·업무"
+        },
+        {
+          "word": "agenda",
+          "pos": "명",
+          "meaning": "안건, 의제",
+          "example": {
+            "en": "The first item on the agenda is the budget.",
+            "ko": "첫 번째 안건은 예산이다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "attendee",
+          "pos": "명",
+          "meaning": "참석자",
+          "example": {
+            "en": "Each attendee will receive a name tag.",
+            "ko": "참석자 모두 이름표를 받는다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "brief",
+          "pos": "동",
+          "meaning": "간단히 보고하다",
+          "example": {
+            "en": "She briefed the team on the new policy.",
+            "ko": "그녀는 팀에 새 정책을 간단히 설명했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "summarize",
+          "pos": "동",
+          "meaning": "요약하다",
+          "example": {
+            "en": "Could you summarize the main points?",
+            "ko": "요점을 요약해 주시겠어요?"
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "clarify",
+          "pos": "동",
+          "meaning": "명확히 하다",
+          "example": {
+            "en": "I'd like to clarify a few details.",
+            "ko": "몇 가지 세부 사항을 분명히 하고 싶다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "address",
+          "pos": "동",
+          "meaning": "(문제를) 다루다, 연설하다",
+          "example": {
+            "en": "The CEO addressed the employees' concerns.",
+            "ko": "CEO가 직원들의 우려를 다뤘다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "propose",
+          "pos": "동",
+          "meaning": "제안하다",
+          "example": {
+            "en": "He proposed a new marketing plan.",
+            "ko": "그는 새 마케팅 계획을 제안했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "finalize",
+          "pos": "동",
+          "meaning": "마무리하다, 확정하다",
+          "example": {
+            "en": "We need to finalize the details by Friday.",
+            "ko": "금요일까지 세부 사항을 확정해야 한다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "collaborate",
+          "pos": "동",
+          "meaning": "협력하다",
+          "example": {
+            "en": "The two teams collaborated on the project.",
+            "ko": "두 팀이 그 프로젝트에서 협력했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "input",
+          "pos": "명",
+          "meaning": "의견, 조언",
+          "example": {
+            "en": "We welcome your input on the design.",
+            "ko": "디자인에 대한 의견을 환영합니다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "outline",
+          "pos": "동",
+          "meaning": "개요를 설명하다",
+          "example": {
+            "en": "The manager outlined the plan for next year.",
+            "ko": "매니저가 내년 계획의 개요를 설명했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "announce",
+          "pos": "동",
+          "meaning": "발표하다",
+          "example": {
+            "en": "The company announced a merger yesterday.",
+            "ko": "회사는 어제 합병을 발표했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "notify",
+          "pos": "동",
+          "meaning": "통지하다, 알리다",
+          "example": {
+            "en": "Please notify us of any changes.",
+            "ko": "변경 사항이 있으면 알려 주세요."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "acknowledge",
+          "pos": "동",
+          "meaning": "인정하다, 수신을 확인하다",
+          "example": {
+            "en": "Please acknowledge receipt of this email.",
+            "ko": "이 이메일을 받았는지 확인해 주세요."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "informative",
+          "pos": "형",
+          "meaning": "유익한",
+          "example": {
+            "en": "The workshop was very informative.",
+            "ko": "그 워크숍은 매우 유익했다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "stakeholder",
+          "pos": "명",
+          "meaning": "이해관계자",
+          "example": {
+            "en": "All stakeholders were invited to the meeting.",
+            "ko": "모든 이해관계자가 회의에 초대되었다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "agreement",
+          "pos": "명",
+          "meaning": "합의, 협정",
+          "example": {
+            "en": "Both sides reached an agreement.",
+            "ko": "양측은 합의에 이르렀다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "conference call",
+          "pos": "명",
+          "meaning": "전화 회의",
+          "example": {
+            "en": "Let's set up a conference call for Tuesday.",
+            "ko": "화요일에 전화 회의를 잡읍시다."
+          },
+          "theme": "회의·소통"
+        },
+        {
+          "word": "advertise",
+          "pos": "동",
+          "meaning": "광고하다",
+          "example": {
+            "en": "We advertise our products online.",
+            "ko": "우리는 온라인에서 제품을 광고한다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "launch",
+          "pos": "동",
+          "meaning": "출시하다, 시작하다",
+          "example": {
+            "en": "The new phone will be launched in May.",
+            "ko": "새 휴대폰은 5월에 출시된다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "campaign",
+          "pos": "명",
+          "meaning": "캠페인, 운동",
+          "example": {
+            "en": "The ad campaign increased sales by 20%.",
+            "ko": "광고 캠페인으로 매출이 20% 늘었다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "demand",
+          "pos": "명",
+          "meaning": "수요, 요구",
+          "example": {
+            "en": "Demand for electric cars is growing.",
+            "ko": "전기차 수요가 늘고 있다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "competitor",
+          "pos": "명",
+          "meaning": "경쟁자, 경쟁사",
+          "example": {
+            "en": "Our prices are lower than our competitors'.",
+            "ko": "우리 가격은 경쟁사보다 낮다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "competitive",
+          "pos": "형",
+          "meaning": "경쟁력 있는, 경쟁의",
+          "example": {
+            "en": "We offer competitive salaries.",
+            "ko": "경쟁력 있는 급여를 제공한다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "consumer",
+          "pos": "명",
+          "meaning": "소비자",
+          "example": {
+            "en": "Consumers are spending less this year.",
+            "ko": "올해 소비자들이 지출을 줄이고 있다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "survey",
+          "pos": "명",
+          "meaning": "설문조사",
+          "example": {
+            "en": "Please take a few minutes to complete the survey.",
+            "ko": "잠시 시간을 내어 설문에 응해 주세요."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "target",
+          "pos": "동",
+          "meaning": "대상으로 삼다",
+          "example": {
+            "en": "The product targets young professionals.",
+            "ko": "그 제품은 젊은 직장인을 대상으로 한다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "expand",
+          "pos": "동",
+          "meaning": "확장하다",
+          "example": {
+            "en": "The company plans to expand into Asia.",
+            "ko": "회사는 아시아로 확장할 계획이다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "merchandise",
+          "pos": "명",
+          "meaning": "상품",
+          "example": {
+            "en": "All merchandise is 30% off this week.",
+            "ko": "이번 주 모든 상품이 30% 할인된다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "retailer",
+          "pos": "명",
+          "meaning": "소매업체",
+          "example": {
+            "en": "The product is sold by major retailers.",
+            "ko": "그 제품은 주요 소매업체에서 판매된다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "wholesale",
+          "pos": "형",
+          "meaning": "도매의",
+          "example": {
+            "en": "We buy supplies at wholesale prices.",
+            "ko": "우리는 도매가로 물품을 산다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "voucher",
+          "pos": "명",
+          "meaning": "상품권, 쿠폰",
+          "example": {
+            "en": "Customers received a $10 voucher.",
+            "ko": "고객들은 10달러 상품권을 받았다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "loyal",
+          "pos": "형",
+          "meaning": "충성스러운, 단골의",
+          "example": {
+            "en": "We reward our loyal customers.",
+            "ko": "단골 고객에게 보상을 드린다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "market share",
+          "pos": "명",
+          "meaning": "시장 점유율",
+          "example": {
+            "en": "The company increased its market share.",
+            "ko": "그 회사는 시장 점유율을 높였다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "feature",
+          "pos": "동",
+          "meaning": "특징으로 하다, 포함하다",
+          "example": {
+            "en": "The new model features a larger screen.",
+            "ko": "신모델은 더 큰 화면이 특징이다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "exclusive",
+          "pos": "형",
+          "meaning": "독점적인, 전용의",
+          "example": {
+            "en": "Members get exclusive discounts.",
+            "ko": "회원은 전용 할인을 받는다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "potential",
+          "pos": "형",
+          "meaning": "잠재적인",
+          "example": {
+            "en": "We met with several potential clients.",
+            "ko": "잠재 고객 몇 명을 만났다."
+          },
+          "theme": "마케팅·영업"
+        },
+        {
+          "word": "budget",
+          "pos": "명",
+          "meaning": "예산",
+          "example": {
+            "en": "The project went over budget.",
+            "ko": "그 프로젝트는 예산을 초과했다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "estimate",
+          "pos": "명",
+          "meaning": "견적, 추정",
+          "example": {
+            "en": "Can you give me an estimate for the repairs?",
+            "ko": "수리 견적을 주실 수 있나요?"
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "expense",
+          "pos": "명",
+          "meaning": "비용, 경비",
+          "example": {
+            "en": "Travel expenses will be covered by the company.",
+            "ko": "출장 경비는 회사가 부담한다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "profit",
+          "pos": "명",
+          "meaning": "이익",
+          "example": {
+            "en": "Profits rose by 15% last year.",
+            "ko": "작년 이익이 15% 늘었다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "deficit",
+          "pos": "명",
+          "meaning": "적자",
+          "example": {
+            "en": "The company reported a deficit this quarter.",
+            "ko": "회사는 이번 분기 적자를 보고했다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "invest",
+          "pos": "동",
+          "meaning": "투자하다",
+          "example": {
+            "en": "We plan to invest in new equipment.",
+            "ko": "새 장비에 투자할 계획이다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "fund",
+          "pos": "명",
+          "meaning": "자금, 기금",
+          "example": {
+            "en": "The funds will be used to build a library.",
+            "ko": "그 기금은 도서관 건립에 쓰인다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "balance",
+          "pos": "명",
+          "meaning": "잔액, 균형",
+          "example": {
+            "en": "Please pay the remaining balance by June 1.",
+            "ko": "남은 잔액을 6월 1일까지 납부해 주세요."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "refund",
+          "pos": "명",
+          "meaning": "환불",
+          "example": {
+            "en": "You can request a full refund within 30 days.",
+            "ko": "30일 이내에 전액 환불을 요청할 수 있다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "installment",
+          "pos": "명",
+          "meaning": "할부, 분할 납부금",
+          "example": {
+            "en": "You can pay in monthly installments.",
+            "ko": "월 할부로 결제할 수 있다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "receipt",
+          "pos": "명",
+          "meaning": "영수증, 수령",
+          "example": {
+            "en": "Keep your receipt as proof of purchase.",
+            "ko": "구매 증빙으로 영수증을 보관하세요."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "statement",
+          "pos": "명",
+          "meaning": "명세서, 성명",
+          "example": {
+            "en": "Your bank statement is sent monthly.",
+            "ko": "은행 명세서는 매달 발송된다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "allowance",
+          "pos": "명",
+          "meaning": "수당, 허용량",
+          "example": {
+            "en": "Employees receive a meal allowance.",
+            "ko": "직원들은 식대를 받는다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "financial",
+          "pos": "형",
+          "meaning": "재정의, 금융의",
+          "example": {
+            "en": "The company is in good financial health.",
+            "ko": "회사는 재정 상태가 좋다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "earnings",
+          "pos": "명",
+          "meaning": "소득, 수익",
+          "example": {
+            "en": "Quarterly earnings exceeded expectations.",
+            "ko": "분기 수익이 예상을 넘었다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "cost-effective",
+          "pos": "형",
+          "meaning": "비용 효율적인",
+          "example": {
+            "en": "Online ads are more cost-effective.",
+            "ko": "온라인 광고가 더 비용 효율적이다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "overhead",
+          "pos": "명",
+          "meaning": "간접비, 운영비",
+          "example": {
+            "en": "Moving to a smaller office will reduce overhead.",
+            "ko": "작은 사무실로 옮기면 운영비가 줄 것이다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "investor",
+          "pos": "명",
+          "meaning": "투자자",
+          "example": {
+            "en": "The startup attracted several investors.",
+            "ko": "그 스타트업은 투자자 여럿을 유치했다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "reduce",
+          "pos": "동",
+          "meaning": "줄이다",
+          "example": {
+            "en": "We must reduce energy costs.",
+            "ko": "에너지 비용을 줄여야 한다."
+          },
+          "theme": "재무·회계"
+        },
+        {
+          "word": "manufacture",
+          "pos": "동",
+          "meaning": "제조하다",
+          "example": {
+            "en": "The company manufactures car parts.",
+            "ko": "그 회사는 자동차 부품을 제조한다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "assemble",
+          "pos": "동",
+          "meaning": "조립하다, 모으다",
+          "example": {
+            "en": "The desks are easy to assemble.",
+            "ko": "그 책상은 조립하기 쉽다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "component",
+          "pos": "명",
+          "meaning": "부품, 구성 요소",
+          "example": {
+            "en": "We import most of the components.",
+            "ko": "부품 대부분을 수입한다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "facility",
+          "pos": "명",
+          "meaning": "시설",
+          "example": {
+            "en": "The new facility will open next month.",
+            "ko": "새 시설은 다음 달에 문을 연다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "output",
+          "pos": "명",
+          "meaning": "생산량",
+          "example": {
+            "en": "Factory output increased by 10%.",
+            "ko": "공장 생산량이 10% 늘었다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "productivity",
+          "pos": "명",
+          "meaning": "생산성",
+          "example": {
+            "en": "The new tools improved productivity.",
+            "ko": "새 도구로 생산성이 향상되었다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "defect",
+          "pos": "명",
+          "meaning": "결함",
+          "example": {
+            "en": "Every product is checked for defects.",
+            "ko": "모든 제품은 결함 검사를 거친다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "defective",
+          "pos": "형",
+          "meaning": "결함이 있는",
+          "example": {
+            "en": "Defective items can be exchanged.",
+            "ko": "결함 있는 제품은 교환할 수 있다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "warehouse",
+          "pos": "명",
+          "meaning": "창고",
+          "example": {
+            "en": "The goods are stored in our warehouse.",
+            "ko": "상품은 우리 창고에 보관된다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "distribute",
+          "pos": "동",
+          "meaning": "유통하다, 배포하다",
+          "example": {
+            "en": "The flyers were distributed to all residents.",
+            "ko": "전단이 모든 주민에게 배포되었다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "supplier",
+          "pos": "명",
+          "meaning": "공급업체",
+          "example": {
+            "en": "We are looking for a new supplier.",
+            "ko": "새 공급업체를 찾고 있다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "procurement",
+          "pos": "명",
+          "meaning": "조달, 구매",
+          "example": {
+            "en": "She works in the procurement department.",
+            "ko": "그녀는 구매 부서에서 일한다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "dispatch",
+          "pos": "동",
+          "meaning": "발송하다, 파견하다",
+          "example": {
+            "en": "Your order was dispatched this morning.",
+            "ko": "주문하신 상품이 오늘 아침 발송되었다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "freight",
+          "pos": "명",
+          "meaning": "화물, 화물 운송",
+          "example": {
+            "en": "The freight will arrive by ship.",
+            "ko": "화물은 배로 도착한다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "track",
+          "pos": "동",
+          "meaning": "추적하다",
+          "example": {
+            "en": "You can track your package online.",
+            "ko": "소포를 온라인으로 추적할 수 있다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "storage",
+          "pos": "명",
+          "meaning": "보관, 저장",
+          "example": {
+            "en": "The building has plenty of storage space.",
+            "ko": "그 건물은 보관 공간이 넉넉하다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "automate",
+          "pos": "동",
+          "meaning": "자동화하다",
+          "example": {
+            "en": "The factory automated its packaging line.",
+            "ko": "공장은 포장 라인을 자동화했다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "inspection",
+          "pos": "명",
+          "meaning": "검사, 점검",
+          "example": {
+            "en": "The equipment passed the safety inspection.",
+            "ko": "장비는 안전 점검을 통과했다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "in stock",
+          "pos": "구",
+          "meaning": "재고가 있는",
+          "example": {
+            "en": "The item is currently in stock.",
+            "ko": "그 상품은 현재 재고가 있다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "out of stock",
+          "pos": "구",
+          "meaning": "품절된",
+          "example": {
+            "en": "The blue model is out of stock.",
+            "ko": "파란색 모델은 품절이다."
+          },
+          "theme": "생산·물류"
+        },
+        {
+          "word": "complaint",
+          "pos": "명",
+          "meaning": "불만, 항의",
+          "example": {
+            "en": "We received a complaint about the noise.",
+            "ko": "소음에 대한 불만을 접수했다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "resolve",
+          "pos": "동",
+          "meaning": "해결하다",
+          "example": {
+            "en": "The issue was resolved within an hour.",
+            "ko": "문제는 한 시간 안에 해결되었다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "satisfaction",
+          "pos": "명",
+          "meaning": "만족",
+          "example": {
+            "en": "Customer satisfaction is our top priority.",
+            "ko": "고객 만족이 최우선이다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "warranty",
+          "pos": "명",
+          "meaning": "품질 보증(서)",
+          "example": {
+            "en": "The laptop comes with a two-year warranty.",
+            "ko": "그 노트북은 2년 보증이 제공된다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "replace",
+          "pos": "동",
+          "meaning": "교체하다",
+          "example": {
+            "en": "We will replace the damaged item for free.",
+            "ko": "파손된 제품은 무료로 교체해 드린다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "exchange",
+          "pos": "동",
+          "meaning": "교환하다",
+          "example": {
+            "en": "Can I exchange this shirt for a larger size?",
+            "ko": "이 셔츠를 큰 사이즈로 교환할 수 있나요?"
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "assistance",
+          "pos": "명",
+          "meaning": "도움, 지원",
+          "example": {
+            "en": "Please contact us if you need assistance.",
+            "ko": "도움이 필요하면 연락 주세요."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "patron",
+          "pos": "명",
+          "meaning": "고객, 후원자",
+          "example": {
+            "en": "The library is popular with local patrons.",
+            "ko": "그 도서관은 지역 이용객에게 인기가 많다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "subscribe",
+          "pos": "동",
+          "meaning": "구독하다",
+          "example": {
+            "en": "Subscribe to our newsletter for updates.",
+            "ko": "소식을 받으려면 뉴스레터를 구독하세요."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "subscription",
+          "pos": "명",
+          "meaning": "구독, 구독료",
+          "example": {
+            "en": "Your subscription expires next month.",
+            "ko": "구독이 다음 달에 만료된다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "inconvenience",
+          "pos": "명",
+          "meaning": "불편",
+          "example": {
+            "en": "We apologize for any inconvenience.",
+            "ko": "불편을 드려 죄송합니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "compensate",
+          "pos": "동",
+          "meaning": "보상하다",
+          "example": {
+            "en": "We will compensate you for the delay.",
+            "ko": "지연에 대해 보상해 드리겠습니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "timely",
+          "pos": "형",
+          "meaning": "시기적절한",
+          "example": {
+            "en": "Thank you for your timely response.",
+            "ko": "빠르게 답변해 주셔서 감사합니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "available",
+          "pos": "형",
+          "meaning": "이용 가능한, 시간이 되는",
+          "example": {
+            "en": "Is Mr. Kim available this afternoon?",
+            "ko": "김 씨는 오늘 오후에 시간이 되나요?"
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "appreciate",
+          "pos": "동",
+          "meaning": "감사하다, 높이 평가하다",
+          "example": {
+            "en": "We appreciate your patience.",
+            "ko": "기다려 주셔서 감사합니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "feedback",
+          "pos": "명",
+          "meaning": "의견, 피드백",
+          "example": {
+            "en": "We value customer feedback.",
+            "ko": "고객 의견을 소중히 여깁니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "valued",
+          "pos": "형",
+          "meaning": "소중한",
+          "example": {
+            "en": "Thank you for being a valued customer.",
+            "ko": "소중한 고객이 되어 주셔서 감사합니다."
+          },
+          "theme": "고객·서비스"
+        },
+        {
+          "word": "destination",
+          "pos": "명",
+          "meaning": "목적지",
+          "example": {
+            "en": "Paris is a popular travel destination.",
+            "ko": "파리는 인기 있는 여행지다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "fare",
+          "pos": "명",
+          "meaning": "(교통) 요금",
+          "example": {
+            "en": "The bus fare went up last month.",
+            "ko": "지난달 버스 요금이 올랐다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "boarding pass",
+          "pos": "명",
+          "meaning": "탑승권",
+          "example": {
+            "en": "Please show your boarding pass at the gate.",
+            "ko": "탑승구에서 탑승권을 보여 주세요."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "luggage",
+          "pos": "명",
+          "meaning": "수하물",
+          "example": {
+            "en": "Each passenger may bring two pieces of luggage.",
+            "ko": "승객 1인당 수하물 두 개를 가져올 수 있다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "accommodation",
+          "pos": "명",
+          "meaning": "숙소",
+          "example": {
+            "en": "The price includes flights and accommodation.",
+            "ko": "가격에는 항공편과 숙소가 포함된다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "reservation",
+          "pos": "명",
+          "meaning": "예약",
+          "example": {
+            "en": "I'd like to confirm my reservation.",
+            "ko": "예약을 확인하고 싶어요."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "delay",
+          "pos": "명",
+          "meaning": "지연",
+          "example": {
+            "en": "The flight had a two-hour delay.",
+            "ko": "비행기가 두 시간 지연되었다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "excursion",
+          "pos": "명",
+          "meaning": "짧은 여행, 견학",
+          "example": {
+            "en": "The tour includes an excursion to the island.",
+            "ko": "투어에는 섬으로 가는 짧은 여행이 포함된다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "round trip",
+          "pos": "명",
+          "meaning": "왕복 여행",
+          "example": {
+            "en": "A round-trip ticket costs $300.",
+            "ko": "왕복 항공권은 300달러다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "layover",
+          "pos": "명",
+          "meaning": "경유, 환승 대기",
+          "example": {
+            "en": "We have a three-hour layover in Tokyo.",
+            "ko": "도쿄에서 세 시간 경유한다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "board",
+          "pos": "동",
+          "meaning": "탑승하다",
+          "example": {
+            "en": "Passengers may now board the plane.",
+            "ko": "승객 여러분은 이제 탑승하실 수 있습니다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "aisle",
+          "pos": "명",
+          "meaning": "통로",
+          "example": {
+            "en": "I prefer an aisle seat.",
+            "ko": "통로 쪽 좌석이 좋아요."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "brochure",
+          "pos": "명",
+          "meaning": "안내 책자",
+          "example": {
+            "en": "Please take a brochure at the front desk.",
+            "ko": "안내 데스크에서 안내 책자를 가져가세요."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "sightseeing",
+          "pos": "명",
+          "meaning": "관광",
+          "example": {
+            "en": "We spent the afternoon sightseeing.",
+            "ko": "우리는 오후에 관광을 했다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "travel agency",
+          "pos": "명",
+          "meaning": "여행사",
+          "example": {
+            "en": "I booked the trip through a travel agency.",
+            "ko": "여행사를 통해 여행을 예약했다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "round-the-clock",
+          "pos": "형",
+          "meaning": "24시간의",
+          "example": {
+            "en": "The hotel offers round-the-clock room service.",
+            "ko": "호텔은 24시간 룸서비스를 제공한다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "reimbursable",
+          "pos": "형",
+          "meaning": "환급 가능한",
+          "example": {
+            "en": "Taxi fares are reimbursable with a receipt.",
+            "ko": "택시비는 영수증이 있으면 환급된다."
+          },
+          "theme": "출장·여행"
+        },
+        {
+          "word": "lease",
+          "pos": "명",
+          "meaning": "임대차 계약",
+          "example": {
+            "en": "We signed a five-year lease on the office.",
+            "ko": "사무실에 대해 5년 임대 계약을 맺었다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "tenant",
+          "pos": "명",
+          "meaning": "세입자",
+          "example": {
+            "en": "The tenants complained about the heating.",
+            "ko": "세입자들이 난방에 대해 불평했다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "landlord",
+          "pos": "명",
+          "meaning": "집주인, 임대인",
+          "example": {
+            "en": "Contact the landlord about repairs.",
+            "ko": "수리는 집주인에게 연락하세요."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "maintenance",
+          "pos": "명",
+          "meaning": "유지보수, 관리",
+          "example": {
+            "en": "The elevator is closed for maintenance.",
+            "ko": "엘리베이터는 점검으로 운행하지 않는다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "repair",
+          "pos": "명",
+          "meaning": "수리",
+          "example": {
+            "en": "The roof needs repair.",
+            "ko": "지붕을 수리해야 한다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "install",
+          "pos": "동",
+          "meaning": "설치하다",
+          "example": {
+            "en": "New printers were installed on each floor.",
+            "ko": "각 층에 새 프린터가 설치되었다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "spacious",
+          "pos": "형",
+          "meaning": "넓은",
+          "example": {
+            "en": "The apartment has a spacious living room.",
+            "ko": "그 아파트는 거실이 넓다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "vacant",
+          "pos": "형",
+          "meaning": "비어 있는",
+          "example": {
+            "en": "The building has been vacant for months.",
+            "ko": "그 건물은 몇 달째 비어 있다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "premises",
+          "pos": "명",
+          "meaning": "구내, 부지",
+          "example": {
+            "en": "Smoking is not allowed on the premises.",
+            "ko": "구내에서는 흡연이 금지된다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "construction",
+          "pos": "명",
+          "meaning": "건설, 공사",
+          "example": {
+            "en": "The road is under construction.",
+            "ko": "그 도로는 공사 중이다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "blueprint",
+          "pos": "명",
+          "meaning": "청사진, 설계도",
+          "example": {
+            "en": "The architect showed us the blueprints.",
+            "ko": "건축가가 설계도를 보여 주었다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "relocation",
+          "pos": "명",
+          "meaning": "이전, 이사",
+          "example": {
+            "en": "The relocation to the new office went smoothly.",
+            "ko": "새 사무실로의 이전은 순조로웠다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "occupy",
+          "pos": "동",
+          "meaning": "차지하다, 사용하다",
+          "example": {
+            "en": "The company occupies the top three floors.",
+            "ko": "그 회사는 맨 위 세 개 층을 쓴다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "adjacent",
+          "pos": "형",
+          "meaning": "인접한",
+          "example": {
+            "en": "The parking lot is adjacent to the building.",
+            "ko": "주차장은 건물에 인접해 있다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "remodel",
+          "pos": "동",
+          "meaning": "개조하다",
+          "example": {
+            "en": "The lobby is being remodeled.",
+            "ko": "로비가 개조되고 있다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "renovation",
+          "pos": "명",
+          "meaning": "보수, 개조",
+          "example": {
+            "en": "The hotel is closed for renovation.",
+            "ko": "호텔은 보수 공사로 휴업 중이다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "real estate",
+          "pos": "명",
+          "meaning": "부동산",
+          "example": {
+            "en": "He works for a real estate agency.",
+            "ko": "그는 부동산 중개업소에서 일한다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "rent",
+          "pos": "명",
+          "meaning": "임대료, 집세",
+          "example": {
+            "en": "Rent is due on the first of each month.",
+            "ko": "임대료는 매달 1일에 내야 한다."
+          },
+          "theme": "시설·부동산"
+        },
+        {
+          "word": "contract",
+          "pos": "명",
+          "meaning": "계약(서)",
+          "example": {
+            "en": "Please read the contract carefully before signing.",
+            "ko": "서명 전에 계약서를 꼼꼼히 읽어 주세요."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "clause",
+          "pos": "명",
+          "meaning": "조항",
+          "example": {
+            "en": "The contract has a cancellation clause.",
+            "ko": "그 계약서에는 해지 조항이 있다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "comply",
+          "pos": "동",
+          "meaning": "따르다, 준수하다",
+          "example": {
+            "en": "All staff must comply with safety rules.",
+            "ko": "전 직원은 안전 규칙을 따라야 한다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "compliance",
+          "pos": "명",
+          "meaning": "준수",
+          "example": {
+            "en": "The factory is in compliance with regulations.",
+            "ko": "그 공장은 규정을 준수하고 있다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "regulation",
+          "pos": "명",
+          "meaning": "규정, 규제",
+          "example": {
+            "en": "New regulations take effect next month.",
+            "ko": "새 규정이 다음 달부터 시행된다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "policy",
+          "pos": "명",
+          "meaning": "정책, 방침",
+          "example": {
+            "en": "Our return policy allows exchanges within 14 days.",
+            "ko": "반품 정책상 14일 이내 교환이 가능하다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "violate",
+          "pos": "동",
+          "meaning": "위반하다",
+          "example": {
+            "en": "The company violated safety standards.",
+            "ko": "그 회사는 안전 기준을 위반했다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "legal",
+          "pos": "형",
+          "meaning": "법률의, 합법적인",
+          "example": {
+            "en": "Please consult our legal department.",
+            "ko": "법무팀과 상의해 주세요."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "obligation",
+          "pos": "명",
+          "meaning": "의무",
+          "example": {
+            "en": "You are under no obligation to buy.",
+            "ko": "구매할 의무는 없습니다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "liability",
+          "pos": "명",
+          "meaning": "(법적) 책임, 부채",
+          "example": {
+            "en": "The company accepted liability for the damage.",
+            "ko": "회사는 손해에 대한 책임을 인정했다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "renewal",
+          "pos": "명",
+          "meaning": "갱신",
+          "example": {
+            "en": "The contract is up for renewal in June.",
+            "ko": "계약은 6월에 갱신 시기가 된다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "terminate",
+          "pos": "동",
+          "meaning": "종료하다, 해지하다",
+          "example": {
+            "en": "Either party may terminate the agreement.",
+            "ko": "어느 쪽이든 계약을 해지할 수 있다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "effective",
+          "pos": "형",
+          "meaning": "효과적인, (법이) 시행되는",
+          "example": {
+            "en": "The new rules are effective from July 1.",
+            "ko": "새 규칙은 7월 1일부터 시행된다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "provision",
+          "pos": "명",
+          "meaning": "규정, 조항, 공급",
+          "example": {
+            "en": "The law includes provisions for small firms.",
+            "ko": "그 법에는 소기업을 위한 조항이 있다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "guideline",
+          "pos": "명",
+          "meaning": "지침",
+          "example": {
+            "en": "Please follow the guidelines below.",
+            "ko": "아래 지침을 따라 주세요."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "restriction",
+          "pos": "명",
+          "meaning": "제한",
+          "example": {
+            "en": "There are no restrictions on the number of guests.",
+            "ko": "손님 수에는 제한이 없다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "approval",
+          "pos": "명",
+          "meaning": "승인",
+          "example": {
+            "en": "The plan requires the board's approval.",
+            "ko": "그 계획은 이사회 승인이 필요하다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "signature",
+          "pos": "명",
+          "meaning": "서명",
+          "example": {
+            "en": "We need your signature on this page.",
+            "ko": "이 페이지에 서명이 필요합니다."
+          },
+          "theme": "계약·규정"
+        },
+        {
+          "word": "valid",
+          "pos": "형",
+          "meaning": "유효한",
+          "example": {
+            "en": "Your passport must be valid for six months.",
+            "ko": "여권은 6개월 이상 유효해야 한다."
+          },
+          "theme": "계약·규정"
+        }
+      ]
+    }
+  }
+}
