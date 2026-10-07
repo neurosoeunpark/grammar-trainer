@@ -119,15 +119,19 @@ img{max-width:100%}
 .kp li{padding:11px 0;border-top:1px solid var(--line)}
 .kp li:first-child{border-top:0;padding-top:2px}
 .kp-h{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:4px}
-.kp-h b{font-size:15px;font-weight:700;line-height:1.45}
+.kp-h b{font-size:14.5px;font-weight:600;line-height:1.5;color:var(--ink)}
 .kp-b{flex:none;font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--brand-soft);color:var(--brand)}
 .kp-b.warn{background:var(--bad-soft);color:var(--bad)}
 .kp-b.star{background:var(--warn-soft);color:#B7791F}
 .kp-t{display:block;font-size:14.5px;line-height:1.65}
 .kp-t + .kp-t{margin-top:4px}
-.kp-e{display:block;font-family:var(--serif);font-size:15.5px;line-height:1.5;margin-top:6px;padding:3px 0 3px 11px;border-left:3px solid var(--brand-soft)}
+.kp-ex{display:flex;flex-direction:column;gap:3px;margin-top:6px;padding:8px 12px;border-radius:10px;background:var(--surface-2)}
+.kp-ex span{font-family:var(--serif);font-size:15px;line-height:1.5}
+.kp-ex small{font-family:var(--ui);font-size:12.5px;color:var(--ink-2)}
 .kp-t.note{font-size:13.5px;color:var(--ink-2);margin-top:6px}
 .kp-sub + .kp-sub{margin-top:10px}
+.kp-ln{display:flex;flex-direction:column;gap:2px}
+.kp-ln span{font-size:14.5px;line-height:1.6}
 .kp-gl{display:flex;flex-direction:column;gap:4px;margin-top:2px}
 .kp-gl .gl{font-size:14px;line-height:1.5}
 .kp-gl .gl b{font-family:var(--serif);font-size:15.5px;font-weight:600}
@@ -140,7 +144,7 @@ img{max-width:100%}
 .tc-k{color:var(--ink-3);font-size:12.5px;font-weight:600;padding-top:1px}
 .tc-v.en{font-family:var(--serif);font-size:15px}
 .tip .kp-t{font-size:14px}
-.tip .kp-e{border-left-color:#E8C55A}
+.tip .kp-ex{background:rgba(255,255,255,.55)}
 .tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:12px}
 table{border-collapse:collapse;font-size:13px;min-width:100%}
 th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
@@ -629,13 +633,19 @@ function richSegs(s){
   const re = /[A-Za-z(][A-Za-z0-9 ,.'’"()\-?!;$%~…+=&°]*[A-Za-z0-9.?!)"’°]/g, out = [];
   const isEx = (tx, after, atEnd) => {
     const words = tx.trim().split(/\s+/).filter(w => /[A-Za-z]/.test(w));
-    return words.length >= 3 && /[a-z]/.test(tx) && (/[.?!]["’)]?$/.test(tx) || /^\s*(\/|\)|→|$)/.test(after) || atEnd);
+    if (words.length < 3 || !/[a-z]/.test(tx) || tx.includes("~")) return false;
+    if (/^[a-z]/.test(tx.trim()) && /[+=]/.test(tx)) return false;
+    if (/^\(/.test(tx.trim())) return /[.?!]\)$/.test(tx.trim());
+    if (/[.?!]["’)]?$/.test(tx)) return true;
+    return /^[A-Z(]/.test(tx.trim()) && (/^\s*(\/|\)|→|$)/.test(after) || atEnd);
   };
+  const depth = str => (str.match(/\(/g) || []).length - (str.match(/\)/g) || []).length;
   let last = 0, m;
   while ((m = re.exec(s))) {
     let tx = m[0], end = m.index + tx.length;
     const before = s[m.index - 1] || "";
     if (/['‘"“]/.test(before)) continue;
+    if (depth(s.slice(0, m.index)) > 0 && !/[.?!]["’)]?$/.test(m[0].replace(/\)$/, ""))) continue;
     if (!isEx(tx, s.slice(end, end + 3), end === s.length)) {
       const cut = tx.match(/^(.+?[.?!])\s/);
       if (!cut || !isEx(cut[1], " /", false)) continue;
@@ -653,9 +663,14 @@ function richSegs(s){
   for (let i = 0; i < out.length; i++) {
     const g = out[i];
     if (g.k === "t") {
-      let v = g.v.replace(/^\s*[\/,]\s*/, "").replace(/\s*\/\s*$/, "").trim();
+      let v = g.v.replace(/^\s*\/\s*/, "").replace(/\s*\/\s*$/, "").trim();
       if (v === "→" && res.length && res[res.length - 1].k === "e" && out[i + 1] && out[i + 1].k === "e") { res[res.length - 1].v += "  →  " + out[i + 1].v; i++; continue; }
-      if (out[i + 1] && out[i + 1].k === "e") v = v.replace(/\s*→$/, "");
+      if (out[i + 1] && out[i + 1].k === "e") {
+        const sp = v.match(/(?:^|\s)([AB]):$/);
+        if (sp) { out[i + 1].v = sp[1] + ": " + out[i + 1].v; v = v.slice(0, v.length - sp[0].length).trim(); }
+        v = v.replace(/\s*→$/, "");
+        if (!v) continue;
+      }
       if (v.startsWith("(") && !v.includes(")")) v = v.slice(1).trim();
       if (/^[\s()\/.,;:]*$/.test(v)) continue;
       res.push({k: "t", v});
@@ -664,8 +679,15 @@ function richSegs(s){
   return res;
 }
 function glossHTML(v){
+  const arr = v.split(" / ");
+  if (arr.length >= 3 && arr.filter(x => x.includes("→")).length >= arr.length - 1 && arr[0].includes("→")) {
+    const lines = []; arr.forEach(x => { if (x.includes("→") || !lines.length) lines.push(x); else lines[lines.length - 1] += " / " + x; });
+    return '<span class="kp-ln">' + lines.map(x => '<span>' + esc(x) + '</span>').join("") + '</span>';
+  }
   const items = v.split(/\)\s*(?:,|\/)\s+/);
-  if (items.length >= 2 && items.every(x => /^[A-Za-z~][^()]*\s?\(/.test(x))) {
+  const okGloss = x => { const k = x.indexOf("("); if (k < 1) return false; const en = x.slice(0, k).trim(), ko = x.slice(k + 1); return /^[A-Za-z~]/.test(en) && !/[,()]/.test(en) && en.split(/\s+/).length <= 7 && /[가-힣~]/.test(ko) && !/[()]/.test(ko.replace(/\)$/, "")); };
+  if (items.length >= 2 && items.every(okGloss)) {
+    if (items.some(x => /[→+]/.test(x))) return '<span class="kp-ln">' + items.map((x, j) => '<span>' + esc(j < items.length - 1 ? x + ")" : x) + '</span>').join("") + '</span>';
     return '<span class="kp-gl">' + items.map((x, j) => { const k = x.indexOf("("); const en = x.slice(0, k).trim(), ko = x.slice(k + 1).replace(/\)$/, "").trim(); return '<span class="gl"><b>' + esc(en) + '</b> ' + esc(ko) + '</span>'; }).join("") + '</span>';
   }
   const m = v.match(/^((?:[A-Za-z][A-Za-z \-'’\/~.]*,\s+){3,}[A-Za-z][A-Za-z \-'’\/~.]*?)(\s*(?:\(.*\)|등.*)?)$/);
@@ -673,26 +695,34 @@ function glossHTML(v){
   return null;
 }
 function richHTML(s){
-  return richSegs(s).map(g => g.k === "e" ? '<span class="kp-e">' + esc(g.v) + '</span>' : (glossHTML(g.v) || '<span class="kp-t' + (/^단,/.test(g.v) ? ' note' : '') + '">' + esc(g.v) + '</span>')).join("");
+  const segs = richSegs(s); let h = "", ex = [];
+  const flush = () => { if (ex.length) { h += '<span class="kp-ex">' + ex.map(v => '<span>' + v + '</span>').join("") + '</span>'; ex = []; } };
+  segs.forEach(g => {
+    if (g.k === "e") { ex.push(esc(g.v)); return; }
+    if (ex.length && /^\([^()]*[가-힣][^()]*\)$/.test(g.v)) { ex[ex.length - 1] += ' <small>' + esc(g.v) + '</small>'; return; }
+    flush();
+    h += glossHTML(g.v) || '<span class="kp-t' + (/^단,/.test(g.v) ? ' note' : '') + '">' + esc(g.v) + '</span>';
+  });
+  flush();
+  return h;
 }
 function fmtPoint(s){
   let badge = "", cls = "", m;
-  if ((m = s.match(/^(.{1,12}?)\s+—\s+/))) { badge = m[1]; s = s.slice(m[0].length); }
-  else if ((m = s.match(/^([①-⑩])\s*/))) { badge = m[1]; s = s.slice(m[0].length); }
-  else if ((m = s.match(/^주의!\s*/))) { badge = "주의"; cls = " warn"; s = s.slice(m[0].length); }
-  else if ((m = s.match(/^★\s*/))) { badge = "★ 빈출"; cls = " star"; s = s.slice(m[0].length); }
+  if ((m = s.match(/^(.{1,12}?\s+—\s+|[①-⑩]\s*|주의!\s*|★\s*)/))) { badge = m[1]; s = s.slice(m[0].length); }
   const parts = s.split(" / ");
-  if (!badge && parts.length >= 2 && parts.every(x => /^[^:()]{1,25}:\s/.test(x))) {
+  if (!badge && parts.length >= 2 && parts.every(x => /^[^:()]{1,25}:\s/.test(x) && /\s/.test(x.slice(x.indexOf(":") + 1).trim()))) {
     return parts.map(x => { const k = x.indexOf(":"); return '<div class="kp-sub"><div class="kp-h"><b>' + esc(x.slice(0, k)) + '</b></div>' + richHTML(x.slice(k + 1).trim()) + '</div>'; }).join("");
   }
   let label = "";
-  const c = s.search(/:\s/);
-  if (c > 1 && c <= 45) {
+  let c = -1;
+  for (let i = 0, depth = 0; i < s.length - 1; i++) { const ch = s[i]; if (ch === "(") depth++; else if (ch === ")") depth--; else if (ch === ":" && s[i + 1] === " " && depth === 0) { c = i; break; } }
+  if (c >= 1 && c <= 60) {
     const lb = s.slice(0, c);
     const opens = (lb.match(/\(/g) || []).length, closes = (lb.match(/\)/g) || []).length;
     if (opens === closes && !richSegs(lb).some(g => g.k === "e")) { label = lb; s = s.slice(c + 1).trim(); }
   }
-  const head = badge || label ? '<div class="kp-h">' + (badge ? '<span class="kp-b' + cls + '">' + esc(badge) + '</span>' : '') + (label ? '<b>' + esc(label) + '</b>' : '') + '</div>' : '';
+  if (badge && !label) { const q = s.match(/^(.{2,30}?\?)\s+/); if (q && /—/.test(badge)) { label = q[1]; s = s.slice(q[0].length); } else return richHTML(badge + s); }
+  const head = badge || label ? '<div class="kp-h"><b>' + esc(badge) + esc(label) + '</b></div>' : '';
   return head + richHTML(s);
 }
 function renderSectionBody(s){
