@@ -9,1675 +9,3070 @@
           "day": "Day 1",
           "no": 1,
           "word": "eligible",
-          "meaning": "자격이 있는, 적격의"
+          "meaning": "자격이 있는, 적격의",
+          "pos": "형",
+          "example": {
+            "en": "Only full-time employees are eligible for the bonus.",
+            "ko": "정규직 직원만 보너스를 받을 자격이 있다."
+          }
         },
         {
           "day": "Day 1",
           "no": 2,
           "word": "managerial",
-          "meaning": "관리의"
+          "meaning": "관리의",
+          "pos": "형",
+          "example": {
+            "en": "She has five years of managerial experience.",
+            "ko": "그녀는 5년의 관리 경력이 있다."
+          }
         },
         {
           "day": "Day 1",
           "no": 3,
           "word": "apprehensive",
-          "meaning": "걱정하는, 염려하는"
+          "meaning": "걱정하는, 염려하는",
+          "pos": "형",
+          "example": {
+            "en": "Many staff members were apprehensive about the merger.",
+            "ko": "많은 직원들이 합병을 걱정했다."
+          }
         },
         {
           "day": "Day 1",
           "no": 4,
           "word": "entitle",
-          "meaning": "자격을 주다"
+          "meaning": "자격을 주다",
+          "pos": "동",
+          "example": {
+            "en": "Members are entitled to a 10 percent discount.",
+            "ko": "회원은 10% 할인을 받을 자격이 있다."
+          }
         },
         {
           "day": "Day 1",
           "no": 5,
           "word": "payroll",
-          "meaning": "임금대장"
+          "meaning": "임금대장",
+          "pos": "명",
+          "example": {
+            "en": "New employees will be added to the payroll next month.",
+            "ko": "신입 사원은 다음 달 임금대장에 올라간다."
+          }
         },
         {
           "day": "Day 1",
           "no": 6,
           "word": "occupation",
-          "meaning": "직업"
+          "meaning": "직업",
+          "pos": "명",
+          "example": {
+            "en": "Please state your occupation on the form.",
+            "ko": "양식에 직업을 적어 주세요."
+          }
         },
         {
           "day": "Day 1",
           "no": 7,
           "word": "wage",
-          "meaning": "임금, 급료"
+          "meaning": "임금, 급료",
+          "pos": "명",
+          "example": {
+            "en": "The minimum wage will rise next year.",
+            "ko": "최저 임금이 내년에 오른다."
+          }
         },
         {
           "day": "Day 1",
           "no": 8,
           "word": "attire",
-          "meaning": "복장, 옷차림새"
+          "meaning": "복장, 옷차림새",
+          "pos": "명",
+          "example": {
+            "en": "Business attire is required at the conference.",
+            "ko": "회의에서는 비즈니스 복장을 갖춰야 한다."
+          }
         },
         {
           "day": "Day 1",
           "no": 9,
           "word": "code",
-          "meaning": "규범, 관례"
+          "meaning": "규범, 관례",
+          "pos": "명",
+          "example": {
+            "en": "All employees must follow the company's dress code.",
+            "ko": "모든 직원은 회사 복장 규정을 따라야 한다."
+          }
         },
         {
           "day": "Day 1",
           "no": 10,
           "word": "concern",
-          "meaning": "우려, 걱정"
+          "meaning": "우려, 걱정",
+          "pos": "명",
+          "example": {
+            "en": "Customers expressed concern about the price increase.",
+            "ko": "고객들은 가격 인상에 대해 우려를 표했다."
+          }
         },
         {
           "day": "Day 11",
           "no": 1,
           "word": "devise",
-          "meaning": "고안하다, 발명하다"
+          "meaning": "고안하다, 발명하다",
+          "pos": "동",
+          "example": {
+            "en": "The team devised a new way to reduce waste.",
+            "ko": "팀은 낭비를 줄이는 새 방법을 고안했다."
+          }
         },
         {
           "day": "Day 11",
           "no": 2,
           "word": "revolutionary",
-          "meaning": "혁명적인"
+          "meaning": "혁명적인",
+          "pos": "형",
+          "example": {
+            "en": "The company introduced a revolutionary design.",
+            "ko": "그 회사는 혁명적인 디자인을 선보였다."
+          }
         },
         {
           "day": "Day 11",
           "no": 3,
           "word": "patent",
-          "meaning": "특허권, 특허"
+          "meaning": "특허권, 특허",
+          "pos": "명",
+          "example": {
+            "en": "The firm applied for a patent on its new battery.",
+            "ko": "그 회사는 새 배터리에 대한 특허를 신청했다."
+          }
         },
         {
           "day": "Day 11",
           "no": 4,
           "word": "envision",
-          "meaning": "계획하다, 상상하다"
+          "meaning": "계획하다, 상상하다",
+          "pos": "동",
+          "example": {
+            "en": "The CEO envisions opening stores in Asia.",
+            "ko": "CEO는 아시아에 매장을 여는 것을 계획하고 있다."
+          }
         },
         {
           "day": "Day 11",
           "no": 5,
           "word": "intend",
-          "meaning": "~할 작정이다, 의도하다"
+          "meaning": "~할 작정이다, 의도하다",
+          "pos": "동",
+          "example": {
+            "en": "We intend to finish the project by June.",
+            "ko": "우리는 6월까지 프로젝트를 끝낼 작정이다."
+          }
         },
         {
           "day": "Day 11",
           "no": 6,
           "word": "grant",
-          "meaning": "수여하다"
+          "meaning": "수여하다",
+          "pos": "동",
+          "example": {
+            "en": "The city granted the company a building permit.",
+            "ko": "시는 그 회사에 건축 허가를 내주었다."
+          }
         },
         {
           "day": "Day 11",
           "no": 7,
           "word": "inspect",
-          "meaning": "~을 검사하다"
+          "meaning": "~을 검사하다",
+          "pos": "동",
+          "example": {
+            "en": "Inspectors will inspect the factory next week.",
+            "ko": "검사관들이 다음 주에 공장을 검사할 것이다."
+          }
         },
         {
           "day": "Day 11",
           "no": 8,
           "word": "increasingly",
-          "meaning": "점점, 더욱더"
+          "meaning": "점점, 더욱더",
+          "pos": "부",
+          "example": {
+            "en": "Online shopping is becoming increasingly popular.",
+            "ko": "온라인 쇼핑이 점점 더 인기를 얻고 있다."
+          }
         },
         {
           "day": "Day 11",
           "no": 9,
           "word": "hold",
-          "meaning": "~를 수용하다, ~을 담다"
+          "meaning": "~를 수용하다, ~을 담다",
+          "pos": "동",
+          "example": {
+            "en": "The conference room can hold up to 50 people.",
+            "ko": "회의실은 최대 50명을 수용할 수 있다."
+          }
         },
         {
           "day": "Day 11",
           "no": 10,
           "word": "complicated",
-          "meaning": "복잡한"
+          "meaning": "복잡한",
+          "pos": "형",
+          "example": {
+            "en": "The instructions were too complicated to follow.",
+            "ko": "설명서가 너무 복잡해서 따라 하기 어려웠다."
+          }
         },
         {
           "day": "Day 11",
           "no": 11,
           "word": "accomplished",
-          "meaning": "숙련된, 노련한"
+          "meaning": "숙련된, 노련한",
+          "pos": "형",
+          "example": {
+            "en": "She is an accomplished pianist.",
+            "ko": "그녀는 숙련된 피아니스트다."
+          }
         },
         {
           "day": "Day 11",
           "no": 12,
           "word": "inquiry",
-          "meaning": "문의, 질문"
+          "meaning": "문의, 질문",
+          "pos": "명",
+          "example": {
+            "en": "Please direct all inquiries to the front desk.",
+            "ko": "모든 문의는 안내 데스크로 해 주세요."
+          }
         },
         {
           "day": "Day 11",
           "no": 13,
           "word": "indication",
-          "meaning": "징후, 조짐"
+          "meaning": "징후, 조짐",
+          "pos": "명",
+          "example": {
+            "en": "There is no indication that sales will improve soon.",
+            "ko": "매출이 곧 나아질 조짐은 없다."
+          }
         },
         {
           "day": "Day 11",
           "no": 14,
           "word": "compatible",
-          "meaning": "호환되는, 양립 가능한"
+          "meaning": "호환되는, 양립 가능한",
+          "pos": "형",
+          "example": {
+            "en": "This software is compatible with most computers.",
+            "ko": "이 소프트웨어는 대부분의 컴퓨터와 호환된다."
+          }
         },
         {
           "day": "Day 11",
           "no": 15,
           "word": "superior",
-          "meaning": "우수한"
+          "meaning": "우수한",
+          "pos": "형",
+          "example": {
+            "en": "Our products are superior to those of our competitors.",
+            "ko": "우리 제품은 경쟁사 제품보다 우수하다."
+          }
         },
         {
           "day": "Day 11",
           "no": 16,
           "word": "broaden",
-          "meaning": "넓히다"
+          "meaning": "넓히다",
+          "pos": "동",
+          "example": {
+            "en": "The course will help you broaden your skills.",
+            "ko": "그 강좌는 기술을 넓히는 데 도움이 될 것이다."
+          }
         },
         {
           "day": "Day 11",
           "no": 17,
           "word": "corrosion",
-          "meaning": "부식"
+          "meaning": "부식",
+          "pos": "명",
+          "example": {
+            "en": "The coating protects the pipes from corrosion.",
+            "ko": "코팅이 배관을 부식으로부터 보호한다."
+          }
         },
         {
           "day": "Day 11",
           "no": 18,
           "word": "remotely",
-          "meaning": "원격으로"
+          "meaning": "원격으로",
+          "pos": "부",
+          "example": {
+            "en": "Employees can access the system remotely.",
+            "ko": "직원들은 시스템에 원격으로 접속할 수 있다."
+          }
         },
         {
           "day": "Day 12",
           "no": 1,
           "word": "specification",
-          "meaning": "명세서"
+          "meaning": "명세서",
+          "pos": "명",
+          "example": {
+            "en": "Please check the product specifications before ordering.",
+            "ko": "주문 전에 제품 명세서를 확인해 주세요."
+          }
         },
         {
           "day": "Day 12",
           "no": 2,
           "word": "properly",
-          "meaning": "정확하게, 제대로"
+          "meaning": "정확하게, 제대로",
+          "pos": "부",
+          "example": {
+            "en": "Make sure the machine is properly installed.",
+            "ko": "기계가 제대로 설치되었는지 확인하세요."
+          }
         },
         {
           "day": "Day 12",
           "no": 3,
           "word": "capacity",
-          "meaning": "용량, 수용력"
+          "meaning": "용량, 수용력",
+          "pos": "명",
+          "example": {
+            "en": "The new warehouse has a storage capacity of 5,000 boxes.",
+            "ko": "새 창고는 상자 5,000개의 보관 용량을 갖추고 있다."
+          }
         },
         {
           "day": "Day 12",
           "no": 4,
           "word": "renovate",
-          "meaning": "개조하다, 수리하다"
+          "meaning": "개조하다, 수리하다",
+          "pos": "동",
+          "example": {
+            "en": "The hotel was renovated last year.",
+            "ko": "그 호텔은 작년에 개조되었다."
+          }
         },
         {
           "day": "Day 12",
           "no": 5,
           "word": "attribute",
-          "meaning": "~의 덕분으로 돌리다"
+          "meaning": "~의 덕분으로 돌리다",
+          "pos": "동",
+          "example": {
+            "en": "She attributed her success to hard work.",
+            "ko": "그녀는 자신의 성공을 노력 덕분으로 돌렸다."
+          }
         },
         {
           "day": "Day 12",
           "no": 6,
           "word": "tailored",
-          "meaning": "맞춤의"
+          "meaning": "맞춤의",
+          "pos": "형",
+          "example": {
+            "en": "We offer tailored training programs for each client.",
+            "ko": "우리는 고객마다 맞춤형 교육 프로그램을 제공한다."
+          }
         },
         {
           "day": "Day 12",
           "no": 7,
           "word": "economize",
-          "meaning": "절약하다"
+          "meaning": "절약하다",
+          "pos": "동",
+          "example": {
+            "en": "The company is trying to economize on energy costs.",
+            "ko": "회사는 에너지 비용을 절약하려 하고 있다."
+          }
         },
         {
           "day": "Day 12",
           "no": 8,
           "word": "trim",
-          "meaning": "다듬다"
+          "meaning": "다듬다",
+          "pos": "동",
+          "example": {
+            "en": "The gardener trimmed the bushes in front of the building.",
+            "ko": "정원사가 건물 앞 덤불을 다듬었다."
+          }
         },
         {
           "day": "Day 12",
           "no": 9,
           "word": "expiration",
-          "meaning": "만료, 만기"
+          "meaning": "만료, 만기",
+          "pos": "명",
+          "example": {
+            "en": "Check the expiration date on your passport.",
+            "ko": "여권의 만료일을 확인하세요."
+          }
         },
         {
           "day": "Day 12",
           "no": 10,
           "word": "maneuver",
-          "meaning": "이동시키다, 움직이다"
+          "meaning": "이동시키다, 움직이다",
+          "pos": "동",
+          "example": {
+            "en": "It was difficult to maneuver the truck into the narrow space.",
+            "ko": "트럭을 좁은 공간으로 옮기기가 어려웠다."
+          }
         },
         {
           "day": "Day 13",
           "no": 1,
           "word": "infuriate",
-          "meaning": "화나게 하다"
+          "meaning": "화나게 하다",
+          "pos": "동",
+          "example": {
+            "en": "The long delay infuriated the passengers.",
+            "ko": "긴 지연이 승객들을 화나게 했다."
+          }
         },
         {
           "day": "Day 13",
           "no": 2,
           "word": "courteous",
-          "meaning": "예의바른"
+          "meaning": "예의바른",
+          "pos": "형",
+          "example": {
+            "en": "The staff at the hotel were very courteous.",
+            "ko": "호텔 직원들은 매우 예의 발랐다."
+          }
         },
         {
           "day": "Day 13",
           "no": 3,
           "word": "commentary",
-          "meaning": "해설, 설명"
+          "meaning": "해설, 설명",
+          "pos": "명",
+          "example": {
+            "en": "The sports commentary was broadcast live.",
+            "ko": "스포츠 해설이 생방송으로 나갔다."
+          }
         },
         {
           "day": "Day 13",
           "no": 4,
           "word": "notification",
-          "meaning": "통지"
+          "meaning": "통지",
+          "pos": "명",
+          "example": {
+            "en": "You will receive a notification by e-mail.",
+            "ko": "이메일로 통지를 받게 될 것이다."
+          }
         },
         {
           "day": "Day 13",
           "no": 5,
           "word": "commitment",
-          "meaning": "헌신, 전념"
+          "meaning": "헌신, 전념",
+          "pos": "명",
+          "example": {
+            "en": "We appreciate your commitment to quality.",
+            "ko": "품질에 대한 헌신에 감사드립니다."
+          }
         },
         {
           "day": "Day 13",
           "no": 6,
           "word": "applaud",
-          "meaning": "~에게 박수를 보내다"
+          "meaning": "~에게 박수를 보내다",
+          "pos": "동",
+          "example": {
+            "en": "The audience applauded the speaker.",
+            "ko": "청중이 연사에게 박수를 보냈다."
+          }
         },
         {
           "day": "Day 13",
           "no": 7,
           "word": "biography",
-          "meaning": "약력, 전기"
+          "meaning": "약력, 전기",
+          "pos": "명",
+          "example": {
+            "en": "A short biography of the author appears on the back cover.",
+            "ko": "작가의 짧은 약력이 뒤표지에 실려 있다."
+          }
         },
         {
           "day": "Day 13",
           "no": 8,
           "word": "priority",
-          "meaning": "우선권, 우선사항"
+          "meaning": "우선권, 우선사항",
+          "pos": "명",
+          "example": {
+            "en": "Customer safety is our top priority.",
+            "ko": "고객 안전이 우리의 최우선 사항이다."
+          }
         },
         {
           "day": "Day 13",
           "no": 9,
           "word": "disappoint",
-          "meaning": "실망시키다"
+          "meaning": "실망시키다",
+          "pos": "동",
+          "example": {
+            "en": "The poor sales results disappointed the managers.",
+            "ko": "저조한 판매 실적이 관리자들을 실망시켰다."
+          }
         },
         {
           "day": "Day 13",
           "no": 10,
           "word": "inquire",
-          "meaning": "문의하다"
+          "meaning": "문의하다",
+          "pos": "동",
+          "example": {
+            "en": "Several customers inquired about the new service.",
+            "ko": "여러 고객이 새 서비스에 대해 문의했다."
+          }
         },
         {
           "day": "Day 13",
           "no": 11,
           "word": "disclose",
-          "meaning": "공개하다, 드러내다"
+          "meaning": "공개하다, 드러내다",
+          "pos": "동",
+          "example": {
+            "en": "The company has not disclosed the price of the deal.",
+            "ko": "회사는 거래 가격을 공개하지 않았다."
+          }
         },
         {
           "day": "Day 14",
           "no": 1,
           "word": "attraction",
-          "meaning": "관광명소"
+          "meaning": "관광명소",
+          "pos": "명",
+          "example": {
+            "en": "The museum is the city's most popular tourist attraction.",
+            "ko": "그 박물관은 도시에서 가장 인기 있는 관광 명소다."
+          }
         },
         {
           "day": "Day 14",
           "no": 2,
           "word": "itinerary",
-          "meaning": "여행일정"
+          "meaning": "여행일정",
+          "pos": "명",
+          "example": {
+            "en": "Your travel itinerary has been sent to your e-mail.",
+            "ko": "여행 일정이 이메일로 발송되었다."
+          }
         },
         {
           "day": "Day 14",
           "no": 3,
           "word": "exotic",
-          "meaning": "이국적인, 이색적인"
+          "meaning": "이국적인, 이색적인",
+          "pos": "형",
+          "example": {
+            "en": "The restaurant serves exotic dishes from around the world.",
+            "ko": "그 식당은 세계 각지의 이국적인 요리를 낸다."
+          }
         },
         {
           "day": "Day 14",
           "no": 4,
           "word": "superb",
-          "meaning": "최고의, 뛰어난"
+          "meaning": "최고의, 뛰어난",
+          "pos": "형",
+          "example": {
+            "en": "The hotel offers a superb view of the ocean.",
+            "ko": "그 호텔은 최고의 바다 전망을 자랑한다."
+          }
         },
         {
           "day": "Day 14",
           "no": 5,
           "word": "baggage",
-          "meaning": "수하물"
+          "meaning": "수하물",
+          "pos": "명",
+          "example": {
+            "en": "Please collect your baggage at carousel 3.",
+            "ko": "3번 수하물 수취대에서 짐을 찾으세요."
+          }
         },
         {
           "day": "Day 14",
           "no": 6,
           "word": "duty",
-          "meaning": "관세"
+          "meaning": "관세",
+          "pos": "명",
+          "example": {
+            "en": "You may have to pay duty on items over $800.",
+            "ko": "800달러가 넘는 물품에는 관세를 내야 할 수도 있다."
+          }
         },
         {
           "day": "Day 14",
           "no": 7,
           "word": "declare",
-          "meaning": "신고하다"
+          "meaning": "신고하다",
+          "pos": "동",
+          "example": {
+            "en": "Do you have anything to declare?",
+            "ko": "신고할 물건이 있습니까?"
+          }
         },
         {
           "day": "Day 14",
           "no": 8,
           "word": "specify",
-          "meaning": "명시하다"
+          "meaning": "명시하다",
+          "pos": "동",
+          "example": {
+            "en": "Please specify the size and color you want.",
+            "ko": "원하시는 크기와 색상을 명시해 주세요."
+          }
         },
         {
           "day": "Day 14",
           "no": 9,
           "word": "depart",
-          "meaning": "출발하다"
+          "meaning": "출발하다",
+          "pos": "동",
+          "example": {
+            "en": "The train departs from Platform 4 at 9 a.m.",
+            "ko": "기차는 오전 9시에 4번 승강장에서 출발한다."
+          }
         },
         {
           "day": "Day 14",
           "no": 10,
           "word": "outgoing",
-          "meaning": "출발하는, 떠나는"
+          "meaning": "출발하는, 떠나는",
+          "pos": "형",
+          "example": {
+            "en": "Outgoing flights were delayed because of the snow.",
+            "ko": "눈 때문에 출발 항공편이 지연되었다."
+          }
         },
         {
           "day": "Day 14",
           "no": 11,
           "word": "carrier",
-          "meaning": "항공사, 수송기"
+          "meaning": "항공사, 수송기",
+          "pos": "명",
+          "example": {
+            "en": "The airline is the country's largest carrier.",
+            "ko": "그 항공사는 그 나라 최대의 항공사다."
+          }
         },
         {
           "day": "Day 14",
           "no": 12,
           "word": "customarily",
-          "meaning": "관례상, 관습적으로"
+          "meaning": "관례상, 관습적으로",
+          "pos": "부",
+          "example": {
+            "en": "Gifts are customarily exchanged at the end of the year.",
+            "ko": "연말에는 관례상 선물을 주고받는다."
+          }
         },
         {
           "day": "Day 14",
           "no": 13,
           "word": "ship",
-          "meaning": "운송하다, 수송하다"
+          "meaning": "운송하다, 수송하다",
+          "pos": "동",
+          "example": {
+            "en": "The order will be shipped within two business days.",
+            "ko": "주문품은 영업일 기준 이틀 안에 발송된다."
+          }
         },
         {
           "day": "Day 14",
           "no": 14,
           "word": "fill out / in",
-          "meaning": "기입하다, 적어놓다"
+          "meaning": "기입하다, 적어놓다",
+          "pos": "구",
+          "example": {
+            "en": "Please fill out the application form in pen.",
+            "ko": "신청서를 펜으로 작성해 주세요."
+          }
         },
         {
           "day": "Day 14",
           "no": 15,
           "word": "customs",
-          "meaning": "세관"
+          "meaning": "세관",
+          "pos": "명",
+          "example": {
+            "en": "It took an hour to go through customs.",
+            "ko": "세관을 통과하는 데 한 시간이 걸렸다."
+          }
         },
         {
           "day": "Day 14",
           "no": 16,
           "word": "hospitality",
-          "meaning": "환대, 친절"
+          "meaning": "환대, 친절",
+          "pos": "명",
+          "example": {
+            "en": "Thank you for your warm hospitality.",
+            "ko": "따뜻하게 환대해 주셔서 감사합니다."
+          }
         },
         {
           "day": "Day 14",
           "no": 17,
           "word": "indulge",
-          "meaning": "빠지다, 탐닉하다"
+          "meaning": "빠지다, 탐닉하다",
+          "pos": "동",
+          "example": {
+            "en": "Guests can indulge in a variety of desserts.",
+            "ko": "손님들은 다양한 디저트를 마음껏 즐길 수 있다."
+          }
         },
         {
           "day": "Day 14",
           "no": 18,
           "word": "seating",
-          "meaning": "좌석 설비, 배열"
+          "meaning": "좌석 설비, 배열",
+          "pos": "명",
+          "example": {
+            "en": "The seating arrangement was changed for the event.",
+            "ko": "행사를 위해 좌석 배치가 바뀌었다."
+          }
         },
         {
           "day": "Day 14",
           "no": 19,
           "word": "besides",
-          "meaning": "게다가, 뿐만 아니라"
+          "meaning": "게다가, 뿐만 아니라",
+          "pos": "부",
+          "example": {
+            "en": "The hotel is close to the airport. Besides, it offers free parking.",
+            "ko": "그 호텔은 공항과 가깝다. 게다가 무료 주차도 제공한다."
+          }
         },
         {
           "day": "Day 15",
           "no": 1,
           "word": "alliance",
-          "meaning": "동맹, 제휴"
+          "meaning": "동맹, 제휴",
+          "pos": "명",
+          "example": {
+            "en": "The two companies formed an alliance last year.",
+            "ko": "두 회사는 작년에 제휴를 맺었다."
+          }
         },
         {
           "day": "Day 15",
           "no": 2,
           "word": "stipulation",
-          "meaning": "계약 조건"
+          "meaning": "계약 조건",
+          "pos": "명",
+          "example": {
+            "en": "The contract includes a stipulation about late payments.",
+            "ko": "계약서에는 연체에 관한 조건이 포함되어 있다."
+          }
         },
         {
           "day": "Day 15",
           "no": 3,
           "word": "term",
-          "meaning": "조건, 임기, 기한"
+          "meaning": "조건, 임기, 기한",
+          "pos": "명",
+          "example": {
+            "en": "Please read the terms of the agreement carefully.",
+            "ko": "계약 조건을 꼼꼼히 읽어 주세요."
+          }
         },
         {
           "day": "Day 15",
           "no": 4,
           "word": "compromise",
-          "meaning": "타협, 화해"
+          "meaning": "타협, 화해",
+          "pos": "명",
+          "example": {
+            "en": "Both sides finally reached a compromise.",
+            "ko": "양측은 마침내 타협에 이르렀다."
+          }
         },
         {
           "day": "Day 15",
           "no": 5,
           "word": "negotiation",
-          "meaning": "협상"
+          "meaning": "협상",
+          "pos": "명",
+          "example": {
+            "en": "Negotiations with the union will continue next week.",
+            "ko": "노조와의 협상은 다음 주에도 계속된다."
+          }
         },
         {
           "day": "Day 15",
           "no": 6,
           "word": "deadlock",
-          "meaning": "교착상태"
+          "meaning": "교착상태",
+          "pos": "명",
+          "example": {
+            "en": "The talks ended in a deadlock.",
+            "ko": "회담은 교착 상태로 끝났다."
+          }
         },
         {
           "day": "Day 15",
           "no": 7,
           "word": "originally",
-          "meaning": "원래, 처음에는"
+          "meaning": "원래, 처음에는",
+          "pos": "부",
+          "example": {
+            "en": "The meeting was originally scheduled for Monday.",
+            "ko": "회의는 원래 월요일로 예정되어 있었다."
+          }
         },
         {
           "day": "Day 15",
           "no": 8,
           "word": "expire",
-          "meaning": "만료되다"
+          "meaning": "만료되다",
+          "pos": "동",
+          "example": {
+            "en": "Your membership will expire at the end of this month.",
+            "ko": "회원 자격이 이달 말에 만료된다."
+          }
         },
         {
           "day": "Day 15",
           "no": 9,
           "word": "dedicate",
-          "meaning": "전념하다, 헌신하다"
+          "meaning": "전념하다, 헌신하다",
+          "pos": "동",
+          "example": {
+            "en": "She dedicated her career to helping small businesses.",
+            "ko": "그녀는 소규모 사업체를 돕는 데 경력을 바쳤다."
+          }
         },
         {
           "day": "Day 15",
           "no": 10,
           "word": "revised",
-          "meaning": "수정된, 변경한"
+          "meaning": "수정된, 변경한",
+          "pos": "형",
+          "example": {
+            "en": "Please refer to the revised schedule.",
+            "ko": "수정된 일정표를 참고해 주세요."
+          }
         },
         {
           "day": "Day 15",
           "no": 11,
           "word": "imperative",
-          "meaning": "반드시 해야 하는, 필수적인"
+          "meaning": "반드시 해야 하는, 필수적인",
+          "pos": "형",
+          "example": {
+            "en": "It is imperative that all staff attend the safety training.",
+            "ko": "모든 직원이 안전 교육에 반드시 참석해야 한다."
+          }
         },
         {
           "day": "Day 15",
           "no": 12,
           "word": "commission",
-          "meaning": "수수료, 커미션"
+          "meaning": "수수료, 커미션",
+          "pos": "명",
+          "example": {
+            "en": "Sales agents earn a commission on every sale.",
+            "ko": "영업 사원은 판매할 때마다 수수료를 받는다."
+          }
         },
         {
           "day": "Day 15",
           "no": 13,
           "word": "omit",
-          "meaning": "빠트리다, 생략하다"
+          "meaning": "빠트리다, 생략하다",
+          "pos": "동",
+          "example": {
+            "en": "Your name was accidentally omitted from the list.",
+            "ko": "당신의 이름이 실수로 명단에서 빠졌다."
+          }
         },
         {
           "day": "Day 15",
           "no": 14,
           "word": "confidentiality",
-          "meaning": "기밀, 비밀"
+          "meaning": "기밀, 비밀",
+          "pos": "명",
+          "example": {
+            "en": "Employees must sign a confidentiality agreement.",
+            "ko": "직원들은 비밀 유지 계약서에 서명해야 한다."
+          }
         },
         {
           "day": "Day 15",
           "no": 15,
           "word": "dispute",
-          "meaning": "분쟁, 논쟁"
+          "meaning": "분쟁, 논쟁",
+          "pos": "명",
+          "example": {
+            "en": "The two firms settled the dispute out of court.",
+            "ko": "두 회사는 법정 밖에서 분쟁을 해결했다."
+          }
         },
         {
           "day": "Day 15",
           "no": 16,
           "word": "objection",
-          "meaning": "반대, 이의"
+          "meaning": "반대, 이의",
+          "pos": "명",
+          "example": {
+            "en": "No one raised an objection to the proposal.",
+            "ko": "아무도 그 제안에 이의를 제기하지 않았다."
+          }
         },
         {
           "day": "Day 15",
           "no": 17,
           "word": "modify",
-          "meaning": "수정하다"
+          "meaning": "수정하다",
+          "pos": "동",
+          "example": {
+            "en": "We modified the design based on customer feedback.",
+            "ko": "고객 의견을 반영해 디자인을 수정했다."
+          }
         },
         {
           "day": "Day 15",
           "no": 18,
           "word": "bid",
-          "meaning": "입찰"
+          "meaning": "입찰",
+          "pos": "명",
+          "example": {
+            "en": "Our company submitted the lowest bid for the project.",
+            "ko": "우리 회사가 그 프로젝트에 가장 낮은 입찰가를 제출했다."
+          }
         },
         {
           "day": "Day 15",
           "no": 19,
           "word": "settle",
-          "meaning": "해결하다, 처리하다"
+          "meaning": "해결하다, 처리하다",
+          "pos": "동",
+          "example": {
+            "en": "The manager settled the problem quickly.",
+            "ko": "매니저가 그 문제를 신속히 해결했다."
+          }
         },
         {
           "day": "Day 15",
           "no": 20,
           "word": "pending",
-          "meaning": "미결인, 미정인"
+          "meaning": "미결인, 미정인",
+          "pos": "형",
+          "example": {
+            "en": "The decision is pending until the board meets.",
+            "ko": "결정은 이사회가 열릴 때까지 미정이다."
+          }
         },
         {
           "day": "Day 16",
           "no": 1,
           "word": "dealer",
-          "meaning": "판매업자, 상인"
+          "meaning": "판매업자, 상인",
+          "pos": "명",
+          "example": {
+            "en": "We buy our cars from a local dealer.",
+            "ko": "우리는 지역 판매업자에게서 차를 산다."
+          }
         },
         {
           "day": "Day 16",
           "no": 2,
           "word": "inventory",
-          "meaning": "재고품, 재고 목록"
+          "meaning": "재고품, 재고 목록",
+          "pos": "명",
+          "example": {
+            "en": "The store takes inventory every month.",
+            "ko": "그 가게는 매달 재고를 조사한다."
+          }
         },
         {
           "day": "Day 16",
           "no": 3,
           "word": "short",
-          "meaning": "부족한"
+          "meaning": "부족한",
+          "pos": "형",
+          "example": {
+            "en": "We are short of staff this week.",
+            "ko": "이번 주에는 직원이 부족하다."
+          }
         },
         {
           "day": "Day 16",
           "no": 4,
           "word": "invoice",
-          "meaning": "송장"
+          "meaning": "송장",
+          "pos": "명",
+          "example": {
+            "en": "Please pay the invoice within 30 days.",
+            "ko": "30일 이내에 송장 금액을 지불해 주세요."
+          }
         },
         {
           "day": "Day 16",
           "no": 5,
           "word": "assure",
-          "meaning": "~에게 보장하다"
+          "meaning": "~에게 보장하다",
+          "pos": "동",
+          "example": {
+            "en": "I can assure you that the problem will be fixed.",
+            "ko": "문제가 해결될 것이라고 장담드립니다."
+          }
         },
         {
           "day": "Day 16",
           "no": 6,
           "word": "subject",
-          "meaning": "~의 영향을 받기 쉬운"
+          "meaning": "~의 영향을 받기 쉬운",
+          "pos": "형",
+          "example": {
+            "en": "Prices are subject to change without notice.",
+            "ko": "가격은 예고 없이 변경될 수 있다."
+          }
         },
         {
           "day": "Day 16",
           "no": 7,
           "word": "seek",
-          "meaning": "구하다, 찾다"
+          "meaning": "구하다, 찾다",
+          "pos": "동",
+          "example": {
+            "en": "The company is seeking a new marketing director.",
+            "ko": "회사는 새 마케팅 이사를 구하고 있다."
+          }
         },
         {
           "day": "Day 16",
           "no": 8,
           "word": "satisfactory",
-          "meaning": "만족스러운"
+          "meaning": "만족스러운",
+          "pos": "형",
+          "example": {
+            "en": "The results of the test were satisfactory.",
+            "ko": "시험 결과는 만족스러웠다."
+          }
         },
         {
           "day": "Day 16",
           "no": 9,
           "word": "bargain",
-          "meaning": "특가품, 흥정"
+          "meaning": "특가품, 흥정",
+          "pos": "명",
+          "example": {
+            "en": "This jacket was a real bargain at $20.",
+            "ko": "이 재킷은 20달러에 산 진짜 특가품이었다."
+          }
         },
         {
           "day": "Day 16",
           "no": 10,
           "word": "affordability",
-          "meaning": "감당할 수 있는 비용"
+          "meaning": "감당할 수 있는 비용",
+          "pos": "명",
+          "example": {
+            "en": "Affordability is the main reason customers choose us.",
+            "ko": "저렴한 비용이 고객이 우리를 선택하는 주된 이유다."
+          }
         },
         {
           "day": "Day 16",
           "no": 11,
           "word": "clientele",
-          "meaning": "고객들, 모든 의뢰인"
+          "meaning": "고객들, 모든 의뢰인",
+          "pos": "명",
+          "example": {
+            "en": "The restaurant has a loyal clientele.",
+            "ko": "그 식당에는 충성스러운 고객층이 있다."
+          }
         },
         {
           "day": "Day 16",
           "no": 12,
           "word": "acclaim",
-          "meaning": "호평, 찬사"
+          "meaning": "호평, 찬사",
+          "pos": "명",
+          "example": {
+            "en": "The new novel received wide acclaim from critics.",
+            "ko": "새 소설은 비평가들에게 큰 찬사를 받았다."
+          }
         },
         {
           "day": "Day 16",
           "no": 13,
           "word": "represent",
-          "meaning": "~을 대표하다"
+          "meaning": "~을 대표하다",
+          "pos": "동",
+          "example": {
+            "en": "Ms. Kim will represent our company at the trade fair.",
+            "ko": "김 씨가 무역 박람회에서 우리 회사를 대표할 것이다."
+          }
         },
         {
           "day": "Day 16",
           "no": 14,
           "word": "rating",
-          "meaning": "등급, 평가"
+          "meaning": "등급, 평가",
+          "pos": "명",
+          "example": {
+            "en": "The hotel received a five-star rating.",
+            "ko": "그 호텔은 별 다섯 개 등급을 받았다."
+          }
         },
         {
           "day": "Day 16",
           "no": 15,
           "word": "encompass",
-          "meaning": "포함하다, 둘러싸다"
+          "meaning": "포함하다, 둘러싸다",
+          "pos": "동",
+          "example": {
+            "en": "The tour encompasses the city's main historic sites.",
+            "ko": "그 투어는 도시의 주요 유적지를 포함한다."
+          }
         },
         {
           "day": "Day 16",
           "no": 16,
           "word": "commodity",
-          "meaning": "상품, 산물"
+          "meaning": "상품, 산물",
+          "pos": "명",
+          "example": {
+            "en": "Oil is one of the most traded commodities.",
+            "ko": "석유는 가장 많이 거래되는 상품 중 하나다."
+          }
         },
         {
           "day": "Day 16",
           "no": 17,
           "word": "quote",
-          "meaning": "견적"
+          "meaning": "견적",
+          "pos": "명",
+          "example": {
+            "en": "Please send us a quote for 100 chairs.",
+            "ko": "의자 100개에 대한 견적을 보내 주세요."
+          }
         },
         {
           "day": "Day 16",
           "no": 18,
           "word": "consignment",
-          "meaning": "위탁판매"
+          "meaning": "위탁판매",
+          "pos": "명",
+          "example": {
+            "en": "The artist sold her paintings on consignment.",
+            "ko": "그 화가는 위탁 판매로 그림을 팔았다."
+          }
         },
         {
           "day": "Day 17",
           "no": 1,
           "word": "perishable",
-          "meaning": "부패하기 쉬운"
+          "meaning": "부패하기 쉬운",
+          "pos": "형",
+          "example": {
+            "en": "Perishable goods must be kept refrigerated.",
+            "ko": "부패하기 쉬운 상품은 냉장 보관해야 한다."
+          }
         },
         {
           "day": "Day 17",
           "no": 2,
           "word": "ensure",
-          "meaning": "확실하게 하다, 보장하다"
+          "meaning": "확실하게 하다, 보장하다",
+          "pos": "동",
+          "example": {
+            "en": "Please ensure that all doors are locked.",
+            "ko": "모든 문이 잠겼는지 확실히 해 주세요."
+          }
         },
         {
           "day": "Day 17",
           "no": 3,
           "word": "courier",
-          "meaning": "급송택배"
+          "meaning": "급송택배",
+          "pos": "명",
+          "example": {
+            "en": "The documents were sent by courier.",
+            "ko": "서류는 급송 택배로 보내졌다."
+          }
         },
         {
           "day": "Day 17",
           "no": 4,
           "word": "carton",
-          "meaning": "판지 상자"
+          "meaning": "판지 상자",
+          "pos": "명",
+          "example": {
+            "en": "Each carton contains 24 bottles.",
+            "ko": "상자마다 병 24개가 들어 있다."
+          }
         },
         {
           "day": "Day 17",
           "no": 5,
           "word": "shipment",
-          "meaning": "선적, 발송"
+          "meaning": "선적, 발송",
+          "pos": "명",
+          "example": {
+            "en": "The shipment arrived two days late.",
+            "ko": "발송품이 이틀 늦게 도착했다."
+          }
         },
         {
           "day": "Day 17",
           "no": 6,
           "word": "agency",
-          "meaning": "대리점"
+          "meaning": "대리점",
+          "pos": "명",
+          "example": {
+            "en": "We booked the trip through a travel agency.",
+            "ko": "우리는 여행사를 통해 여행을 예약했다."
+          }
         },
         {
           "day": "Day 17",
           "no": 7,
           "word": "pick up",
-          "meaning": "~를 찾다"
+          "meaning": "~를 찾다",
+          "pos": "구",
+          "example": {
+            "en": "You can pick up your order at the front desk.",
+            "ko": "주문품은 안내 데스크에서 찾아가실 수 있습니다."
+          }
         },
         {
           "day": "Day 17",
           "no": 8,
           "word": "formerly",
-          "meaning": "이전에"
+          "meaning": "이전에",
+          "pos": "부",
+          "example": {
+            "en": "Mr. Lee was formerly a sales manager.",
+            "ko": "이 씨는 이전에 영업부장이었다."
+          }
         },
         {
           "day": "Day 17",
           "no": 9,
           "word": "correspondence",
-          "meaning": "편지, 통신문"
+          "meaning": "편지, 통신문",
+          "pos": "명",
+          "example": {
+            "en": "Please keep all correspondence with clients.",
+            "ko": "고객과 주고받은 모든 서신을 보관해 주세요."
+          }
         },
         {
           "day": "Day 17",
           "no": 10,
           "word": "remarkable",
-          "meaning": "현저한, 두드러진"
+          "meaning": "현저한, 두드러진",
+          "pos": "형",
+          "example": {
+            "en": "The company has made remarkable progress this year.",
+            "ko": "회사는 올해 두드러진 발전을 이뤘다."
+          }
         },
         {
           "day": "Day 17",
           "no": 11,
           "word": "impose",
-          "meaning": "부과하다"
+          "meaning": "부과하다",
+          "pos": "동",
+          "example": {
+            "en": "The government imposed a new tax on imports.",
+            "ko": "정부는 수입품에 새 세금을 부과했다."
+          }
         },
         {
           "day": "Day 17",
           "no": 12,
           "word": "recipient",
-          "meaning": "수신자"
+          "meaning": "수신자",
+          "pos": "명",
+          "example": {
+            "en": "The recipient must sign for the package.",
+            "ko": "수신자는 소포를 받고 서명해야 한다."
+          }
         },
         {
           "day": "Day 17",
           "no": 13,
           "word": "affix",
-          "meaning": "붙이다"
+          "meaning": "붙이다",
+          "pos": "동",
+          "example": {
+            "en": "Please affix a stamp to the envelope.",
+            "ko": "봉투에 우표를 붙여 주세요."
+          }
         },
         {
           "day": "Day 17",
           "no": 14,
           "word": "oblige",
-          "meaning": "~에게 강요하다"
+          "meaning": "~에게 강요하다",
+          "pos": "동",
+          "example": {
+            "en": "Customers are not obliged to buy anything.",
+            "ko": "고객은 아무것도 살 의무가 없다."
+          }
         },
         {
           "day": "Day 17",
           "no": 15,
           "word": "distinctive",
-          "meaning": "독특한"
+          "meaning": "독특한",
+          "pos": "형",
+          "example": {
+            "en": "The product has a distinctive design.",
+            "ko": "그 제품은 독특한 디자인을 가지고 있다."
+          }
         },
         {
           "day": "Day 17",
           "no": 16,
           "word": "discreet",
-          "meaning": "신중한"
+          "meaning": "신중한",
+          "pos": "형",
+          "example": {
+            "en": "Please be discreet when discussing salaries.",
+            "ko": "급여에 대해 이야기할 때는 신중해 주세요."
+          }
         },
         {
           "day": "Day 18",
           "no": 1,
           "word": "complimentary",
-          "meaning": "무료의, 우대의"
+          "meaning": "무료의, 우대의",
+          "pos": "형",
+          "example": {
+            "en": "Guests receive a complimentary breakfast.",
+            "ko": "투숙객은 무료 조식을 제공받는다."
+          }
         },
         {
           "day": "Day 18",
           "no": 2,
           "word": "chef",
-          "meaning": "주방장"
+          "meaning": "주방장",
+          "pos": "명",
+          "example": {
+            "en": "The chef prepared a special menu for the event.",
+            "ko": "주방장이 행사를 위해 특별 메뉴를 준비했다."
+          }
         },
         {
           "day": "Day 18",
           "no": 3,
           "word": "accommodate",
-          "meaning": "~를 수용하다, 숙박시키다"
+          "meaning": "~를 수용하다, 숙박시키다",
+          "pos": "동",
+          "example": {
+            "en": "The hotel can accommodate up to 300 guests.",
+            "ko": "그 호텔은 최대 300명의 손님을 수용할 수 있다."
+          }
         },
         {
           "day": "Day 18",
           "no": 4,
           "word": "reception",
-          "meaning": "환영회, 접수처"
+          "meaning": "환영회, 접수처",
+          "pos": "명",
+          "example": {
+            "en": "A reception will be held after the ceremony.",
+            "ko": "기념식 후에 환영회가 열린다."
+          }
         },
         {
           "day": "Day 18",
           "no": 5,
           "word": "refreshments",
-          "meaning": "다과"
+          "meaning": "다과",
+          "pos": "명",
+          "example": {
+            "en": "Refreshments will be served during the break.",
+            "ko": "쉬는 시간에 다과가 제공된다."
+          }
         },
         {
           "day": "Day 18",
           "no": 6,
           "word": "cater",
-          "meaning": "음식물을 공급하다"
+          "meaning": "음식물을 공급하다",
+          "pos": "동",
+          "example": {
+            "en": "A local restaurant will cater the event.",
+            "ko": "지역 식당이 행사 음식을 제공할 것이다."
+          }
         },
         {
           "day": "Day 18",
           "no": 7,
           "word": "rate",
-          "meaning": "요금"
+          "meaning": "요금",
+          "pos": "명",
+          "example": {
+            "en": "The hotel offers special rates for groups.",
+            "ko": "호텔은 단체에 특별 요금을 제공한다."
+          }
         },
         {
           "day": "Day 18",
           "no": 8,
           "word": "amenity",
-          "meaning": "편의시설"
+          "meaning": "편의시설",
+          "pos": "명",
+          "example": {
+            "en": "The apartment has many modern amenities.",
+            "ko": "그 아파트에는 현대식 편의시설이 많다."
+          }
         },
         {
           "day": "Day 18",
           "no": 9,
           "word": "sip",
-          "meaning": "홀짝이며 마시다"
+          "meaning": "홀짝이며 마시다",
+          "pos": "동",
+          "example": {
+            "en": "She sipped her coffee while reading the report.",
+            "ko": "그녀는 보고서를 읽으며 커피를 홀짝였다."
+          }
         },
         {
           "day": "Day 18",
           "no": 10,
           "word": "stir",
-          "meaning": "휘젓다"
+          "meaning": "휘젓다",
+          "pos": "동",
+          "example": {
+            "en": "Stir the soup slowly for five minutes.",
+            "ko": "수프를 5분 동안 천천히 저어 주세요."
+          }
         },
         {
           "day": "Day 18",
           "no": 11,
           "word": "occupancy",
-          "meaning": "이용률"
+          "meaning": "이용률",
+          "pos": "명",
+          "example": {
+            "en": "Hotel occupancy rates are high in summer.",
+            "ko": "여름에는 호텔 객실 이용률이 높다."
+          }
         },
         {
           "day": "Day 18",
           "no": 12,
           "word": "spot",
-          "meaning": "발견하다"
+          "meaning": "발견하다",
+          "pos": "동",
+          "example": {
+            "en": "I spotted a mistake in the report.",
+            "ko": "보고서에서 실수를 발견했다."
+          }
         },
         {
           "day": "Day 19",
           "no": 1,
           "word": "revenue",
-          "meaning": "수입"
+          "meaning": "수입",
+          "pos": "명",
+          "example": {
+            "en": "The company's annual revenue reached $2 million.",
+            "ko": "회사의 연간 수입이 200만 달러에 이르렀다."
+          }
         },
         {
           "day": "Day 19",
           "no": 2,
           "word": "projection",
-          "meaning": "예상(치)"
+          "meaning": "예상(치)",
+          "pos": "명",
+          "example": {
+            "en": "Sales projections for next year look positive.",
+            "ko": "내년 매출 예상치가 긍정적이다."
+          }
         },
         {
           "day": "Day 19",
           "no": 3,
           "word": "sale",
-          "meaning": "매출액"
+          "meaning": "매출액",
+          "pos": "명",
+          "example": {
+            "en": "Sales of the new phone exceeded expectations.",
+            "ko": "새 휴대폰의 매출액이 기대를 넘었다."
+          }
         },
         {
           "day": "Day 19",
           "no": 4,
           "word": "representative",
-          "meaning": "직원, 대표자"
+          "meaning": "직원, 대표자",
+          "pos": "명",
+          "example": {
+            "en": "A customer service representative will call you back.",
+            "ko": "고객 서비스 직원이 다시 전화드릴 것이다."
+          }
         },
         {
           "day": "Day 19",
           "no": 5,
           "word": "figure",
-          "meaning": "총액, 합계, 수"
+          "meaning": "총액, 합계, 수",
+          "pos": "명",
+          "example": {
+            "en": "Sales figures for May were higher than expected.",
+            "ko": "5월 매출 수치가 예상보다 높았다."
+          }
         },
         {
           "day": "Day 19",
           "no": 6,
           "word": "incur",
-          "meaning": "(손실을) 입다, 지다"
+          "meaning": "(손실을) 입다, 지다",
+          "pos": "동",
+          "example": {
+            "en": "The company incurred heavy losses last year.",
+            "ko": "회사는 작년에 큰 손실을 입었다."
+          }
         },
         {
           "day": "Day 20",
           "no": 1,
           "word": "audit",
-          "meaning": "회계 감사, 심사"
+          "meaning": "회계 감사, 심사",
+          "pos": "명",
+          "example": {
+            "en": "An audit of the company's accounts is done every year.",
+            "ko": "회사 장부에 대한 회계 감사가 매년 실시된다."
+          }
         },
         {
           "day": "Day 20",
           "no": 2,
           "word": "accounting",
-          "meaning": "회계"
+          "meaning": "회계",
+          "pos": "명",
+          "example": {
+            "en": "She works in the accounting department.",
+            "ko": "그녀는 회계 부서에서 일한다."
+          }
         },
         {
           "day": "Day 20",
           "no": 3,
           "word": "curtail",
-          "meaning": "~을 줄이다, 삭감하다"
+          "meaning": "~을 줄이다, 삭감하다",
+          "pos": "동",
+          "example": {
+            "en": "The company curtailed spending on travel.",
+            "ko": "회사는 출장비 지출을 줄였다."
+          }
         },
         {
           "day": "Day 20",
           "no": 4,
           "word": "proceeds",
-          "meaning": "수익금"
+          "meaning": "수익금",
+          "pos": "명",
+          "example": {
+            "en": "The proceeds from the event will go to charity.",
+            "ko": "행사 수익금은 자선 단체에 기부된다."
+          }
         },
         {
           "day": "Day 20",
           "no": 5,
           "word": "reimburse",
-          "meaning": "변제하다, 상환하다"
+          "meaning": "변제하다, 상환하다",
+          "pos": "동",
+          "example": {
+            "en": "The company will reimburse you for travel expenses.",
+            "ko": "회사가 출장 경비를 변제해 줄 것이다."
+          }
         },
         {
           "day": "Day 20",
           "no": 6,
           "word": "inspector",
-          "meaning": "조사관, 감독관"
+          "meaning": "조사관, 감독관",
+          "pos": "명",
+          "example": {
+            "en": "A safety inspector visited the factory.",
+            "ko": "안전 감독관이 공장을 방문했다."
+          }
         },
         {
           "day": "Day 20",
           "no": 7,
           "word": "quarter",
-          "meaning": "사분기"
+          "meaning": "사분기",
+          "pos": "명",
+          "example": {
+            "en": "Profits rose in the third quarter.",
+            "ko": "3분기에 이익이 늘었다."
+          }
         },
         {
           "day": "Day 20",
           "no": 8,
           "word": "browse",
-          "meaning": "훑어보다"
+          "meaning": "훑어보다",
+          "pos": "동",
+          "example": {
+            "en": "Customers can browse our catalog online.",
+            "ko": "고객은 온라인으로 카탈로그를 훑어볼 수 있다."
+          }
         },
         {
           "day": "Day 20",
           "no": 9,
           "word": "prompt",
-          "meaning": "즉각적인, 신속한"
+          "meaning": "즉각적인, 신속한",
+          "pos": "형",
+          "example": {
+            "en": "Thank you for your prompt reply.",
+            "ko": "신속하게 답변해 주셔서 감사합니다."
+          }
         },
         {
           "day": "Day 20",
           "no": 10,
           "word": "deduct",
-          "meaning": "공제하다, 빼다"
+          "meaning": "공제하다, 빼다",
+          "pos": "동",
+          "example": {
+            "en": "Taxes are deducted from your monthly salary.",
+            "ko": "세금은 월급에서 공제된다."
+          }
         },
         {
           "day": "Day 20",
           "no": 11,
           "word": "amend",
-          "meaning": "수정하다"
+          "meaning": "수정하다",
+          "pos": "동",
+          "example": {
+            "en": "The contract was amended to include a new clause.",
+            "ko": "새 조항을 넣기 위해 계약서가 수정되었다."
+          }
         },
         {
           "day": "Day 20",
           "no": 12,
           "word": "exempt",
-          "meaning": "면제된"
+          "meaning": "면제된",
+          "pos": "형",
+          "example": {
+            "en": "Some items are exempt from sales tax.",
+            "ko": "일부 품목은 판매세가 면제된다."
+          }
         },
         {
           "day": "Day 20",
           "no": 13,
           "word": "fortunate",
-          "meaning": "운좋은"
+          "meaning": "운좋은",
+          "pos": "형",
+          "example": {
+            "en": "We were fortunate to get tickets for the show.",
+            "ko": "우리는 운 좋게 공연 표를 구했다."
+          }
         },
         {
           "day": "Day 20",
           "no": 14,
           "word": "expenditure",
-          "meaning": "지출, 비용"
+          "meaning": "지출, 비용",
+          "pos": "명",
+          "example": {
+            "en": "The company cut its expenditure on advertising.",
+            "ko": "회사는 광고 지출을 줄였다."
+          }
         },
         {
           "day": "Day 20",
           "no": 15,
           "word": "fiscal",
-          "meaning": "회계의"
+          "meaning": "회계의",
+          "pos": "형",
+          "example": {
+            "en": "The fiscal year ends on March 31.",
+            "ko": "회계 연도는 3월 31일에 끝난다."
+          }
         },
         {
           "day": "Day 20",
           "no": 16,
           "word": "incidental",
-          "meaning": "부수적인"
+          "meaning": "부수적인",
+          "pos": "형",
+          "example": {
+            "en": "Incidental expenses such as taxi fares will be covered.",
+            "ko": "택시비 같은 부수적인 비용은 지원된다."
+          }
         },
         {
           "day": "Day 20",
           "no": 17,
           "word": "liable",
-          "meaning": "책임져야 할"
+          "meaning": "책임져야 할",
+          "pos": "형",
+          "example": {
+            "en": "The company is liable for any damage to the goods.",
+            "ko": "회사는 상품 손상에 대해 책임을 져야 한다."
+          }
         },
         {
           "day": "Day 20",
           "no": 18,
           "word": "turnover",
-          "meaning": "총 매상고"
+          "meaning": "총 매상고",
+          "pos": "명",
+          "example": {
+            "en": "The company's annual turnover was $5 million.",
+            "ko": "회사의 연간 총매출은 500만 달러였다."
+          }
         },
         {
           "day": "Day 21",
           "no": 1,
           "word": "foresee",
-          "meaning": "예견하다, 예감하다"
+          "meaning": "예견하다, 예감하다",
+          "pos": "동",
+          "example": {
+            "en": "No one could foresee the sudden rise in prices.",
+            "ko": "아무도 갑작스러운 가격 상승을 예견하지 못했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 2,
           "word": "relocate",
-          "meaning": "이전하다"
+          "meaning": "이전하다",
+          "pos": "동",
+          "example": {
+            "en": "The firm will relocate its headquarters to Busan.",
+            "ko": "그 회사는 본사를 부산으로 이전할 것이다."
+          }
         },
         {
           "day": "Day 21",
           "no": 3,
           "word": "asset",
-          "meaning": "자산"
+          "meaning": "자산",
+          "pos": "명",
+          "example": {
+            "en": "Our employees are our most valuable asset.",
+            "ko": "직원이 우리의 가장 소중한 자산이다."
+          }
         },
         {
           "day": "Day 21",
           "no": 4,
           "word": "misplace",
-          "meaning": "잃어버리다"
+          "meaning": "잃어버리다",
+          "pos": "동",
+          "example": {
+            "en": "I seem to have misplaced my keys.",
+            "ko": "열쇠를 어디 뒀는지 잃어버린 것 같다."
+          }
         },
         {
           "day": "Day 21",
           "no": 5,
           "word": "considerable",
-          "meaning": "상당한"
+          "meaning": "상당한",
+          "pos": "형",
+          "example": {
+            "en": "The project required a considerable amount of time.",
+            "ko": "그 프로젝트에는 상당한 시간이 필요했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 6,
           "word": "last",
-          "meaning": "지속되다"
+          "meaning": "지속되다",
+          "pos": "동",
+          "example": {
+            "en": "The meeting lasted for three hours.",
+            "ko": "회의는 세 시간 동안 지속되었다."
+          }
         },
         {
           "day": "Day 21",
           "no": 7,
           "word": "persist",
-          "meaning": "계속하다"
+          "meaning": "계속하다",
+          "pos": "동",
+          "example": {
+            "en": "If the problem persists, please contact us.",
+            "ko": "문제가 계속되면 연락 주세요."
+          }
         },
         {
           "day": "Day 21",
           "no": 8,
           "word": "force",
-          "meaning": "세력"
+          "meaning": "세력",
+          "pos": "명",
+          "example": {
+            "en": "The company is a major force in the industry.",
+            "ko": "그 회사는 업계의 주요 세력이다."
+          }
         },
         {
           "day": "Day 21",
           "no": 9,
           "word": "establish",
-          "meaning": "설립하다"
+          "meaning": "설립하다",
+          "pos": "동",
+          "example": {
+            "en": "The company was established in 1985.",
+            "ko": "그 회사는 1985년에 설립되었다."
+          }
         },
         {
           "day": "Day 21",
           "no": 10,
           "word": "initiate",
-          "meaning": "착수하다, 시작하다"
+          "meaning": "착수하다, 시작하다",
+          "pos": "동",
+          "example": {
+            "en": "The city initiated a new recycling program.",
+            "ko": "시는 새 재활용 프로그램에 착수했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 11,
           "word": "renowned",
-          "meaning": "명성이 있는"
+          "meaning": "명성이 있는",
+          "pos": "형",
+          "example": {
+            "en": "The hotel is renowned for its excellent service.",
+            "ko": "그 호텔은 훌륭한 서비스로 명성이 있다."
+          }
         },
         {
           "day": "Day 21",
           "no": 12,
           "word": "informed",
-          "meaning": "정보에 근거한"
+          "meaning": "정보에 근거한",
+          "pos": "형",
+          "example": {
+            "en": "We need more data to make an informed decision.",
+            "ko": "정보에 근거한 결정을 내리려면 더 많은 자료가 필요하다."
+          }
         },
         {
           "day": "Day 21",
           "no": 13,
           "word": "minutes",
-          "meaning": "회의록"
+          "meaning": "회의록",
+          "pos": "명",
+          "example": {
+            "en": "Ms. Park took the minutes at the meeting.",
+            "ko": "박 씨가 회의록을 작성했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 14,
           "word": "waive",
-          "meaning": "적용하지 않다, 포기하다"
+          "meaning": "적용하지 않다, 포기하다",
+          "pos": "동",
+          "example": {
+            "en": "The bank agreed to waive the fee.",
+            "ko": "은행은 수수료를 면제해 주기로 했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 15,
           "word": "authority",
-          "meaning": "권한, 당국"
+          "meaning": "권한, 당국",
+          "pos": "명",
+          "example": {
+            "en": "Only managers have the authority to approve refunds.",
+            "ko": "관리자만 환불을 승인할 권한이 있다."
+          }
         },
         {
           "day": "Day 21",
           "no": 16,
           "word": "surpass",
-          "meaning": "능가하다"
+          "meaning": "능가하다",
+          "pos": "동",
+          "example": {
+            "en": "Sales this year surpassed last year's total.",
+            "ko": "올해 매출은 작년 총액을 능가했다."
+          }
         },
         {
           "day": "Day 21",
           "no": 17,
           "word": "improbable",
-          "meaning": "일어날 것 같지 않은"
+          "meaning": "일어날 것 같지 않은",
+          "pos": "형",
+          "example": {
+            "en": "It is improbable that the project will finish on time.",
+            "ko": "프로젝트가 제때 끝날 것 같지 않다."
+          }
         },
         {
           "day": "Day 21",
           "no": 18,
           "word": "simultaneously",
-          "meaning": "동시에"
+          "meaning": "동시에",
+          "pos": "부",
+          "example": {
+            "en": "The film will be released simultaneously in ten countries.",
+            "ko": "그 영화는 10개국에서 동시에 개봉된다."
+          }
         },
         {
           "day": "Day 21",
           "no": 19,
           "word": "premier",
-          "meaning": "으뜸의"
+          "meaning": "으뜸의",
+          "pos": "형",
+          "example": {
+            "en": "It is the city's premier hotel.",
+            "ko": "그곳은 도시 최고의 호텔이다."
+          }
         },
         {
           "day": "Day 22",
           "no": 1,
           "word": "convene",
-          "meaning": "모이다, 개최하다"
+          "meaning": "모이다, 개최하다",
+          "pos": "동",
+          "example": {
+            "en": "The committee will convene next Monday.",
+            "ko": "위원회는 다음 주 월요일에 소집된다."
+          }
         },
         {
           "day": "Day 22",
           "no": 2,
           "word": "refute",
-          "meaning": "부인하다, 반박하다"
+          "meaning": "부인하다, 반박하다",
+          "pos": "동",
+          "example": {
+            "en": "The company refuted the reports of layoffs.",
+            "ko": "회사는 정리 해고 보도를 반박했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 3,
           "word": "coordination",
-          "meaning": "조정"
+          "meaning": "조정",
+          "pos": "명",
+          "example": {
+            "en": "The event required careful coordination between departments.",
+            "ko": "그 행사는 부서 간 세심한 조정이 필요했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 4,
           "word": "unanimous",
-          "meaning": "만장일치의"
+          "meaning": "만장일치의",
+          "pos": "형",
+          "example": {
+            "en": "The board reached a unanimous decision.",
+            "ko": "이사회는 만장일치로 결정을 내렸다."
+          }
         },
         {
           "day": "Day 22",
           "no": 5,
           "word": "convince",
-          "meaning": "납득시키다"
+          "meaning": "납득시키다",
+          "pos": "동",
+          "example": {
+            "en": "She convinced the client to sign the contract.",
+            "ko": "그녀는 고객을 설득해 계약서에 서명하게 했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 6,
           "word": "consensus",
-          "meaning": "여론, 일치된 의견"
+          "meaning": "여론, 일치된 의견",
+          "pos": "명",
+          "example": {
+            "en": "The team reached a consensus on the new plan.",
+            "ko": "팀은 새 계획에 대해 의견 일치를 보았다."
+          }
         },
         {
           "day": "Day 22",
           "no": 7,
           "word": "defer",
-          "meaning": "미루다, 연기하다"
+          "meaning": "미루다, 연기하다",
+          "pos": "동",
+          "example": {
+            "en": "The decision was deferred until next week.",
+            "ko": "결정은 다음 주로 미뤄졌다."
+          }
         },
         {
           "day": "Day 22",
           "no": 8,
           "word": "comment",
-          "meaning": "논평하다, 언급하다"
+          "meaning": "논평하다, 언급하다",
+          "pos": "동",
+          "example": {
+            "en": "The spokesperson declined to comment on the merger.",
+            "ko": "대변인은 합병에 대해 언급하기를 거부했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 9,
           "word": "object",
-          "meaning": "반대하다"
+          "meaning": "반대하다",
+          "pos": "동",
+          "example": {
+            "en": "Several residents objected to the new building.",
+            "ko": "여러 주민이 새 건물에 반대했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 10,
           "word": "distract",
-          "meaning": "산만하게 하다"
+          "meaning": "산만하게 하다",
+          "pos": "동",
+          "example": {
+            "en": "Loud noises can distract workers.",
+            "ko": "큰 소음은 직원들의 주의를 산만하게 할 수 있다."
+          }
         },
         {
           "day": "Day 22",
           "no": 11,
           "word": "persuasive",
-          "meaning": "설득력 있는"
+          "meaning": "설득력 있는",
+          "pos": "형",
+          "example": {
+            "en": "He gave a persuasive presentation.",
+            "ko": "그는 설득력 있는 발표를 했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 12,
           "word": "preside",
-          "meaning": "사회를 보다"
+          "meaning": "사회를 보다",
+          "pos": "동",
+          "example": {
+            "en": "Mr. Han will preside over the meeting.",
+            "ko": "한 씨가 회의의 사회를 볼 것이다."
+          }
         },
         {
           "day": "Day 22",
           "no": 13,
           "word": "constraint",
-          "meaning": "제한"
+          "meaning": "제한",
+          "pos": "명",
+          "example": {
+            "en": "Budget constraints limited the size of the project.",
+            "ko": "예산 제한 때문에 프로젝트 규모가 줄었다."
+          }
         },
         {
           "day": "Day 22",
           "no": 14,
           "word": "condensed",
-          "meaning": "요약한, 응축한"
+          "meaning": "요약한, 응축한",
+          "pos": "형",
+          "example": {
+            "en": "A condensed version of the report is attached.",
+            "ko": "보고서 요약본이 첨부되어 있다."
+          }
         },
         {
           "day": "Day 22",
           "no": 15,
           "word": "endorse",
-          "meaning": "지지하다, 보증하다"
+          "meaning": "지지하다, 보증하다",
+          "pos": "동",
+          "example": {
+            "en": "The mayor endorsed the new transportation plan.",
+            "ko": "시장은 새 교통 계획을 지지했다."
+          }
         },
         {
           "day": "Day 22",
           "no": 16,
           "word": "punctually",
-          "meaning": "제시간에"
+          "meaning": "제시간에",
+          "pos": "부",
+          "example": {
+            "en": "Please arrive punctually for the interview.",
+            "ko": "면접에는 제시간에 도착해 주세요."
+          }
         },
         {
           "day": "Day 23",
           "no": 1,
           "word": "enroll",
-          "meaning": "등록하다"
+          "meaning": "등록하다",
+          "pos": "동",
+          "example": {
+            "en": "Over 100 people enrolled in the course.",
+            "ko": "100명이 넘는 사람이 그 강좌에 등록했다."
+          }
         },
         {
           "day": "Day 23",
           "no": 2,
           "word": "assent",
-          "meaning": "찬성하다"
+          "meaning": "찬성하다",
+          "pos": "동",
+          "example": {
+            "en": "The director assented to the proposal.",
+            "ko": "이사는 그 제안에 찬성했다."
+          }
         },
         {
           "day": "Day 23",
           "no": 3,
           "word": "regard",
-          "meaning": "~을 ~으로 간주하다, 여기다"
+          "meaning": "~을 ~으로 간주하다, 여기다",
+          "pos": "동",
+          "example": {
+            "en": "She is regarded as the best designer in the company.",
+            "ko": "그녀는 회사 최고의 디자이너로 여겨진다."
+          }
         },
         {
           "day": "Day 23",
           "no": 4,
           "word": "tentative",
-          "meaning": "임시적인, 잠정적인"
+          "meaning": "임시적인, 잠정적인",
+          "pos": "형",
+          "example": {
+            "en": "The dates for the conference are still tentative.",
+            "ko": "회의 날짜는 아직 잠정적이다."
+          }
         },
         {
           "day": "Day 23",
           "no": 5,
           "word": "function",
-          "meaning": "행사, 연회"
+          "meaning": "행사, 연회",
+          "pos": "명",
+          "example": {
+            "en": "The hotel ballroom is available for private functions.",
+            "ko": "호텔 연회장은 개인 행사용으로 이용할 수 있다."
+          }
         },
         {
           "day": "Day 23",
           "no": 6,
           "word": "commence",
-          "meaning": "시작되다"
+          "meaning": "시작되다",
+          "pos": "동",
+          "example": {
+            "en": "The concert will commence at 7 p.m.",
+            "ko": "콘서트는 오후 7시에 시작된다."
+          }
         },
         {
           "day": "Day 23",
           "no": 7,
           "word": "objective",
-          "meaning": "목표, 목적"
+          "meaning": "목표, 목적",
+          "pos": "명",
+          "example": {
+            "en": "Our main objective is to increase sales.",
+            "ko": "우리의 주요 목표는 매출을 늘리는 것이다."
+          }
         },
         {
           "day": "Day 23",
           "no": 8,
           "word": "reimbursement",
-          "meaning": "상환, 변제"
+          "meaning": "상환, 변제",
+          "pos": "명",
+          "example": {
+            "en": "Submit your receipts for reimbursement.",
+            "ko": "상환을 받으려면 영수증을 제출하세요."
+          }
         },
         {
           "day": "Day 23",
           "no": 9,
           "word": "arise",
-          "meaning": "발생하다, 일어나다"
+          "meaning": "발생하다, 일어나다",
+          "pos": "동",
+          "example": {
+            "en": "Problems may arise if we rush the project.",
+            "ko": "프로젝트를 서두르면 문제가 생길 수 있다."
+          }
         },
         {
           "day": "Day 23",
           "no": 10,
           "word": "union",
-          "meaning": "노동조합"
+          "meaning": "노동조합",
+          "pos": "명",
+          "example": {
+            "en": "The union is negotiating for higher wages.",
+            "ko": "노동조합은 임금 인상을 위해 협상하고 있다."
+          }
         },
         {
           "day": "Day 23",
           "no": 11,
           "word": "exploit",
-          "meaning": "착취하다"
+          "meaning": "착취하다",
+          "pos": "동",
+          "example": {
+            "en": "The company was accused of exploiting its workers.",
+            "ko": "그 회사는 직원을 착취했다는 비난을 받았다."
+          }
         },
         {
           "day": "Day 23",
           "no": 12,
           "word": "appoint",
-          "meaning": "임명하다, 지명하다"
+          "meaning": "임명하다, 지명하다",
+          "pos": "동",
+          "example": {
+            "en": "Ms. Choi was appointed as the new director.",
+            "ko": "최 씨가 새 이사로 임명되었다."
+          }
         },
         {
           "day": "Day 23",
           "no": 13,
           "word": "appraisal",
-          "meaning": "평가"
+          "meaning": "평가",
+          "pos": "명",
+          "example": {
+            "en": "Annual performance appraisals take place in December.",
+            "ko": "연례 업무 평가는 12월에 실시된다."
+          }
         },
         {
           "day": "Day 23",
           "no": 14,
           "word": "radically",
-          "meaning": "완전히, 철저히"
+          "meaning": "완전히, 철저히",
+          "pos": "부",
+          "example": {
+            "en": "The new system radically changed the way we work.",
+            "ko": "새 시스템은 우리의 일하는 방식을 완전히 바꿨다."
+          }
         },
         {
           "day": "Day 23",
           "no": 15,
           "word": "mandatory",
-          "meaning": "의무적인"
+          "meaning": "의무적인",
+          "pos": "형",
+          "example": {
+            "en": "Attendance at the meeting is mandatory.",
+            "ko": "회의 참석은 의무다."
+          }
         },
         {
           "day": "Day 23",
           "no": 16,
           "word": "competent",
-          "meaning": "유능한, 능숙한"
+          "meaning": "유능한, 능숙한",
+          "pos": "형",
+          "example": {
+            "en": "We need a competent person to lead the team.",
+            "ko": "팀을 이끌 유능한 사람이 필요하다."
+          }
         },
         {
           "day": "Day 23",
           "no": 17,
           "word": "designate",
-          "meaning": "지명하다"
+          "meaning": "지명하다",
+          "pos": "동",
+          "example": {
+            "en": "Mr. Kim was designated as team leader.",
+            "ko": "김 씨가 팀장으로 지명되었다."
+          }
         },
         {
           "day": "Day 23",
           "no": 18,
           "word": "executive",
-          "meaning": "경영의"
+          "meaning": "경영의",
+          "pos": "형",
+          "example": {
+            "en": "She was promoted to an executive position.",
+            "ko": "그녀는 경영직으로 승진했다."
+          }
         },
         {
           "day": "Day 23",
           "no": 19,
           "word": "dedication",
-          "meaning": "헌신"
+          "meaning": "헌신",
+          "pos": "명",
+          "example": {
+            "en": "We thank you for your dedication to the company.",
+            "ko": "회사에 대한 헌신에 감사드립니다."
+          }
         },
         {
           "day": "Day 23",
           "no": 20,
           "word": "dismiss",
-          "meaning": "해임하다"
+          "meaning": "해임하다",
+          "pos": "동",
+          "example": {
+            "en": "The manager was dismissed for poor performance.",
+            "ko": "그 관리자는 저조한 실적으로 해임되었다."
+          }
         },
         {
           "day": "Day 23",
           "no": 21,
           "word": "praise",
-          "meaning": "칭찬"
+          "meaning": "칭찬",
+          "pos": "명",
+          "example": {
+            "en": "The project received praise from the client.",
+            "ko": "그 프로젝트는 고객에게 칭찬을 받았다."
+          }
         },
         {
           "day": "Day 23",
           "no": 22,
           "word": "deliberation",
-          "meaning": "토의"
+          "meaning": "토의",
+          "pos": "명",
+          "example": {
+            "en": "After much deliberation, the board approved the plan.",
+            "ko": "많은 토의 끝에 이사회는 계획을 승인했다."
+          }
         },
         {
           "day": "Day 23",
           "no": 23,
           "word": "serve",
-          "meaning": "일하다, 근무하다"
+          "meaning": "일하다, 근무하다",
+          "pos": "동",
+          "example": {
+            "en": "She served as the company's president for ten years.",
+            "ko": "그녀는 10년 동안 회사 대표로 일했다."
+          }
         },
         {
           "day": "Day 23",
           "no": 24,
           "word": "resignation",
-          "meaning": "사임, 사직서"
+          "meaning": "사임, 사직서",
+          "pos": "명",
+          "example": {
+            "en": "He submitted his resignation last Friday.",
+            "ko": "그는 지난 금요일에 사직서를 제출했다."
+          }
         },
         {
           "day": "Day 25",
           "no": 1,
           "word": "congestion",
-          "meaning": "체증, 혼잡"
+          "meaning": "체증, 혼잡",
+          "pos": "명",
+          "example": {
+            "en": "Traffic congestion is worst during rush hour.",
+            "ko": "교통 체증은 출퇴근 시간에 가장 심하다."
+          }
         },
         {
           "day": "Day 25",
           "no": 2,
           "word": "divert",
-          "meaning": "우회시키다"
+          "meaning": "우회시키다",
+          "pos": "동",
+          "example": {
+            "en": "Traffic will be diverted to Main Street.",
+            "ko": "차량은 메인 스트리트로 우회될 것이다."
+          }
         },
         {
           "day": "Day 25",
           "no": 3,
           "word": "detour",
-          "meaning": "우회"
+          "meaning": "우회",
+          "pos": "명",
+          "example": {
+            "en": "Drivers should take a detour around the construction site.",
+            "ko": "운전자들은 공사 현장을 우회해야 한다."
+          }
         },
         {
           "day": "Day 25",
           "no": 4,
           "word": "malfunction",
-          "meaning": "오작동, 기능불량"
+          "meaning": "오작동, 기능불량",
+          "pos": "명",
+          "example": {
+            "en": "The delay was caused by a malfunction in the system.",
+            "ko": "지연은 시스템 오작동으로 발생했다."
+          }
         },
         {
           "day": "Day 25",
           "no": 5,
           "word": "permit",
-          "meaning": "허락하다"
+          "meaning": "허락하다",
+          "pos": "동",
+          "example": {
+            "en": "Smoking is not permitted in the building.",
+            "ko": "건물 안에서는 흡연이 허락되지 않는다."
+          }
         },
         {
           "day": "Day 25",
           "no": 6,
           "word": "designated",
-          "meaning": "지정된"
+          "meaning": "지정된",
+          "pos": "형",
+          "example": {
+            "en": "Please park only in designated areas.",
+            "ko": "지정된 구역에만 주차해 주세요."
+          }
         },
         {
           "day": "Day 25",
           "no": 7,
           "word": "equip",
-          "meaning": "갖추다, 설비하다"
+          "meaning": "갖추다, 설비하다",
+          "pos": "동",
+          "example": {
+            "en": "All rooms are equipped with high-speed Internet.",
+            "ko": "모든 객실에 초고속 인터넷이 갖춰져 있다."
+          }
         },
         {
           "day": "Day 25",
           "no": 8,
           "word": "transit",
-          "meaning": "교통, 수송"
+          "meaning": "교통, 수송",
+          "pos": "명",
+          "example": {
+            "en": "Many people use public transit to get to work.",
+            "ko": "많은 사람이 대중교통으로 출근한다."
+          }
         },
         {
           "day": "Day 25",
           "no": 9,
           "word": "collision",
-          "meaning": "충돌"
+          "meaning": "충돌",
+          "pos": "명",
+          "example": {
+            "en": "No one was hurt in the collision.",
+            "ko": "충돌 사고로 다친 사람은 없었다."
+          }
         },
         {
           "day": "Day 25",
           "no": 10,
           "word": "tow",
-          "meaning": "견인하다"
+          "meaning": "견인하다",
+          "pos": "동",
+          "example": {
+            "en": "Cars parked illegally will be towed.",
+            "ko": "불법 주차된 차량은 견인된다."
+          }
         },
         {
           "day": "Day 26",
           "no": 1,
           "word": "delinquent",
-          "meaning": "연체된, 미불의"
+          "meaning": "연체된, 미불의",
+          "pos": "형",
+          "example": {
+            "en": "Delinquent accounts will be charged a late fee.",
+            "ko": "연체된 계좌에는 연체료가 부과된다."
+          }
         },
         {
           "day": "Day 26",
           "no": 2,
           "word": "overdue",
-          "meaning": "기한이 지난"
+          "meaning": "기한이 지난",
+          "pos": "형",
+          "example": {
+            "en": "Your payment is two weeks overdue.",
+            "ko": "지불 기한이 2주 지났습니다."
+          }
         },
         {
           "day": "Day 26",
           "no": 3,
           "word": "regrettably",
-          "meaning": "유감스럽게도"
+          "meaning": "유감스럽게도",
+          "pos": "부",
+          "example": {
+            "en": "Regrettably, the event has been canceled.",
+            "ko": "유감스럽게도 행사가 취소되었다."
+          }
         },
         {
           "day": "Day 26",
           "no": 4,
           "word": "lower",
-          "meaning": "줄이다"
+          "meaning": "줄이다",
+          "pos": "동",
+          "example": {
+            "en": "The store lowered its prices to attract customers.",
+            "ko": "그 가게는 손님을 끌기 위해 가격을 낮췄다."
+          }
         },
         {
           "day": "Day 26",
           "no": 5,
           "word": "transaction",
-          "meaning": "거래, 업무"
+          "meaning": "거래, 업무",
+          "pos": "명",
+          "example": {
+            "en": "All transactions are recorded in the system.",
+            "ko": "모든 거래는 시스템에 기록된다."
+          }
         },
         {
           "day": "Day 26",
           "no": 6,
           "word": "dissatisfaction",
-          "meaning": "불만, 불평"
+          "meaning": "불만, 불평",
+          "pos": "명",
+          "example": {
+            "en": "Customers expressed dissatisfaction with the service.",
+            "ko": "고객들은 서비스에 불만을 표했다."
+          }
         },
         {
           "day": "Day 26",
           "no": 7,
           "word": "tentatively",
-          "meaning": "임시로, 시험적으로"
+          "meaning": "임시로, 시험적으로",
+          "pos": "부",
+          "example": {
+            "en": "The meeting is tentatively scheduled for Friday.",
+            "ko": "회의는 임시로 금요일로 잡혀 있다."
+          }
         },
         {
           "day": "Day 26",
           "no": 8,
           "word": "loan",
-          "meaning": "대출, 대여금"
+          "meaning": "대출, 대여금",
+          "pos": "명",
+          "example": {
+            "en": "The bank approved our loan application.",
+            "ko": "은행이 우리의 대출 신청을 승인했다."
+          }
         },
         {
           "day": "Day 26",
           "no": 9,
           "word": "mortgage",
-          "meaning": "대출"
+          "meaning": "대출",
+          "pos": "명",
+          "example": {
+            "en": "They took out a mortgage to buy the house.",
+            "ko": "그들은 집을 사기 위해 주택 담보 대출을 받았다."
+          }
         },
         {
           "day": "Day 26",
           "no": 10,
           "word": "payable",
-          "meaning": "지불해야 하는"
+          "meaning": "지불해야 하는",
+          "pos": "형",
+          "example": {
+            "en": "The invoice is payable within 30 days.",
+            "ko": "청구서 금액은 30일 이내에 지불해야 한다."
+          }
         },
         {
           "day": "Day 27",
           "no": 1,
           "word": "lucrative",
-          "meaning": "수익성 있는, 돈이 되는"
+          "meaning": "수익성 있는, 돈이 되는",
+          "pos": "형",
+          "example": {
+            "en": "The new product line has proved very lucrative.",
+            "ko": "새 제품 라인은 매우 수익성이 높은 것으로 드러났다."
+          }
         },
         {
           "day": "Day 27",
           "no": 2,
           "word": "inherently",
-          "meaning": "본질적으로"
+          "meaning": "본질적으로",
+          "pos": "부",
+          "example": {
+            "en": "Investing in stocks is inherently risky.",
+            "ko": "주식 투자는 본질적으로 위험하다."
+          }
         },
         {
           "day": "Day 27",
           "no": 3,
           "word": "secure",
-          "meaning": "확보하다, 묶어 매다"
+          "meaning": "확보하다, 묶어 매다",
+          "pos": "동",
+          "example": {
+            "en": "The company secured funding for the project.",
+            "ko": "회사는 프로젝트 자금을 확보했다."
+          }
         },
         {
           "day": "Day 27",
           "no": 4,
           "word": "foreseeable",
-          "meaning": "예견할 수 있는"
+          "meaning": "예견할 수 있는",
+          "pos": "형",
+          "example": {
+            "en": "Prices will remain stable for the foreseeable future.",
+            "ko": "당분간은 가격이 안정적으로 유지될 것이다."
+          }
         },
         {
           "day": "Day 27",
           "no": 5,
           "word": "property",
-          "meaning": "재산"
+          "meaning": "재산",
+          "pos": "명",
+          "example": {
+            "en": "The property is located near the city center.",
+            "ko": "그 부동산은 도심 근처에 있다."
+          }
         },
         {
           "day": "Day 27",
           "no": 6,
           "word": "on behalf of",
-          "meaning": "~를 대신하여"
+          "meaning": "~를 대신하여",
+          "pos": "구",
+          "example": {
+            "en": "I am writing on behalf of my manager.",
+            "ko": "매니저를 대신하여 이 글을 씁니다."
+          }
         },
         {
           "day": "Day 27",
           "no": 7,
           "word": "consent",
-          "meaning": "동의, 허락"
+          "meaning": "동의, 허락",
+          "pos": "명",
+          "example": {
+            "en": "You need your parents' consent to join the program.",
+            "ko": "프로그램에 참여하려면 부모님의 동의가 필요하다."
+          }
         },
         {
           "day": "Day 27",
           "no": 8,
           "word": "speculation",
-          "meaning": "추측"
+          "meaning": "추측",
+          "pos": "명",
+          "example": {
+            "en": "There is speculation that the company will be sold.",
+            "ko": "회사가 매각될 것이라는 추측이 있다."
+          }
         },
         {
           "day": "Day 27",
           "no": 9,
           "word": "entrepreneur",
-          "meaning": "사업가"
+          "meaning": "사업가",
+          "pos": "명",
+          "example": {
+            "en": "She is a successful entrepreneur.",
+            "ko": "그녀는 성공한 사업가다."
+          }
         },
         {
           "day": "Day 27",
           "no": 10,
           "word": "shareholder",
-          "meaning": "주주"
+          "meaning": "주주",
+          "pos": "명",
+          "example": {
+            "en": "Shareholders will vote on the merger.",
+            "ko": "주주들이 합병에 대해 투표할 것이다."
+          }
         },
         {
           "day": "Day 27",
           "no": 11,
           "word": "bond",
-          "meaning": "채권"
+          "meaning": "채권",
+          "pos": "명",
+          "example": {
+            "en": "The government issued bonds to raise money.",
+            "ko": "정부는 자금을 모으기 위해 채권을 발행했다."
+          }
         },
         {
           "day": "Day 27",
           "no": 12,
           "word": "depreciation",
-          "meaning": "가치 하락"
+          "meaning": "가치 하락",
+          "pos": "명",
+          "example": {
+            "en": "The depreciation of the currency raised import prices.",
+            "ko": "통화 가치 하락으로 수입 물가가 올랐다."
+          }
         },
         {
           "day": "Day 27",
           "no": 13,
           "word": "prevalent",
-          "meaning": "유행하고 있는, 만연된"
+          "meaning": "유행하고 있는, 만연된",
+          "pos": "형",
+          "example": {
+            "en": "Remote work is now prevalent in many industries.",
+            "ko": "재택근무는 이제 많은 업계에 널리 퍼져 있다."
+          }
         },
         {
           "day": "Day 27",
           "no": 14,
           "word": "yield",
-          "meaning": "가져오다, 산출하다"
+          "meaning": "가져오다, 산출하다",
+          "pos": "동",
+          "example": {
+            "en": "The investment yielded a high return.",
+            "ko": "그 투자는 높은 수익을 가져왔다."
+          }
         },
         {
           "day": "Day 28",
           "no": 1,
           "word": "furnished",
-          "meaning": "가구가 비치된"
+          "meaning": "가구가 비치된",
+          "pos": "형",
+          "example": {
+            "en": "The apartment is fully furnished.",
+            "ko": "그 아파트에는 가구가 모두 비치되어 있다."
+          }
         },
         {
           "day": "Day 28",
           "no": 2,
           "word": "residence",
-          "meaning": "거주지, 주택"
+          "meaning": "거주지, 주택",
+          "pos": "명",
+          "example": {
+            "en": "The mayor's official residence is open to visitors.",
+            "ko": "시장 관저는 방문객에게 개방되어 있다."
+          }
         },
         {
           "day": "Day 28",
           "no": 3,
           "word": "drape",
-          "meaning": "장식하다"
+          "meaning": "장식하다",
+          "pos": "동",
+          "example": {
+            "en": "The hall was draped with colorful banners.",
+            "ko": "강당은 화려한 현수막으로 장식되었다."
+          }
         },
         {
           "day": "Day 28",
           "no": 4,
           "word": "unoccupied",
-          "meaning": "비어있는"
+          "meaning": "비어있는",
+          "pos": "형",
+          "example": {
+            "en": "The office has been unoccupied for months.",
+            "ko": "그 사무실은 몇 달째 비어 있다."
+          }
         },
         {
           "day": "Day 28",
           "no": 5,
           "word": "presently",
-          "meaning": "현재"
+          "meaning": "현재",
+          "pos": "부",
+          "example": {
+            "en": "Ms. Lee is presently on a business trip.",
+            "ko": "이 씨는 현재 출장 중이다."
+          }
         },
         {
           "day": "Day 28",
           "no": 6,
           "word": "abandon",
-          "meaning": "그만두다, 버리다"
+          "meaning": "그만두다, 버리다",
+          "pos": "동",
+          "example": {
+            "en": "The company abandoned its plan to expand overseas.",
+            "ko": "회사는 해외 확장 계획을 그만두었다."
+          }
         },
         {
           "day": "Day 28",
           "no": 7,
           "word": "contractor",
-          "meaning": "계약자"
+          "meaning": "계약자",
+          "pos": "명",
+          "example": {
+            "en": "The contractor promised to finish the work by May.",
+            "ko": "계약자는 5월까지 공사를 끝내겠다고 약속했다."
+          }
         },
         {
           "day": "Day 28",
           "no": 8,
           "word": "district",
-          "meaning": "지역, 지구"
+          "meaning": "지역, 지구",
+          "pos": "명",
+          "example": {
+            "en": "The office is in the business district.",
+            "ko": "사무실은 상업 지구에 있다."
+          }
         },
         {
           "day": "Day 28",
           "no": 9,
           "word": "compulsory",
-          "meaning": "의무적인"
+          "meaning": "의무적인",
+          "pos": "형",
+          "example": {
+            "en": "Safety training is compulsory for all workers.",
+            "ko": "안전 교육은 모든 근로자에게 의무적이다."
+          }
         },
         {
           "day": "Day 28",
           "no": 10,
           "word": "interfere",
-          "meaning": "방해하다, 해치다"
+          "meaning": "방해하다, 해치다",
+          "pos": "동",
+          "example": {
+            "en": "The noise interfered with my work.",
+            "ko": "소음이 내 일을 방해했다."
+          }
         },
         {
           "day": "Day 28",
           "no": 11,
           "word": "enlarge",
-          "meaning": "확장하다, 확대하다"
+          "meaning": "확장하다, 확대하다",
+          "pos": "동",
+          "example": {
+            "en": "The store plans to enlarge its parking lot.",
+            "ko": "그 가게는 주차장을 확장할 계획이다."
+          }
         },
         {
           "day": "Day 28",
           "no": 12,
           "word": "suppose",
-          "meaning": "생각하다, 추측하다"
+          "meaning": "생각하다, 추측하다",
+          "pos": "동",
+          "example": {
+            "en": "I suppose the meeting will be postponed.",
+            "ko": "회의가 연기될 거라고 생각한다."
+          }
         },
         {
           "day": "Day 28",
           "no": 13,
           "word": "utility",
-          "meaning": "공공시설, 공공요금"
+          "meaning": "공공시설, 공공요금",
+          "pos": "명",
+          "example": {
+            "en": "Rent includes utilities such as water and electricity.",
+            "ko": "임대료에는 수도와 전기 같은 공공요금이 포함된다."
+          }
         },
         {
           "day": "Day 29",
           "no": 1,
           "word": "conserve",
-          "meaning": "보존하다, 유지하다"
+          "meaning": "보존하다, 유지하다",
+          "pos": "동",
+          "example": {
+            "en": "Please turn off the lights to conserve energy.",
+            "ko": "에너지를 보존하기 위해 불을 꺼 주세요."
+          }
         },
         {
           "day": "Day 29",
           "no": 2,
           "word": "forecast",
-          "meaning": "예보"
+          "meaning": "예보",
+          "pos": "명",
+          "example": {
+            "en": "The weather forecast calls for rain tomorrow.",
+            "ko": "일기 예보에 따르면 내일 비가 온다."
+          }
         },
         {
           "day": "Day 29",
           "no": 3,
           "word": "dispose",
-          "meaning": "처분하다, 처리하다"
+          "meaning": "처분하다, 처리하다",
+          "pos": "동",
+          "example": {
+            "en": "Please dispose of used batteries properly.",
+            "ko": "다 쓴 배터리는 올바르게 처분해 주세요."
+          }
         },
         {
           "day": "Day 29",
           "no": 4,
           "word": "organization",
-          "meaning": "단체"
+          "meaning": "단체",
+          "pos": "명",
+          "example": {
+            "en": "She works for a non-profit organization.",
+            "ko": "그녀는 비영리 단체에서 일한다."
+          }
         },
         {
           "day": "Day 29",
           "no": 5,
           "word": "discharge",
-          "meaning": "방출하다"
+          "meaning": "방출하다",
+          "pos": "동",
+          "example": {
+            "en": "The factory was fined for discharging waste into the river.",
+            "ko": "그 공장은 강에 폐수를 방출해 벌금을 물었다."
+          }
         },
         {
           "day": "Day 29",
           "no": 6,
           "word": "deplete",
-          "meaning": "고갈시키다"
+          "meaning": "고갈시키다",
+          "pos": "동",
+          "example": {
+            "en": "Overfishing has depleted fish stocks.",
+            "ko": "남획이 어류 자원을 고갈시켰다."
+          }
         },
         {
           "day": "Day 29",
           "no": 7,
           "word": "inflict",
-          "meaning": "입히다, 가하다"
+          "meaning": "입히다, 가하다",
+          "pos": "동",
+          "example": {
+            "en": "The storm inflicted serious damage on the town.",
+            "ko": "폭풍이 마을에 심각한 피해를 입혔다."
+          }
         },
         {
           "day": "Day 29",
           "no": 8,
           "word": "ecology",
-          "meaning": "생태, 자연환경"
+          "meaning": "생태, 자연환경",
+          "pos": "명",
+          "example": {
+            "en": "Pollution threatens the ecology of the region.",
+            "ko": "오염이 그 지역의 생태를 위협하고 있다."
+          }
         },
         {
           "day": "Day 30",
           "no": 1,
           "word": "operation",
-          "meaning": "운용"
+          "meaning": "운용",
+          "pos": "명",
+          "example": {
+            "en": "The new machine will be in operation next month.",
+            "ko": "새 기계는 다음 달부터 운용될 것이다."
+          }
         },
         {
           "day": "Day 30",
           "no": 2,
           "word": "cleanliness",
-          "meaning": "청결"
+          "meaning": "청결",
+          "pos": "명",
+          "example": {
+            "en": "The restaurant is known for its cleanliness.",
+            "ko": "그 식당은 청결로 유명하다."
+          }
         },
         {
           "day": "Day 30",
           "no": 3,
           "word": "transmit",
-          "meaning": "전염시키다"
+          "meaning": "전염시키다",
+          "pos": "동",
+          "example": {
+            "en": "The virus is transmitted through the air.",
+            "ko": "그 바이러스는 공기를 통해 전염된다."
+          }
         },
         {
           "day": "Day 30",
           "no": 4,
           "word": "pharmaceutical",
-          "meaning": "제약의"
+          "meaning": "제약의",
+          "pos": "형",
+          "example": {
+            "en": "She works for a large pharmaceutical company.",
+            "ko": "그녀는 큰 제약 회사에서 일한다."
+          }
         },
         {
           "day": "Day 30",
           "no": 5,
           "word": "premium",
-          "meaning": "보험료"
+          "meaning": "보험료",
+          "pos": "명",
+          "example": {
+            "en": "Insurance premiums will increase next year.",
+            "ko": "보험료가 내년에 오른다."
+          }
         },
         {
           "day": "Day 30",
           "no": 6,
           "word": "conscious",
-          "meaning": "알고 있는, 자각하고 있는"
+          "meaning": "알고 있는, 자각하고 있는",
+          "pos": "형",
+          "example": {
+            "en": "Consumers are increasingly conscious of health issues.",
+            "ko": "소비자들은 건강 문제를 점점 더 의식하고 있다."
+          }
         },
         {
           "day": "Day 30",
           "no": 7,
           "word": "susceptible",
-          "meaning": "~에 감염되기 쉬운"
+          "meaning": "~에 감염되기 쉬운",
+          "pos": "형",
+          "example": {
+            "en": "Older people are more susceptible to the flu.",
+            "ko": "노인들은 독감에 더 걸리기 쉽다."
+          }
         }
       ]
     },
