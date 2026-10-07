@@ -115,8 +115,32 @@ img{max-width:100%}
 .sb .ex-p{margin:14px 0 0;font-size:15px}
 .blk{margin-top:16px}
 .blk>h4{font-size:13px;font-weight:700;margin:0 0 8px;color:var(--ink-2)}
-.kp{margin:0;padding-left:18px}
-.kp li{margin:4px 0;font-size:14.5px}
+.kp{margin:0;padding:0;list-style:none}
+.kp li{padding:11px 0;border-top:1px solid var(--line)}
+.kp li:first-child{border-top:0;padding-top:2px}
+.kp-h{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:4px}
+.kp-h b{font-size:15px;font-weight:700;line-height:1.45}
+.kp-b{flex:none;font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--brand-soft);color:var(--brand)}
+.kp-b.warn{background:var(--bad-soft);color:var(--bad)}
+.kp-b.star{background:var(--warn-soft);color:#B7791F}
+.kp-t{display:block;font-size:14.5px;line-height:1.65}
+.kp-t + .kp-t{margin-top:4px}
+.kp-e{display:block;font-family:var(--serif);font-size:15.5px;line-height:1.5;margin-top:6px;padding:3px 0 3px 11px;border-left:3px solid var(--brand-soft)}
+.kp-t.note{font-size:13.5px;color:var(--ink-2);margin-top:6px}
+.kp-sub + .kp-sub{margin-top:10px}
+.kp-gl{display:flex;flex-direction:column;gap:4px;margin-top:2px}
+.kp-gl .gl{font-size:14px;line-height:1.5}
+.kp-gl .gl b{font-family:var(--serif);font-size:15.5px;font-weight:600}
+.kp-ch{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.kp-ch span{font-family:var(--serif);font-size:14.5px;padding:3px 10px;border-radius:8px;background:var(--surface-2)}
+.tcards{display:flex;flex-direction:column;gap:8px}
+.tcard{border:1px solid var(--line);border-radius:12px;padding:11px 13px;background:var(--surface)}
+.tc-h{font-weight:700;font-size:15px;margin-bottom:4px}
+.tc-r{display:grid;grid-template-columns:minmax(64px,28%) 1fr;gap:8px;padding:4px 0;border-top:1px dashed var(--line);font-size:14px;line-height:1.55}
+.tc-k{color:var(--ink-3);font-size:12.5px;font-weight:600;padding-top:1px}
+.tc-v.en{font-family:var(--serif);font-size:15px}
+.tip .kp-t{font-size:14px}
+.tip .kp-e{border-left-color:#E8C55A}
 .tscroll{overflow-x:auto;border:1px solid var(--line);border-radius:12px}
 table{border-collapse:collapse;font-size:13px;min-width:100%}
 th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
@@ -600,11 +624,86 @@ function viewLearn(){
   return h;
 }
 
+/* 핵심 규칙 문장을 '제목 / 설명 / 예문' 줄로 나눠 보여 주기 (내용은 그대로) */
+function richSegs(s){
+  const re = /[A-Za-z(][A-Za-z0-9 ,.'’"()\-?!;$%~…+=&°]*[A-Za-z0-9.?!)"’°]/g, out = [];
+  const isEx = (tx, after, atEnd) => {
+    const words = tx.trim().split(/\s+/).filter(w => /[A-Za-z]/.test(w));
+    return words.length >= 3 && /[a-z]/.test(tx) && (/[.?!]["’)]?$/.test(tx) || /^\s*(\/|\)|→|$)/.test(after) || atEnd);
+  };
+  let last = 0, m;
+  while ((m = re.exec(s))) {
+    let tx = m[0], end = m.index + tx.length;
+    const before = s[m.index - 1] || "";
+    if (/['‘"“]/.test(before)) continue;
+    if (!isEx(tx, s.slice(end, end + 3), end === s.length)) {
+      const cut = tx.match(/^(.+?[.?!])\s/);
+      if (!cut || !isEx(cut[1], " /", false)) continue;
+      tx = cut[1]; end = m.index + tx.length; re.lastIndex = end;
+    }
+    let v = tx.trim();
+    const o = (v.match(/\(/g) || []).length, c = (v.match(/\)/g) || []).length;
+    if (c > o && v.endsWith(")")) { v = v.slice(0, -1); end -= 1; re.lastIndex = end; }
+    if ((v.match(/\(/g) || []).length !== (v.match(/\)/g) || []).length) { re.lastIndex = m.index + m[0].length; continue; }
+    if (m.index > last) out.push({k: "t", v: s.slice(last, m.index)});
+    out.push({k: "e", v}); last = end;
+  }
+  if (last < s.length) out.push({k: "t", v: s.slice(last)});
+  const res = [];
+  for (let i = 0; i < out.length; i++) {
+    const g = out[i];
+    if (g.k === "t") {
+      let v = g.v.replace(/^\s*[\/,]\s*/, "").replace(/\s*\/\s*$/, "").trim();
+      if (v === "→" && res.length && res[res.length - 1].k === "e" && out[i + 1] && out[i + 1].k === "e") { res[res.length - 1].v += "  →  " + out[i + 1].v; i++; continue; }
+      if (out[i + 1] && out[i + 1].k === "e") v = v.replace(/\s*→$/, "");
+      if (v.startsWith("(") && !v.includes(")")) v = v.slice(1).trim();
+      if (/^[\s()\/.,;:]*$/.test(v)) continue;
+      res.push({k: "t", v});
+    } else res.push(g);
+  }
+  return res;
+}
+function glossHTML(v){
+  const items = v.split(/\)\s*(?:,|\/)\s+/);
+  if (items.length >= 2 && items.every(x => /^[A-Za-z~][^()]*\s?\(/.test(x))) {
+    return '<span class="kp-gl">' + items.map((x, j) => { const k = x.indexOf("("); const en = x.slice(0, k).trim(), ko = x.slice(k + 1).replace(/\)$/, "").trim(); return '<span class="gl"><b>' + esc(en) + '</b> ' + esc(ko) + '</span>'; }).join("") + '</span>';
+  }
+  const m = v.match(/^((?:[A-Za-z][A-Za-z \-'’\/~.]*,\s+){3,}[A-Za-z][A-Za-z \-'’\/~.]*?)(\s*(?:\(.*\)|등.*)?)$/);
+  if (m) return '<span class="kp-ch">' + m[1].split(/,\s+/).map(w => '<span>' + esc(w) + '</span>').join("") + '</span>' + (m[2].trim() ? '<span class="kp-t note">' + esc(m[2].trim()) + '</span>' : '');
+  return null;
+}
+function richHTML(s){
+  return richSegs(s).map(g => g.k === "e" ? '<span class="kp-e">' + esc(g.v) + '</span>' : (glossHTML(g.v) || '<span class="kp-t' + (/^단,/.test(g.v) ? ' note' : '') + '">' + esc(g.v) + '</span>')).join("");
+}
+function fmtPoint(s){
+  let badge = "", cls = "", m;
+  if ((m = s.match(/^(.{1,12}?)\s+—\s+/))) { badge = m[1]; s = s.slice(m[0].length); }
+  else if ((m = s.match(/^([①-⑩])\s*/))) { badge = m[1]; s = s.slice(m[0].length); }
+  else if ((m = s.match(/^주의!\s*/))) { badge = "주의"; cls = " warn"; s = s.slice(m[0].length); }
+  else if ((m = s.match(/^★\s*/))) { badge = "★ 빈출"; cls = " star"; s = s.slice(m[0].length); }
+  const parts = s.split(" / ");
+  if (!badge && parts.length >= 2 && parts.every(x => /^[^:()]{1,25}:\s/.test(x))) {
+    return parts.map(x => { const k = x.indexOf(":"); return '<div class="kp-sub"><div class="kp-h"><b>' + esc(x.slice(0, k)) + '</b></div>' + richHTML(x.slice(k + 1).trim()) + '</div>'; }).join("");
+  }
+  let label = "";
+  const c = s.search(/:\s/);
+  if (c > 1 && c <= 45) {
+    const lb = s.slice(0, c);
+    const opens = (lb.match(/\(/g) || []).length, closes = (lb.match(/\)/g) || []).length;
+    if (opens === closes && !richSegs(lb).some(g => g.k === "e")) { label = lb; s = s.slice(c + 1).trim(); }
+  }
+  const head = badge || label ? '<div class="kp-h">' + (badge ? '<span class="kp-b' + cls + '">' + esc(badge) + '</span>' : '') + (label ? '<b>' + esc(label) + '</b>' : '') + '</div>' : '';
+  return head + richHTML(s);
+}
 function renderSectionBody(s){
   let h = '<p class="ex-p">' + esc(s.explanation) + '</p>';
-  if (s.key_points) h += '<div class="blk"><h4>핵심 규칙</h4><ul class="kp">' + s.key_points.map(k => '<li>' + esc(k) + '</li>').join("") + '</ul></div>';
+  if (s.key_points) h += '<div class="blk"><h4>핵심 규칙</h4><ul class="kp">' + s.key_points.map(k => '<li>' + fmtPoint(k) + '</li>').join("") + '</ul></div>';
   if (s.table) {
     const cols = []; s.table.forEach(r => Object.keys(r).forEach(k => { if (!cols.includes(k)) cols.push(k); }));
+    const long = s.table.some(r => cols.some(c => String(r[c] || "").length > 26));
+    if (long) {
+      h += '<div class="blk"><h4>정리표</h4><div class="tcards">' + s.table.map(r => '<div class="tcard"><div class="tc-h">' + esc(r[cols[0]] || "") + '</div>' + cols.slice(1).filter(c => r[c]).map(c => '<div class="tc-r"><span class="tc-k">' + esc(c) + '</span><span class="tc-v' + (/예문|예시|^예$|예 \(|질문 예|대화에서|정답 보기|읽는 법/.test(c) ? ' en' : '') + '">' + esc(r[c]).split(" / ").join("<br>") + '</span></div>').join("") + '</div>').join("") + '</div></div>';
+    } else
     h += '<div class="blk"><h4>정리표</h4><div class="tscroll"><table><thead><tr>' + cols.map(c => '<th>' + esc(c) + '</th>').join("") + '</tr></thead><tbody>' + s.table.map(r => '<tr>' + cols.map(c => '<td>' + esc(r[c] || "") + '</td>').join("") + '</tr>').join("") + '</tbody></table></div></div>';
   }
   if (s.word_list) {
@@ -612,7 +711,7 @@ function renderSectionBody(s){
   }
   if (s.examples) h += '<div class="blk"><h4>예문</h4><div class="exs">' + s.examples.map(e => '<div class="exi"><div class="en">' + esc(e.en) + '</div><div class="ko">' + esc(e.ko) + '</div>' + (e.note ? '<div class="nt">' + esc(e.note) + '</div>' : '') + '</div>').join("") + '</div></div>';
   if (s.common_mistakes) h += '<div class="blk"><h4>자주 하는 실수</h4>' + s.common_mistakes.map(m => '<div class="mis"><div class="w">' + esc(m.wrong) + '</div><div class="r">' + esc(m.right) + '</div><div class="y">' + esc(m.why) + '</div></div>').join("") + '</div>';
-  if (s.toeic_tip) h += '<div class="blk tip"><b>토익 팁</b>' + esc(s.toeic_tip) + '</div>';
+  if (s.toeic_tip) h += '<div class="blk tip"><b>토익 팁</b>' + richHTML(s.toeic_tip) + '</div>';
   return h;
 }
 
