@@ -636,6 +636,162 @@
           },
           "answer": "B",
           "explanation": "be동사 뒤 보어 자리이고 very의 수식을 받으므로 형용사 responsive(반응이 빠른)."
+        },
+        {
+          "id": "ch01-q4",
+          "section": "ch01-01",
+          "question": "Ms. Lee made a ------- decision to expand the business.",
+          "choices": {
+            "A": "careful",
+            "B": "carefulness",
+            "C": "care",
+            "D": "carefully"
+          },
+          "answer": "A",
+          "explanation": "관사 a와 명사 decision 사이는 명사를 꾸미는 형용사 자리예요. careful이 형용사예요."
+        },
+        {
+          "id": "ch01-q5",
+          "section": "ch01-01",
+          "question": "The technician ------- the printer in less than ten minutes.",
+          "choices": {
+            "A": "repairable",
+            "B": "repaired",
+            "C": "repairing",
+            "D": "repairer"
+          },
+          "answer": "B",
+          "explanation": "문장에 동사가 없으니 빈칸이 정동사 자리예요. 과거형 repaired가 정답이에요."
+        },
+        {
+          "id": "ch01-q6",
+          "section": "ch01-01",
+          "question": "Please speak ------- so that everyone in the room can hear you.",
+          "choices": {
+            "A": "clarity",
+            "B": "clearness",
+            "C": "clearly",
+            "D": "clear"
+          },
+          "answer": "C",
+          "explanation": "동사 speak를 꾸미는 말이 필요하니 부사 clearly예요."
+        },
+        {
+          "id": "ch01-q7",
+          "section": "ch01-02",
+          "question": "The new policy became ------- last month.",
+          "choices": {
+            "A": "effectiveness",
+            "B": "effect",
+            "C": "effectively",
+            "D": "effective"
+          },
+          "answer": "D",
+          "explanation": "become 뒤는 보어 자리라 형용사 effective가 와요. 부사는 보어가 될 수 없어요."
+        },
+        {
+          "id": "ch01-q8",
+          "section": "ch01-02",
+          "question": "Mr. Tanaka sent the ------- to all department heads.",
+          "choices": {
+            "A": "information",
+            "B": "informative",
+            "C": "informed",
+            "D": "inform"
+          },
+          "answer": "A",
+          "explanation": "타동사 sent의 목적어 자리이고 관사 the 뒤이므로 명사 information이에요."
+        },
+        {
+          "id": "ch01-q9",
+          "section": "ch01-02",
+          "question": "The results of the survey were -------.",
+          "choices": {
+            "A": "surprises",
+            "B": "surprising",
+            "C": "surprise",
+            "D": "surprisingly"
+          },
+          "answer": "B",
+          "explanation": "be동사 뒤 보어 자리예요. 결과가 놀라움을 '주는' 것이라 surprising이에요."
+        },
+        {
+          "id": "ch01-q10",
+          "section": "ch01-03",
+          "question": "------- the heavy rain, the outdoor event was held as planned.",
+          "choices": {
+            "A": "Although",
+            "B": "Even if",
+            "C": "Despite",
+            "D": "Because"
+          },
+          "answer": "C",
+          "explanation": "빈칸 뒤가 명사구(the heavy rain)라 전치사가 필요해요. 의미상 '~에도 불구하고'인 Despite예요."
+        },
+        {
+          "id": "ch01-q11",
+          "section": "ch01-03",
+          "question": "The store closed early ------- the manager was sick.",
+          "choices": {
+            "A": "despite",
+            "B": "due to",
+            "C": "because of",
+            "D": "because"
+          },
+          "answer": "D",
+          "explanation": "빈칸 뒤에 주어(the manager)와 동사(was)가 있는 절이 와요. 절을 이끄는 접속사 because예요."
+        },
+        {
+          "id": "ch01-q12",
+          "section": "ch01-03",
+          "question": "We postponed the launch ------- a shortage of parts.",
+          "choices": {
+            "A": "due to",
+            "B": "because",
+            "C": "although",
+            "D": "since"
+          },
+          "answer": "A",
+          "explanation": "뒤가 명사구라 전치사 due to가 정답이에요. because, since, although는 절 앞에 와요."
+        },
+        {
+          "id": "ch01-q13",
+          "section": "ch01-04",
+          "question": "The company is known for its ------- customer service.",
+          "choices": {
+            "A": "friendship",
+            "B": "friendly",
+            "C": "befriend",
+            "D": "friend"
+          },
+          "answer": "B",
+          "explanation": "소유격 its와 명사 customer service 사이는 형용사 자리예요. friendly는 -ly로 끝나지만 형용사예요."
+        },
+        {
+          "id": "ch01-q14",
+          "section": "ch01-04",
+          "question": "Our ------- will contact you within two days.",
+          "choices": {
+            "A": "represent",
+            "B": "representation",
+            "C": "representative",
+            "D": "representing"
+          },
+          "answer": "C",
+          "explanation": "소유격 Our 뒤 주어 자리라 명사가 필요하고, '연락하는 사람'이니 representative(직원, 담당자)예요."
+        },
+        {
+          "id": "ch01-q15",
+          "section": "ch01-04",
+          "question": "Please submit the form for ------- by Friday.",
+          "choices": {
+            "A": "approving",
+            "B": "approved",
+            "C": "approve",
+            "D": "approval"
+          },
+          "answer": "D",
+          "explanation": "전치사 for 뒤 명사 자리예요. approval은 -al로 끝나는 명사예요. approving은 뒤에 목적어가 있어야 해요."
         }
       ]
     },
@@ -1054,6 +1210,279 @@
           },
           "answer": "B",
           "explanation": "관사 없이 쓰였으므로 불가산명사 permission. permit은 가산이라 a permit이 되어야 한다."
+        },
+        {
+          "id": "ch02-q5",
+          "section": "ch02-01",
+          "question": "We are grateful for your ------- during the renovation.",
+          "choices": {
+            "A": "patience",
+            "B": "patients",
+            "C": "patient",
+            "D": "patiently"
+          },
+          "answer": "A",
+          "explanation": "소유격 your 뒤는 명사 자리예요. '인내'라는 뜻의 patience가 맞아요. patients는 '환자들'이에요."
+        },
+        {
+          "id": "ch02-q6",
+          "section": "ch02-01",
+          "question": "------- to the building is restricted after 9 p.m.",
+          "choices": {
+            "A": "Accessibly",
+            "B": "Access",
+            "C": "Accessed",
+            "D": "Accessible"
+          },
+          "answer": "B",
+          "explanation": "동사 is 앞 주어 자리라 명사 Access예요."
+        },
+        {
+          "id": "ch02-q7",
+          "section": "ch02-01",
+          "question": "The board approved the ------- of a new factory.",
+          "choices": {
+            "A": "constructed",
+            "B": "constructive",
+            "C": "construction",
+            "D": "construct"
+          },
+          "answer": "C",
+          "explanation": "관사 the와 전치사 of 사이는 명사 자리라 construction이에요."
+        },
+        {
+          "id": "ch02-q8",
+          "section": "ch02-02",
+          "question": "The office needs new ------- for the conference room.",
+          "choices": {
+            "A": "a furniture",
+            "B": "furnish",
+            "C": "furnitures",
+            "D": "furniture"
+          },
+          "answer": "D",
+          "explanation": "furniture는 불가산명사라 -s나 a를 붙일 수 없어요."
+        },
+        {
+          "id": "ch02-q9",
+          "section": "ch02-02",
+          "question": "Please contact us if you need any ------- about the event.",
+          "choices": {
+            "A": "advice",
+            "B": "an advice",
+            "C": "advices",
+            "D": "advise"
+          },
+          "answer": "A",
+          "explanation": "advice는 불가산명사예요. advise는 동사라 명사 자리에 올 수 없어요."
+        },
+        {
+          "id": "ch02-q10",
+          "section": "ch02-02",
+          "question": "Each employee must have a ------- to park in the garage.",
+          "choices": {
+            "A": "permission",
+            "B": "permit",
+            "C": "permitting",
+            "D": "permits"
+          },
+          "answer": "B",
+          "explanation": "관사 a 뒤에는 단수 가산명사가 와요. permit(허가증)은 가산, permission(허가)은 불가산이에요."
+        },
+        {
+          "id": "ch02-q11",
+          "section": "ch02-03",
+          "question": "The company has opened three new ------- this year.",
+          "choices": {
+            "A": "branched",
+            "B": "branchs",
+            "C": "branches",
+            "D": "branch"
+          },
+          "answer": "C",
+          "explanation": "three 뒤에는 복수형이 와요. -ch로 끝나는 명사는 -es를 붙여 branches예요."
+        },
+        {
+          "id": "ch02-q12",
+          "section": "ch02-03",
+          "question": "Several ------- were interviewed for the article.",
+          "choices": {
+            "A": "woman",
+            "B": "womens",
+            "C": "womans",
+            "D": "women"
+          },
+          "answer": "D",
+          "explanation": "woman의 복수형은 불규칙형 women이에요."
+        },
+        {
+          "id": "ch02-q13",
+          "section": "ch02-03",
+          "question": "The new ------- will be installed on every floor.",
+          "choices": {
+            "A": "shelves",
+            "B": "shelfs",
+            "C": "shelve",
+            "D": "shelf"
+          },
+          "answer": "A",
+          "explanation": "동사 will be installed 앞 주어 자리이고 문맥상 여러 개예요. -f로 끝나는 shelf는 shelves가 돼요."
+        },
+        {
+          "id": "ch02-q14",
+          "section": "ch02-04",
+          "question": "There is ------- time left before the deadline, so please hurry.",
+          "choices": {
+            "A": "few",
+            "B": "little",
+            "C": "many",
+            "D": "a few"
+          },
+          "answer": "B",
+          "explanation": "time은 불가산명사라 little(거의 없는)을 써요. few와 a few, many는 가산명사에 써요."
+        },
+        {
+          "id": "ch02-q15",
+          "section": "ch02-04",
+          "question": "------- of the managers has a private office.",
+          "choices": {
+            "A": "All",
+            "B": "Many",
+            "C": "Each",
+            "D": "Both"
+          },
+          "answer": "C",
+          "explanation": "동사가 단수 has예요. each of + 복수명사는 단수 취급해요."
+        },
+        {
+          "id": "ch02-q16",
+          "section": "ch02-04",
+          "question": "The amount of paper used in the office ------- decreased.",
+          "choices": {
+            "A": "were",
+            "B": "are",
+            "C": "have",
+            "D": "has"
+          },
+          "answer": "D",
+          "explanation": "진짜 주어는 The amount(단수)예요. the amount of는 단수 취급이라 has예요."
+        },
+        {
+          "id": "ch02-q17",
+          "section": "ch02-05",
+          "question": "We will meet at ------- office tomorrow.",
+          "choices": {
+            "A": "the manager's",
+            "B": "the manager",
+            "C": "the managers",
+            "D": "manager"
+          },
+          "answer": "A",
+          "explanation": "'매니저의 사무실'이라는 소유 관계라 사람 명사에 's를 붙인 the manager's예요."
+        },
+        {
+          "id": "ch02-q18",
+          "section": "ch02-05",
+          "question": "The ------- section of the store is on the third floor.",
+          "choices": {
+            "A": "childs",
+            "B": "children's",
+            "C": "childrens'",
+            "D": "child's"
+          },
+          "answer": "B",
+          "explanation": "children은 -s로 끝나지 않는 복수명사라 's를 붙여 children's예요."
+        },
+        {
+          "id": "ch02-q19",
+          "section": "ch02-05",
+          "question": "The report covers the results of ------- meeting.",
+          "choices": {
+            "A": "yesterday",
+            "B": "yesterdays",
+            "C": "yesterday's",
+            "D": "yesterdays'"
+          },
+          "answer": "C",
+          "explanation": "시간 명사는 무생물이어도 's로 소유격을 만들 수 있어요. yesterday's meeting(어제 회의)이에요."
+        },
+        {
+          "id": "ch02-q20",
+          "section": "ch02-06",
+          "question": "Please fill out the ------- form and return it to the front desk.",
+          "choices": {
+            "A": "apply",
+            "B": "applicable",
+            "C": "applied",
+            "D": "application"
+          },
+          "answer": "D",
+          "explanation": "application form(신청서)은 토익 빈출 복합명사예요."
+        },
+        {
+          "id": "ch02-q21",
+          "section": "ch02-06",
+          "question": "The hotel received high marks for customer -------.",
+          "choices": {
+            "A": "satisfaction",
+            "B": "satisfy",
+            "C": "satisfied",
+            "D": "satisfying"
+          },
+          "answer": "A",
+          "explanation": "customer satisfaction(고객 만족)은 명사+명사 형태의 복합명사예요."
+        },
+        {
+          "id": "ch02-q22",
+          "section": "ch02-06",
+          "question": "All employees must follow the new safety -------.",
+          "choices": {
+            "A": "regulated",
+            "B": "regulations",
+            "C": "regulate",
+            "D": "regulatory"
+          },
+          "answer": "B",
+          "explanation": "safety regulations(안전 규정)라는 복합명사예요. 형용사 safe와 명사 safety 중 명사가 앞에 와요."
+        },
+        {
+          "id": "ch02-q23",
+          "section": "ch02-07",
+          "question": "Each ------- will receive a certificate at the end of the course.",
+          "choices": {
+            "A": "participatory",
+            "B": "participate",
+            "C": "participant",
+            "D": "participation"
+          },
+          "answer": "C",
+          "explanation": "each 뒤에는 단수 가산명사가 오고, 수료증을 받는 건 사람이니 participant(참가자)예요."
+        },
+        {
+          "id": "ch02-q24",
+          "section": "ch02-07",
+          "question": "------- at the workshop was higher than expected.",
+          "choices": {
+            "A": "Attended",
+            "B": "Attend",
+            "C": "Attendee",
+            "D": "Attendance"
+          },
+          "answer": "D",
+          "explanation": "관사 없이 주어 자리에 오고 '참석률'이라는 뜻이라 불가산 행위명사 Attendance예요. Attendee는 가산이라 관사가 필요해요."
+        },
+        {
+          "id": "ch02-q25",
+          "section": "ch02-07",
+          "question": "The company is looking for an experienced -------.",
+          "choices": {
+            "A": "accountant",
+            "B": "account",
+            "C": "accounting",
+            "D": "accountable"
+          },
+          "answer": "A",
+          "explanation": "an experienced 뒤 명사 자리이고 '경험 많은 사람'이니 accountant(회계사)예요."
         }
       ]
     },
@@ -1168,6 +1597,110 @@
           },
           "answer": "C",
           "explanation": "교통수단 by + 무관사 명사: by train."
+        },
+        {
+          "id": "ch03-q4",
+          "section": "ch03-01",
+          "question": "Ms. Park has ------- MBA from a university in Canada.",
+          "choices": {
+            "A": "a",
+            "B": "an",
+            "C": "the",
+            "D": "(관사 없음)"
+          },
+          "answer": "B",
+          "explanation": "MBA는 [엠비에이]로 모음 발음으로 시작해서 an을 써요."
+        },
+        {
+          "id": "ch03-q5",
+          "section": "ch03-01",
+          "question": "The shuttle bus runs four times ------- hour.",
+          "choices": {
+            "A": "a",
+            "B": "the",
+            "C": "an",
+            "D": "(관사 없음)"
+          },
+          "answer": "C",
+          "explanation": "'~마다'라는 뜻의 부정관사예요. hour는 h가 묵음이라 an이에요."
+        },
+        {
+          "id": "ch03-q6",
+          "section": "ch03-02",
+          "question": "Please turn off ------- lights before you leave.",
+          "choices": {
+            "A": "the",
+            "B": "a",
+            "C": "an",
+            "D": "(관사 없음)"
+          },
+          "answer": "A",
+          "explanation": "상황상 듣는 사람도 아는 '이 방의 그 조명들'이라 the를 써요."
+        },
+        {
+          "id": "ch03-q7",
+          "section": "ch03-02",
+          "question": "This is ------- best hotel in the city.",
+          "choices": {
+            "A": "the",
+            "B": "a",
+            "C": "an",
+            "D": "(관사 없음)"
+          },
+          "answer": "A",
+          "explanation": "최상급 앞에는 the를 써요."
+        },
+        {
+          "id": "ch03-q8",
+          "section": "ch03-03",
+          "question": "Most employees have ------- lunch in the cafeteria.",
+          "choices": {
+            "A": "a",
+            "B": "the",
+            "C": "an",
+            "D": "(관사 없음)"
+          },
+          "answer": "D",
+          "explanation": "식사 이름(breakfast, lunch, dinner) 앞에는 관사를 쓰지 않아요."
+        },
+        {
+          "id": "ch03-q9",
+          "section": "ch03-03",
+          "question": "You can pay for the tickets by ------- credit card.",
+          "choices": {
+            "A": "an",
+            "B": "the",
+            "C": "a",
+            "D": "(관사 없음)"
+          },
+          "answer": "D",
+          "explanation": "수단을 나타내는 by 뒤에는 관사 없이 명사를 써요. by credit card, by bus처럼요."
+        },
+        {
+          "id": "ch03-q10",
+          "section": "ch03-04",
+          "question": "It was ------- that everyone stayed late to finish it.",
+          "choices": {
+            "A": "a such interesting project",
+            "B": "such interesting a project",
+            "C": "so an interesting project",
+            "D": "such an interesting project"
+          },
+          "answer": "D",
+          "explanation": "such는 'such + a(n) + 형용사 + 명사' 순서예요. so를 쓰면 'so + 형용사 + a + 명사'(so interesting a project)가 돼요."
+        },
+        {
+          "id": "ch03-q11",
+          "section": "ch03-04",
+          "question": "We sold ------- the tickets in two hours.",
+          "choices": {
+            "A": "half",
+            "B": "the half",
+            "C": "halves",
+            "D": "a half"
+          },
+          "answer": "A",
+          "explanation": "half는 관사 앞에 와요. half the tickets(티켓의 절반)예요."
         }
       ]
     },
@@ -1424,6 +1957,136 @@
           },
           "answer": "C",
           "explanation": "특정한(2층에 있는) 같은 종류의 것을 가리키므로 the one."
+        },
+        {
+          "id": "ch04-q5",
+          "section": "ch04-01",
+          "question": "The client approved ------- proposal yesterday.",
+          "choices": {
+            "A": "we",
+            "B": "our",
+            "C": "ours",
+            "D": "us"
+          },
+          "answer": "B",
+          "explanation": "명사 proposal 앞이라 소유격 our예요."
+        },
+        {
+          "id": "ch04-q6",
+          "section": "ch04-01",
+          "question": "This parking space is -------, so please park somewhere else.",
+          "choices": {
+            "A": "my",
+            "B": "me",
+            "C": "mine",
+            "D": "myself"
+          },
+          "answer": "C",
+          "explanation": "뒤에 명사 없이 '내 것'이라는 뜻이라 소유대명사 mine이에요."
+        },
+        {
+          "id": "ch04-q7",
+          "section": "ch04-02",
+          "question": "Mr. Grant introduced ------- to the new team members.",
+          "choices": {
+            "A": "his",
+            "B": "him",
+            "C": "he",
+            "D": "himself"
+          },
+          "answer": "D",
+          "explanation": "주어 Mr. Grant와 목적어가 같은 사람이라 재귀대명사 himself예요. him이면 다른 남자가 돼요."
+        },
+        {
+          "id": "ch04-q8",
+          "section": "ch04-02",
+          "question": "Ms. Chen completed the project by -------.",
+          "choices": {
+            "A": "herself",
+            "B": "hers",
+            "C": "her",
+            "D": "she"
+          },
+          "answer": "A",
+          "explanation": "by oneself는 '혼자서'라는 관용 표현이에요."
+        },
+        {
+          "id": "ch04-q9",
+          "section": "ch04-03",
+          "question": "The salaries at our company are higher than ------- at other firms.",
+          "choices": {
+            "A": "that",
+            "B": "those",
+            "C": "this",
+            "D": "these"
+          },
+          "answer": "B",
+          "explanation": "앞의 salaries(복수)를 반복하지 않으려고 those를 써요."
+        },
+        {
+          "id": "ch04-q10",
+          "section": "ch04-03",
+          "question": "------- interested in volunteering should sign up by Friday.",
+          "choices": {
+            "A": "These",
+            "B": "Them",
+            "C": "Those",
+            "D": "They"
+          },
+          "answer": "C",
+          "explanation": "those + 형용사/분사는 '~한 사람들'이라는 뜻이에요. those (who are) interested예요."
+        },
+        {
+          "id": "ch04-q11",
+          "section": "ch04-04",
+          "question": "This mug is cracked. Could you give me -------?",
+          "choices": {
+            "A": "others",
+            "B": "other",
+            "C": "the others",
+            "D": "another"
+          },
+          "answer": "D",
+          "explanation": "'또 다른 하나'를 달라는 뜻이라 another예요."
+        },
+        {
+          "id": "ch04-q12",
+          "section": "ch04-04",
+          "question": "Of the two candidates, one has more experience, and ------- has better skills.",
+          "choices": {
+            "A": "the other",
+            "B": "others",
+            "C": "another",
+            "D": "other"
+          },
+          "answer": "A",
+          "explanation": "둘 중 하나는 one, 나머지 하나는 the other예요."
+        },
+        {
+          "id": "ch04-q13",
+          "section": "ch04-05",
+          "question": "------- is important to back up your files regularly.",
+          "choices": {
+            "A": "This",
+            "B": "It",
+            "C": "That",
+            "D": "There"
+          },
+          "answer": "B",
+          "explanation": "진주어 to back up ~을 뒤로 보내고 가주어 It을 써요."
+        },
+        {
+          "id": "ch04-q14",
+          "section": "ch04-05",
+          "question": "The new software makes ------- easier to track orders.",
+          "choices": {
+            "A": "that",
+            "B": "this",
+            "C": "it",
+            "D": "them"
+          },
+          "answer": "C",
+          "explanation": "make + it + 형용사 + to부정사 구조의 가목적어 it이에요."
         }
       ]
     },
@@ -1700,6 +2363,240 @@
           },
           "answer": "A",
           "explanation": "조동사 must 뒤에는 동사원형."
+        },
+        {
+          "id": "ch05-q5",
+          "section": "ch05-01",
+          "question": "The managers ------- in a meeting when the client called.",
+          "choices": {
+            "A": "be",
+            "B": "is",
+            "C": "was",
+            "D": "were"
+          },
+          "answer": "D",
+          "explanation": "주어 The managers가 복수이고 과거 상황이라 were예요."
+        },
+        {
+          "id": "ch05-q6",
+          "section": "ch05-01",
+          "question": "There ------- several issues with the new system.",
+          "choices": {
+            "A": "are",
+            "B": "is",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "A",
+          "explanation": "there is/are는 뒤의 명사에 수를 맞춰요. several issues가 복수라 are예요."
+        },
+        {
+          "id": "ch05-q7",
+          "section": "ch05-01",
+          "question": "The office supplies ------- delivered yesterday.",
+          "choices": {
+            "A": "are",
+            "B": "were",
+            "C": "has",
+            "D": "was"
+          },
+          "answer": "B",
+          "explanation": "주어 supplies가 복수이고 yesterday가 있어 과거 수동 were delivered예요."
+        },
+        {
+          "id": "ch05-q8",
+          "section": "ch05-02",
+          "question": "The company ------- its employees a generous bonus every year.",
+          "choices": {
+            "A": "give",
+            "B": "to give",
+            "C": "gives",
+            "D": "giving"
+          },
+          "answer": "C",
+          "explanation": "주어 The company는 3인칭 단수이고, every year는 반복되는 일이라 현재형 gives예요."
+        },
+        {
+          "id": "ch05-q9",
+          "section": "ch05-02",
+          "question": "Ms. Rossi usually ------- to work by bus.",
+          "choices": {
+            "A": "go",
+            "B": "gone",
+            "C": "going",
+            "D": "goes"
+          },
+          "answer": "D",
+          "explanation": "3인칭 단수 현재형이라 go에 -es를 붙인 goes예요."
+        },
+        {
+          "id": "ch05-q10",
+          "section": "ch05-02",
+          "question": "Our store ------- at 10 a.m. every day.",
+          "choices": {
+            "A": "opens",
+            "B": "to open",
+            "C": "open",
+            "D": "opening"
+          },
+          "answer": "A",
+          "explanation": "주어 Our store가 단수이고 매일 반복되는 일이라 opens예요."
+        },
+        {
+          "id": "ch05-q11",
+          "section": "ch05-03",
+          "question": "Mr. Kim did not ------- the email until this morning.",
+          "choices": {
+            "A": "seen",
+            "B": "see",
+            "C": "saw",
+            "D": "seeing"
+          },
+          "answer": "B",
+          "explanation": "did not 뒤에는 동사원형이 와요."
+        },
+        {
+          "id": "ch05-q12",
+          "section": "ch05-03",
+          "question": "------- the package arrive on time yesterday?",
+          "choices": {
+            "A": "Does",
+            "B": "Do",
+            "C": "Did",
+            "D": "Was"
+          },
+          "answer": "C",
+          "explanation": "yesterday가 있는 과거 의문문이고 뒤에 원형 arrive가 있으니 Did예요."
+        },
+        {
+          "id": "ch05-q13",
+          "section": "ch05-03",
+          "question": "The shop ------- not accept credit cards.",
+          "choices": {
+            "A": "do",
+            "B": "are",
+            "C": "is",
+            "D": "does"
+          },
+          "answer": "D",
+          "explanation": "일반동사 accept의 부정문이에요. 주어가 3인칭 단수라 does not이에요."
+        },
+        {
+          "id": "ch05-q14",
+          "section": "ch05-04",
+          "question": "The list of approved vendors ------- on the company website.",
+          "choices": {
+            "A": "is",
+            "B": "were",
+            "C": "have",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "진짜 주어는 The list(단수)예요. of approved vendors는 수식어라 무시해요."
+        },
+        {
+          "id": "ch05-q15",
+          "section": "ch05-04",
+          "question": "Meeting tight deadlines ------- careful planning.",
+          "choices": {
+            "A": "requiring",
+            "B": "requires",
+            "C": "require",
+            "D": "are required"
+          },
+          "answer": "B",
+          "explanation": "동명사 주어는 단수 취급이라 requires예요."
+        },
+        {
+          "id": "ch05-q16",
+          "section": "ch05-04",
+          "question": "Ten dollars ------- the fee for the parking permit.",
+          "choices": {
+            "A": "were",
+            "B": "are",
+            "C": "is",
+            "D": "be"
+          },
+          "answer": "C",
+          "explanation": "금액은 하나의 덩어리로 보아 단수 취급해요."
+        },
+        {
+          "id": "ch05-q17",
+          "section": "ch05-05",
+          "question": "Either the director or her assistants ------- the visitors.",
+          "choices": {
+            "A": "is greeting",
+            "B": "has greeted",
+            "C": "greets",
+            "D": "greet"
+          },
+          "answer": "D",
+          "explanation": "either A or B는 B에 수를 맞춰요. her assistants가 복수라 greet예요."
+        },
+        {
+          "id": "ch05-q18",
+          "section": "ch05-05",
+          "question": "The CEO, along with three board members, ------- the factory next week.",
+          "choices": {
+            "A": "will visit",
+            "B": "visits",
+            "C": "have visited",
+            "D": "visit"
+          },
+          "answer": "A",
+          "explanation": "along with는 앞 주어(The CEO)에 맞추고, next week가 있으니 미래 will visit예요."
+        },
+        {
+          "id": "ch05-q19",
+          "section": "ch05-05",
+          "question": "One of the elevators ------- out of service today.",
+          "choices": {
+            "A": "were",
+            "B": "is",
+            "C": "are",
+            "D": "have"
+          },
+          "answer": "B",
+          "explanation": "one of the + 복수명사는 단수 취급해요."
+        },
+        {
+          "id": "ch05-q20",
+          "section": "ch05-06",
+          "question": "The marketing team ------- a new campaign last month.",
+          "choices": {
+            "A": "to launch",
+            "B": "launch",
+            "C": "launched",
+            "D": "launching"
+          },
+          "answer": "C",
+          "explanation": "문장에 동사가 없어서 정동사가 필요해요. last month라 과거형 launched예요."
+        },
+        {
+          "id": "ch05-q21",
+          "section": "ch05-06",
+          "question": "The committee agreed ------- the proposal.",
+          "choices": {
+            "A": "accept",
+            "B": "accepting",
+            "C": "accepted",
+            "D": "to accept"
+          },
+          "answer": "D",
+          "explanation": "agreed가 이미 정동사라 빈칸은 준동사 자리예요. agree는 to부정사를 목적어로 취해요."
+        },
+        {
+          "id": "ch05-q22",
+          "section": "ch05-06",
+          "question": "Mr. Davis, who ------- the sales department, will retire soon.",
+          "choices": {
+            "A": "heads",
+            "B": "to head",
+            "C": "head",
+            "D": "heading"
+          },
+          "answer": "A",
+          "explanation": "관계사절 who 뒤에는 정동사가 필요해요. 선행사 Mr. Davis가 단수라 heads예요."
         }
       ]
     },
@@ -2028,6 +2925,162 @@
           },
           "answer": "C",
           "explanation": "사역동사 have + O + p.p.: 서류가 배달'되는' 수동 관계."
+        },
+        {
+          "id": "ch06-q5",
+          "section": "ch06-01",
+          "question": "The new manager seems very -------.",
+          "choices": {
+            "A": "capability",
+            "B": "capable",
+            "C": "capableness",
+            "D": "capably"
+          },
+          "answer": "B",
+          "explanation": "seem은 2형식 동사라 보어로 형용사 capable이 와요."
+        },
+        {
+          "id": "ch06-q6",
+          "section": "ch06-01",
+          "question": "Customers found the instructions -------.",
+          "choices": {
+            "A": "confuse",
+            "B": "confusingly",
+            "C": "confusing",
+            "D": "confusion"
+          },
+          "answer": "C",
+          "explanation": "find + 목적어 + 형용사(5형식)예요. 설명서가 혼란을 '주는' 것이라 confusing이에요."
+        },
+        {
+          "id": "ch06-q7",
+          "section": "ch06-02",
+          "question": "The accident ------- on the highway early this morning.",
+          "choices": {
+            "A": "has been occurred",
+            "B": "was occurred",
+            "C": "is occurred",
+            "D": "occurred"
+          },
+          "answer": "D",
+          "explanation": "occur는 자동사라 수동태가 안 돼요."
+        },
+        {
+          "id": "ch06-q8",
+          "section": "ch06-02",
+          "question": "Sales ------- by 15 percent last quarter.",
+          "choices": {
+            "A": "rose",
+            "B": "raising",
+            "C": "raised",
+            "D": "were risen"
+          },
+          "answer": "A",
+          "explanation": "목적어 없이 '오르다'는 자동사 rise예요. 과거형은 rose예요."
+        },
+        {
+          "id": "ch06-q9",
+          "section": "ch06-03",
+          "question": "The proposal sounds ------- to me.",
+          "choices": {
+            "A": "reasonably",
+            "B": "reasonable",
+            "C": "reasoning",
+            "D": "reason"
+          },
+          "answer": "B",
+          "explanation": "감각동사 sound 뒤에는 형용사 보어가 와요."
+        },
+        {
+          "id": "ch06-q10",
+          "section": "ch06-03",
+          "question": "Prices have remained ------- for the past six months.",
+          "choices": {
+            "A": "stably",
+            "B": "stabilize",
+            "C": "stable",
+            "D": "stability"
+          },
+          "answer": "C",
+          "explanation": "remain은 2형식 동사라 형용사 stable이 보어로 와요."
+        },
+        {
+          "id": "ch06-q11",
+          "section": "ch06-04",
+          "question": "Please ------- me if you have any questions.",
+          "choices": {
+            "A": "contact with",
+            "B": "contact to",
+            "C": "reply",
+            "D": "contact"
+          },
+          "answer": "D",
+          "explanation": "contact는 전치사 없이 목적어를 바로 취하는 타동사예요. reply는 to가 필요해요."
+        },
+        {
+          "id": "ch06-q12",
+          "section": "ch06-04",
+          "question": "Over 300 people ------- the conference.",
+          "choices": {
+            "A": "attended",
+            "B": "participated",
+            "C": "attended to",
+            "D": "joined in"
+          },
+          "answer": "A",
+          "explanation": "attend(참석하다)는 타동사라 바로 목적어가 와요. participate는 in이 필요해요."
+        },
+        {
+          "id": "ch06-q13",
+          "section": "ch06-05",
+          "question": "Ms. Ito explained the new process ------- the team.",
+          "choices": {
+            "A": "of",
+            "B": "to",
+            "C": "with",
+            "D": "for"
+          },
+          "answer": "B",
+          "explanation": "explain은 4형식이 안 돼서 'explain + 내용 + to + 사람'으로 써요."
+        },
+        {
+          "id": "ch06-q14",
+          "section": "ch06-05",
+          "question": "The hotel offered ------- a free upgrade.",
+          "choices": {
+            "A": "our",
+            "B": "ours",
+            "C": "us",
+            "D": "we"
+          },
+          "answer": "C",
+          "explanation": "offer + 사람 + 사물(4형식)이에요. 간접목적어 자리라 목적격 us예요."
+        },
+        {
+          "id": "ch06-q15",
+          "section": "ch06-06",
+          "question": "The new software allows users ------- reports quickly.",
+          "choices": {
+            "A": "creating",
+            "B": "create",
+            "C": "created",
+            "D": "to create"
+          },
+          "answer": "D",
+          "explanation": "allow + 목적어 + to부정사예요."
+        },
+        {
+          "id": "ch06-q16",
+          "section": "ch06-06",
+          "question": "Please keep the door ------- at all times.",
+          "choices": {
+            "A": "closed",
+            "B": "closely",
+            "C": "closing",
+            "D": "close"
+          },
+          "answer": "A",
+          "explanation": "keep + 목적어 + 보어예요. 문이 닫힌 상태로 '되어 있는' 것이라 closed예요."
         }
       ]
     },
@@ -2175,6 +3228,136 @@
           },
           "answer": "B",
           "explanation": "긍정 과거 평서문 → 부정 부가의문문 didn't you?"
+        },
+        {
+          "id": "ch07-q4",
+          "section": "ch07-01",
+          "question": "Mr. Han ------- attend the meeting because he was ill.",
+          "choices": {
+            "A": "isn't",
+            "B": "didn't",
+            "C": "doesn't",
+            "D": "wasn't"
+          },
+          "answer": "B",
+          "explanation": "he was ill로 과거이고 일반동사 attend의 부정이라 didn't예요."
+        },
+        {
+          "id": "ch07-q5",
+          "section": "ch07-01",
+          "question": "There were ------- complaints about the new menu.",
+          "choices": {
+            "A": "not hardly",
+            "B": "hardly no",
+            "C": "hardly any",
+            "D": "any hardly"
+          },
+          "answer": "C",
+          "explanation": "hardly는 이미 부정 뜻이라 no, not과 같이 쓰지 않아요. hardly any(거의 없는)가 맞아요."
+        },
+        {
+          "id": "ch07-q6",
+          "section": "ch07-02",
+          "question": "------- will the renovation take?",
+          "choices": {
+            "A": "How often",
+            "B": "How much",
+            "C": "How many",
+            "D": "How long"
+          },
+          "answer": "D",
+          "explanation": "공사가 얼마나 '오래' 걸리는지 묻는 거라 How long이에요."
+        },
+        {
+          "id": "ch07-q7",
+          "section": "ch07-02",
+          "question": "You haven't finished the report, ------- you?",
+          "choices": {
+            "A": "have",
+            "B": "did",
+            "C": "haven't",
+            "D": "do"
+          },
+          "answer": "A",
+          "explanation": "부정문 haven't 뒤의 부가의문문은 긍정 have you?예요."
+        },
+        {
+          "id": "ch07-q8",
+          "section": "ch07-03",
+          "question": "Do you know where -------?",
+          "choices": {
+            "A": "does the meeting",
+            "B": "the meeting is",
+            "C": "is the meeting",
+            "D": "the meeting does"
+          },
+          "answer": "B",
+          "explanation": "간접의문문은 '의문사 + 주어 + 동사' 순서예요."
+        },
+        {
+          "id": "ch07-q9",
+          "section": "ch07-03",
+          "question": "Please tell me ------- the order was shipped.",
+          "choices": {
+            "A": "which",
+            "B": "who",
+            "C": "when",
+            "D": "what"
+          },
+          "answer": "C",
+          "explanation": "뒤가 완전한 절이고 '언제' 발송됐는지 묻는 거라 when이에요. what, which, who 뒤에는 불완전한 절이 와요."
+        },
+        {
+          "id": "ch07-q10",
+          "section": "ch07-04",
+          "question": "------- forget to sign the attendance sheet.",
+          "choices": {
+            "A": "Not",
+            "B": "Doesn't",
+            "C": "No",
+            "D": "Don't"
+          },
+          "answer": "D",
+          "explanation": "부정 명령문은 Don't + 동사원형이에요."
+        },
+        {
+          "id": "ch07-q11",
+          "section": "ch07-04",
+          "question": "Please ------- your seat belt fastened.",
+          "choices": {
+            "A": "keep",
+            "B": "to keep",
+            "C": "keeping",
+            "D": "keeps"
+          },
+          "answer": "A",
+          "explanation": "Please 뒤 명령문이라 동사원형 keep이에요."
+        },
+        {
+          "id": "ch07-q12",
+          "section": "ch07-05",
+          "question": "------- a wonderful view this room has!",
+          "choices": {
+            "A": "How",
+            "B": "What",
+            "C": "So",
+            "D": "Such"
+          },
+          "answer": "B",
+          "explanation": "What + a + 형용사 + 명사 + 주어 + 동사 순서의 감탄문이에요."
+        },
+        {
+          "id": "ch07-q13",
+          "section": "ch07-05",
+          "question": "------- quickly the team finished the project!",
+          "choices": {
+            "A": "What",
+            "B": "So",
+            "C": "How",
+            "D": "Such"
+          },
+          "answer": "C",
+          "explanation": "How + 형용사/부사 + 주어 + 동사 순서의 감탄문이에요."
         }
       ]
     },
@@ -2542,6 +3725,396 @@
           },
           "answer": "D",
           "explanation": "by + 미래 시점 → 미래완료."
+        },
+        {
+          "id": "ch08-q5",
+          "section": "ch08-01",
+          "question": "Ms. Lopez ------- on the report when I stopped by her office.",
+          "choices": {
+            "A": "works",
+            "B": "is working",
+            "C": "has worked",
+            "D": "was working"
+          },
+          "answer": "D",
+          "explanation": "내가 들른 과거의 그 순간에 하고 있던 일이라 과거진행 was working이에요."
+        },
+        {
+          "id": "ch08-q6",
+          "section": "ch08-01",
+          "question": "By the time the CEO arrives, we ------- the presentation.",
+          "choices": {
+            "A": "will have finished",
+            "B": "had finished",
+            "C": "will finish",
+            "D": "finished"
+          },
+          "answer": "A",
+          "explanation": "by the time + 현재동사가 있으면 주절은 미래완료예요."
+        },
+        {
+          "id": "ch08-q7",
+          "section": "ch08-01",
+          "question": "The team ------- on this project since January.",
+          "choices": {
+            "A": "is working",
+            "B": "has been working",
+            "C": "worked",
+            "D": "works"
+          },
+          "answer": "B",
+          "explanation": "since January(1월부터 지금까지 계속)라 현재완료진행 has been working이에요."
+        },
+        {
+          "id": "ch08-q8",
+          "section": "ch08-02",
+          "question": "The museum ------- at 6 p.m. on weekdays.",
+          "choices": {
+            "A": "close",
+            "B": "closing",
+            "C": "closes",
+            "D": "to close"
+          },
+          "answer": "C",
+          "explanation": "반복되는 일정은 현재시제예요. 주어가 3인칭 단수라 closes예요."
+        },
+        {
+          "id": "ch08-q9",
+          "section": "ch08-02",
+          "question": "Please call me as soon as the shipment -------.",
+          "choices": {
+            "A": "arrived",
+            "B": "arrive",
+            "C": "will arrive",
+            "D": "arrives"
+          },
+          "answer": "D",
+          "explanation": "시간 부사절(as soon as) 안에서는 미래 대신 현재시제를 써요."
+        },
+        {
+          "id": "ch08-q10",
+          "section": "ch08-02",
+          "question": "If the weather ------- good tomorrow, the picnic will be held outdoors.",
+          "choices": {
+            "A": "is",
+            "B": "was",
+            "C": "being",
+            "D": "will be"
+          },
+          "answer": "A",
+          "explanation": "조건 부사절(if) 안에서는 tomorrow가 있어도 현재시제 is를 써요."
+        },
+        {
+          "id": "ch08-q11",
+          "section": "ch08-03",
+          "question": "The company ------- its first store in 2010.",
+          "choices": {
+            "A": "will open",
+            "B": "opened",
+            "C": "opens",
+            "D": "has opened"
+          },
+          "answer": "B",
+          "explanation": "in 2010은 명백한 과거 시점이라 과거형 opened예요. 현재완료와는 함께 못 써요."
+        },
+        {
+          "id": "ch08-q12",
+          "section": "ch08-03",
+          "question": "Mr. Wu ------- the contract two days ago.",
+          "choices": {
+            "A": "has signed",
+            "B": "signs",
+            "C": "signed",
+            "D": "sign"
+          },
+          "answer": "C",
+          "explanation": "~ ago는 과거 시점 표현이라 과거형 signed예요."
+        },
+        {
+          "id": "ch08-q13",
+          "section": "ch08-03",
+          "question": "Last year, sales ------- by 20 percent.",
+          "choices": {
+            "A": "have grown",
+            "B": "growing",
+            "C": "grow",
+            "D": "grew"
+          },
+          "answer": "D",
+          "explanation": "Last year는 과거 시점이라 grow의 과거형 grew예요."
+        },
+        {
+          "id": "ch08-q14",
+          "section": "ch08-04",
+          "question": "The new policy ------- effect next month.",
+          "choices": {
+            "A": "will take",
+            "B": "taking",
+            "C": "has taken",
+            "D": "took"
+          },
+          "answer": "A",
+          "explanation": "next month는 미래라 will take예요. take effect는 '시행되다'예요."
+        },
+        {
+          "id": "ch08-q15",
+          "section": "ch08-04",
+          "question": "The meeting is about ------- , so please take your seats.",
+          "choices": {
+            "A": "started",
+            "B": "to start",
+            "C": "start",
+            "D": "starting"
+          },
+          "answer": "B",
+          "explanation": "be about to + 동사원형은 '막 ~하려는 참이다'예요."
+        },
+        {
+          "id": "ch08-q16",
+          "section": "ch08-04",
+          "question": "The CEO is scheduled ------- the factory next Tuesday.",
+          "choices": {
+            "A": "visit",
+            "B": "visited",
+            "C": "to visit",
+            "D": "visiting"
+          },
+          "answer": "C",
+          "explanation": "be scheduled to + 동사원형은 '~할 예정이다'예요."
+        },
+        {
+          "id": "ch08-q17",
+          "section": "ch08-05",
+          "question": "This box ------- important documents.",
+          "choices": {
+            "A": "is containing",
+            "B": "contain",
+            "C": "containing",
+            "D": "contains"
+          },
+          "answer": "D",
+          "explanation": "contain은 상태동사라 진행형으로 쓰지 않아요. 주어가 단수라 contains예요."
+        },
+        {
+          "id": "ch08-q18",
+          "section": "ch08-05",
+          "question": "Please be quiet. The manager ------- a phone call right now.",
+          "choices": {
+            "A": "is making",
+            "B": "made",
+            "C": "makes",
+            "D": "has made"
+          },
+          "answer": "A",
+          "explanation": "right now(지금)에 진행 중인 동작이라 현재진행 is making이에요."
+        },
+        {
+          "id": "ch08-q19",
+          "section": "ch08-05",
+          "question": "Mr. Ford ------- the building that houses our office.",
+          "choices": {
+            "A": "owning",
+            "B": "owns",
+            "C": "is owning",
+            "D": "own"
+          },
+          "answer": "B",
+          "explanation": "own(소유하다)은 상태동사라 진행형이 안 돼요. 3인칭 단수 owns예요."
+        },
+        {
+          "id": "ch08-q20",
+          "section": "ch08-06",
+          "question": "The company ------- three new branches since last year.",
+          "choices": {
+            "A": "will open",
+            "B": "opens",
+            "C": "has opened",
+            "D": "opened"
+          },
+          "answer": "C",
+          "explanation": "since + 과거 시점은 현재완료와 함께 써요."
+        },
+        {
+          "id": "ch08-q21",
+          "section": "ch08-06",
+          "question": "Ms. Kang ------- for this firm for ten years.",
+          "choices": {
+            "A": "is working",
+            "B": "will work",
+            "C": "works",
+            "D": "has worked"
+          },
+          "answer": "D",
+          "explanation": "과거부터 지금까지 10년 동안 계속된 일이라 현재완료 has worked예요."
+        },
+        {
+          "id": "ch08-q22",
+          "section": "ch08-06",
+          "question": "Have you ------- the new manager yet?",
+          "choices": {
+            "A": "met",
+            "B": "meet",
+            "C": "meets",
+            "D": "meeting"
+          },
+          "answer": "A",
+          "explanation": "Have + 과거분사로 현재완료 의문문을 만들어요. meet의 과거분사는 met이에요."
+        },
+        {
+          "id": "ch08-q23",
+          "section": "ch08-07",
+          "question": "When I arrived at the station, the train ------- already left.",
+          "choices": {
+            "A": "have",
+            "B": "had",
+            "C": "was",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "내가 도착한 과거 시점보다 기차가 떠난 게 더 먼저라 과거완료 had left예요."
+        },
+        {
+          "id": "ch08-q24",
+          "section": "ch08-07",
+          "question": "By the time the firefighters arrived, the fire ------- out.",
+          "choices": {
+            "A": "has gone",
+            "B": "will go",
+            "C": "had gone",
+            "D": "goes"
+          },
+          "answer": "C",
+          "explanation": "by the time + 과거동사이면 주절은 과거완료예요."
+        },
+        {
+          "id": "ch08-q25",
+          "section": "ch08-07",
+          "question": "She realized that she ------- her badge at home.",
+          "choices": {
+            "A": "leaves",
+            "B": "has left",
+            "C": "will leave",
+            "D": "had left"
+          },
+          "answer": "D",
+          "explanation": "알아차린(과거) 시점보다 두고 온 게 먼저라 과거완료 had left예요."
+        },
+        {
+          "id": "ch08-q26",
+          "section": "ch08-08",
+          "question": "By next June, Mr. Ali ------- here for 20 years.",
+          "choices": {
+            "A": "will have worked",
+            "B": "worked",
+            "C": "has worked",
+            "D": "works"
+          },
+          "answer": "A",
+          "explanation": "by + 미래 시점(next June)까지 계속될 일이라 미래완료예요."
+        },
+        {
+          "id": "ch08-q27",
+          "section": "ch08-08",
+          "question": "The renovation ------- by the end of this month.",
+          "choices": {
+            "A": "completes",
+            "B": "will have been completed",
+            "C": "has completed",
+            "D": "completed"
+          },
+          "answer": "B",
+          "explanation": "이달 말(미래)까지 완료될 일이고, 공사는 '완료되는' 대상이라 미래완료 수동이에요."
+        },
+        {
+          "id": "ch08-q28",
+          "section": "ch08-08",
+          "question": "By the time you read this email, I ------- for Tokyo.",
+          "choices": {
+            "A": "leave",
+            "B": "will leave",
+            "C": "will have left",
+            "D": "had left"
+          },
+          "answer": "C",
+          "explanation": "by the time + 현재동사(read)이면 주절은 미래완료 will have left예요."
+        },
+        {
+          "id": "ch08-q29",
+          "section": "ch08-09",
+          "question": "We ------- for the bus for 30 minutes, and it still hasn't come.",
+          "choices": {
+            "A": "waited",
+            "B": "wait",
+            "C": "are waiting",
+            "D": "have been waiting"
+          },
+          "answer": "D",
+          "explanation": "30분 전부터 지금까지 계속 기다리는 중이라 현재완료진행이에요."
+        },
+        {
+          "id": "ch08-q30",
+          "section": "ch08-09",
+          "question": "The engineers ------- on the problem for hours when they finally found the cause.",
+          "choices": {
+            "A": "had been working",
+            "B": "have been working",
+            "C": "work",
+            "D": "will be working"
+          },
+          "answer": "A",
+          "explanation": "원인을 찾은 과거 시점까지 계속 작업하던 중이라 과거완료진행이에요."
+        },
+        {
+          "id": "ch08-q31",
+          "section": "ch08-09",
+          "question": "Ms. Bell ------- the new software since last week, and she likes it.",
+          "choices": {
+            "A": "uses",
+            "B": "has been using",
+            "C": "had been using",
+            "D": "used"
+          },
+          "answer": "B",
+          "explanation": "지난주부터 지금까지 계속 쓰고 있으니 현재완료진행 has been using이에요."
+        },
+        {
+          "id": "ch08-q32",
+          "section": "ch08-10",
+          "question": "Ms. Silva ------- as a consultant previously.",
+          "choices": {
+            "A": "works",
+            "B": "will work",
+            "C": "worked",
+            "D": "has been working"
+          },
+          "answer": "C",
+          "explanation": "previously(이전에)는 과거 시제 단서예요."
+        },
+        {
+          "id": "ch08-q33",
+          "section": "ch08-10",
+          "question": "Over the past five years, the city's population ------- steadily.",
+          "choices": {
+            "A": "grows",
+            "B": "grew",
+            "C": "will grow",
+            "D": "has grown"
+          },
+          "answer": "D",
+          "explanation": "over the past + 기간은 현재완료의 대표 단서예요."
+        },
+        {
+          "id": "ch08-q34",
+          "section": "ch08-10",
+          "question": "The new branch ------- next month.",
+          "choices": {
+            "A": "will open",
+            "B": "has opened",
+            "C": "opening",
+            "D": "opened"
+          },
+          "answer": "A",
+          "explanation": "next month는 미래 시제 단서예요."
         }
       ]
     },
@@ -2817,6 +4390,136 @@
           },
           "answer": "B",
           "explanation": "과거 일에 대한 강한 추측 → must have p.p."
+        },
+        {
+          "id": "ch09-q5",
+          "section": "ch09-01",
+          "question": "All passengers should ------- their tickets ready.",
+          "choices": {
+            "A": "to have",
+            "B": "have",
+            "C": "having",
+            "D": "has"
+          },
+          "answer": "B",
+          "explanation": "조동사 should 뒤에는 동사원형이 와요."
+        },
+        {
+          "id": "ch09-q6",
+          "section": "ch09-01",
+          "question": "The report must ------- by noon tomorrow.",
+          "choices": {
+            "A": "submitted",
+            "B": "submitting",
+            "C": "be submitted",
+            "D": "submit"
+          },
+          "answer": "C",
+          "explanation": "보고서는 '제출되는' 대상이라 조동사 + be + p.p. 수동형이에요."
+        },
+        {
+          "id": "ch09-q7",
+          "section": "ch09-02",
+          "question": "You ------- bring your own laptop; computers will be provided.",
+          "choices": {
+            "A": "should",
+            "B": "cannot",
+            "C": "must not",
+            "D": "don't have to"
+          },
+          "answer": "D",
+          "explanation": "컴퓨터가 제공되니 가져올 '필요가 없다'는 뜻이라 don't have to예요. must not은 '금지'예요."
+        },
+        {
+          "id": "ch09-q8",
+          "section": "ch09-02",
+          "question": "Visitors ------- not use flash photography inside the museum.",
+          "choices": {
+            "A": "must",
+            "B": "ought",
+            "C": "need to",
+            "D": "have"
+          },
+          "answer": "A",
+          "explanation": "must not은 '~해서는 안 된다'(금지)예요. ought는 to가 있어야 해요."
+        },
+        {
+          "id": "ch09-q9",
+          "section": "ch09-03",
+          "question": "Ms. Diaz ------- work at a bank before she joined our company.",
+          "choices": {
+            "A": "is used to",
+            "B": "used to",
+            "C": "uses to",
+            "D": "was used to"
+          },
+          "answer": "B",
+          "explanation": "used to + 동사원형은 '(예전에) ~했었다'예요."
+        },
+        {
+          "id": "ch09-q10",
+          "section": "ch09-03",
+          "question": "This software is used ------- customer data.",
+          "choices": {
+            "A": "managing",
+            "B": "managed",
+            "C": "to manage",
+            "D": "manage"
+          },
+          "answer": "C",
+          "explanation": "be used to + 동사원형은 '~하는 데 사용되다'예요. be used to -ing(익숙하다)와 구별해요."
+        },
+        {
+          "id": "ch09-q11",
+          "section": "ch09-04",
+          "question": "The lights are off. Everyone ------- home already.",
+          "choices": {
+            "A": "should go",
+            "B": "must go",
+            "C": "can go",
+            "D": "must have gone"
+          },
+          "answer": "D",
+          "explanation": "이미 일어난 과거 일에 대한 강한 추측이라 must have p.p.예요."
+        },
+        {
+          "id": "ch09-q12",
+          "section": "ch09-04",
+          "question": "I ------- the tickets earlier; now they are sold out.",
+          "choices": {
+            "A": "should have bought",
+            "B": "can buy",
+            "C": "must have bought",
+            "D": "should buy"
+          },
+          "answer": "A",
+          "explanation": "사지 않은 과거를 후회하는 거라 should have p.p.예요."
+        },
+        {
+          "id": "ch09-q13",
+          "section": "ch09-05",
+          "question": "The supervisor insisted that every worker ------- a helmet.",
+          "choices": {
+            "A": "wearing",
+            "B": "wear",
+            "C": "wore",
+            "D": "wears"
+          },
+          "answer": "B",
+          "explanation": "insist(요구하다) + that + 주어 + (should) 동사원형이라 wear예요."
+        },
+        {
+          "id": "ch09-q14",
+          "section": "ch09-05",
+          "question": "It is essential that the documents ------- before the deadline.",
+          "choices": {
+            "A": "will be submitted",
+            "B": "submit",
+            "C": "be submitted",
+            "D": "are submitted"
+          },
+          "answer": "C",
+          "explanation": "essential + that절에는 (should) 동사원형을 써요. 서류는 제출'되는' 거라 be submitted예요."
         }
       ]
     },
@@ -3119,6 +4822,279 @@
           },
           "answer": "C",
           "explanation": "keep + O + 형용사 보어. 문맥상 '기밀의' confidential."
+        },
+        {
+          "id": "ch10-q5",
+          "section": "ch10-01",
+          "question": "We received many ------- comments about the event.",
+          "choices": {
+            "A": "positivity",
+            "B": "positively",
+            "C": "positiveness",
+            "D": "positive"
+          },
+          "answer": "D",
+          "explanation": "many와 명사 comments 사이는 형용사 자리예요."
+        },
+        {
+          "id": "ch10-q6",
+          "section": "ch10-01",
+          "question": "The new office is spacious and -------.",
+          "choices": {
+            "A": "comfortable",
+            "B": "comfortably",
+            "C": "comfortableness",
+            "D": "comfort"
+          },
+          "answer": "A",
+          "explanation": "and 앞의 spacious와 같은 형용사가 와야 해요. be동사의 보어 자리이기도 해요."
+        },
+        {
+          "id": "ch10-q7",
+          "section": "ch10-01",
+          "question": "Is there anything ------- in today's newspaper?",
+          "choices": {
+            "A": "interestingly",
+            "B": "interesting",
+            "C": "interests",
+            "D": "interest"
+          },
+          "answer": "B",
+          "explanation": "-thing으로 끝나는 대명사는 형용사가 뒤에서 꾸며요."
+        },
+        {
+          "id": "ch10-q8",
+          "section": "ch10-02",
+          "question": "Please be ------- that the office will close early today.",
+          "choices": {
+            "A": "awareness",
+            "B": "awarely",
+            "C": "aware",
+            "D": "awaring"
+          },
+          "answer": "C",
+          "explanation": "be aware that ~은 '~을 알고 있다'예요. aware는 보어로만 쓰는 형용사예요."
+        },
+        {
+          "id": "ch10-q9",
+          "section": "ch10-02",
+          "question": "The ------- passengers were asked to fasten their seat belts.",
+          "choices": {
+            "A": "sleep",
+            "B": "asleep",
+            "C": "slept",
+            "D": "sleeping"
+          },
+          "answer": "D",
+          "explanation": "명사 앞에는 asleep을 쓸 수 없어요. 명사를 꾸밀 때는 sleeping을 써요."
+        },
+        {
+          "id": "ch10-q10",
+          "section": "ch10-02",
+          "question": "The lobsters must still be ------- when they are delivered.",
+          "choices": {
+            "A": "alive",
+            "B": "life",
+            "C": "live",
+            "D": "lively"
+          },
+          "answer": "A",
+          "explanation": "be동사 뒤 보어 자리에는 alive를 써요. live는 a live lobster처럼 명사 앞에서 써요."
+        },
+        {
+          "id": "ch10-q11",
+          "section": "ch10-03",
+          "question": "She bought -------.",
+          "choices": {
+            "A": "wooden a large table",
+            "B": "a large wooden table",
+            "C": "a wooden large table",
+            "D": "a table large wooden"
+          },
+          "answer": "B",
+          "explanation": "형용사 순서는 크기(large) → 재료(wooden)예요."
+        },
+        {
+          "id": "ch10-q12",
+          "section": "ch10-03",
+          "question": "Please read ------- chapters of the manual.",
+          "choices": {
+            "A": "three first",
+            "B": "first the three",
+            "C": "the first three",
+            "D": "the three first"
+          },
+          "answer": "C",
+          "explanation": "서수(first)가 기수(three)보다 먼저 와요."
+        },
+        {
+          "id": "ch10-q13",
+          "section": "ch10-03",
+          "question": "We moved into ------- building last year.",
+          "choices": {
+            "A": "a beautiful stone old",
+            "B": "a stone beautiful old",
+            "C": "an old beautiful stone",
+            "D": "a beautiful old stone"
+          },
+          "answer": "D",
+          "explanation": "의견(beautiful) → 나이(old) → 재료(stone) 순서예요."
+        },
+        {
+          "id": "ch10-q14",
+          "section": "ch10-04",
+          "question": "The ending of the movie was very -------.",
+          "choices": {
+            "A": "disappointing",
+            "B": "disappointment",
+            "C": "disappoint",
+            "D": "disappointed"
+          },
+          "answer": "A",
+          "explanation": "결말이 실망을 '주는' 것이라 -ing 형태예요."
+        },
+        {
+          "id": "ch10-q15",
+          "section": "ch10-04",
+          "question": "The staff were ------- by the sudden announcement.",
+          "choices": {
+            "A": "surprise",
+            "B": "surprised",
+            "C": "surprisingly",
+            "D": "surprising"
+          },
+          "answer": "B",
+          "explanation": "직원들이 놀람을 '느낀' 것이라 -ed 형태예요."
+        },
+        {
+          "id": "ch10-q16",
+          "section": "ch10-04",
+          "question": "The quarterly results were -------, so investors were pleased.",
+          "choices": {
+            "A": "encourage",
+            "B": "encouragement",
+            "C": "encouraging",
+            "D": "encouraged"
+          },
+          "answer": "C",
+          "explanation": "결과가 기대감을 '주는' 것이라 encouraging이에요."
+        },
+        {
+          "id": "ch10-q17",
+          "section": "ch10-05",
+          "question": "This product is ------- with most smartphones.",
+          "choices": {
+            "A": "complete",
+            "B": "competent",
+            "C": "comparable",
+            "D": "compatible"
+          },
+          "answer": "D",
+          "explanation": "be compatible with는 '~와 호환되다'예요."
+        },
+        {
+          "id": "ch10-q18",
+          "section": "ch10-05",
+          "question": "Ms. Yoon is responsible ------- training new staff.",
+          "choices": {
+            "A": "for",
+            "B": "of",
+            "C": "with",
+            "D": "to"
+          },
+          "answer": "A",
+          "explanation": "be responsible for는 '~을 책임지다, 담당하다'예요."
+        },
+        {
+          "id": "ch10-q19",
+          "section": "ch10-05",
+          "question": "Prices are subject ------- change without notice.",
+          "choices": {
+            "A": "with",
+            "B": "to",
+            "C": "of",
+            "D": "for"
+          },
+          "answer": "B",
+          "explanation": "be subject to는 '~의 대상이다, ~될 수 있다'예요."
+        },
+        {
+          "id": "ch10-q20",
+          "section": "ch10-06",
+          "question": "We will hold a ------- workshop next month.",
+          "choices": {
+            "A": "two day's",
+            "B": "two-days",
+            "C": "two-day",
+            "D": "two-days'"
+          },
+          "answer": "C",
+          "explanation": "숫자-명사가 형용사로 쓰이면 명사는 단수형이에요."
+        },
+        {
+          "id": "ch10-q21",
+          "section": "ch10-06",
+          "question": "------- of people attended the concert.",
+          "choices": {
+            "A": "Two hundreds",
+            "B": "Hundreds'",
+            "C": "Hundred",
+            "D": "Hundreds"
+          },
+          "answer": "D",
+          "explanation": "막연한 '수백'은 hundreds of예요."
+        },
+        {
+          "id": "ch10-q22",
+          "section": "ch10-06",
+          "question": "The company has over two ------- employees.",
+          "choices": {
+            "A": "thousand",
+            "B": "thousands of",
+            "C": "thousands",
+            "D": "thousand of"
+          },
+          "answer": "A",
+          "explanation": "앞에 숫자가 있으면 thousand에 -s도 of도 붙이지 않아요."
+        },
+        {
+          "id": "ch10-q23",
+          "section": "ch10-07",
+          "question": "The new bus is more ------- than the old model in terms of fuel.",
+          "choices": {
+            "A": "economist",
+            "B": "economical",
+            "C": "economic",
+            "D": "economy"
+          },
+          "answer": "B",
+          "explanation": "'연료가 덜 드는, 절약되는'은 economical이에요. economic은 '경제의'예요."
+        },
+        {
+          "id": "ch10-q24",
+          "section": "ch10-07",
+          "question": "This information is strictly -------, so please do not share it.",
+          "choices": {
+            "A": "confident",
+            "B": "confidently",
+            "C": "confidential",
+            "D": "confidence"
+          },
+          "answer": "C",
+          "explanation": "'기밀의'는 confidential이에요. confident는 '자신 있는'이에요."
+        },
+        {
+          "id": "ch10-q25",
+          "section": "ch10-07",
+          "question": "The company has grown for three ------- years.",
+          "choices": {
+            "A": "succeed",
+            "B": "successful",
+            "C": "success",
+            "D": "successive"
+          },
+          "answer": "D",
+          "explanation": "'연속적인'은 successive예요. successful은 '성공적인'이에요."
         }
       ]
     },
@@ -3401,6 +5377,279 @@
           },
           "answer": "B",
           "explanation": "두 문장의 역접 관계 + 문장 앞 콤마 → 접속부사 However."
+        },
+        {
+          "id": "ch11-q5",
+          "section": "ch11-01",
+          "question": "The package was ------- delivered to the wrong address.",
+          "choices": {
+            "A": "accidentally",
+            "B": "accidental",
+            "C": "accident",
+            "D": "accidents"
+          },
+          "answer": "A",
+          "explanation": "be동사와 과거분사(delivered) 사이는 부사 자리예요."
+        },
+        {
+          "id": "ch11-q6",
+          "section": "ch11-01",
+          "question": "The new manager will ------- review all expense reports.",
+          "choices": {
+            "A": "care",
+            "B": "carefully",
+            "C": "carefulness",
+            "D": "careful"
+          },
+          "answer": "B",
+          "explanation": "조동사 will과 동사원형 review 사이는 부사 자리예요."
+        },
+        {
+          "id": "ch11-q7",
+          "section": "ch11-01",
+          "question": "Our team has ------- completed the first phase of the project.",
+          "choices": {
+            "A": "successful",
+            "B": "success",
+            "C": "successfully",
+            "D": "succeed"
+          },
+          "answer": "C",
+          "explanation": "have와 과거분사 사이는 부사 자리예요."
+        },
+        {
+          "id": "ch11-q8",
+          "section": "ch11-02",
+          "question": "The system works -------.",
+          "choices": {
+            "A": "good",
+            "B": "nice",
+            "C": "goodly",
+            "D": "well"
+          },
+          "answer": "D",
+          "explanation": "동사 works를 꾸미는 부사가 필요해요. good의 부사형은 불규칙형 well이에요."
+        },
+        {
+          "id": "ch11-q9",
+          "section": "ch11-02",
+          "question": "The new procedure is ------- simple.",
+          "choices": {
+            "A": "surprisingly",
+            "B": "surprised",
+            "C": "surprising",
+            "D": "surprise"
+          },
+          "answer": "A",
+          "explanation": "형용사 simple을 꾸미는 부사 surprisingly예요."
+        },
+        {
+          "id": "ch11-q10",
+          "section": "ch11-02",
+          "question": "Tickets can be purchased ------- online.",
+          "choices": {
+            "A": "ease",
+            "B": "easily",
+            "C": "easier",
+            "D": "easy"
+          },
+          "answer": "B",
+          "explanation": "동사를 꾸미는 부사예요. 자음+y로 끝나는 easy는 easily가 돼요."
+        },
+        {
+          "id": "ch11-q11",
+          "section": "ch11-03",
+          "question": "The price of the product is ------- reasonable.",
+          "choices": {
+            "A": "high",
+            "B": "higher",
+            "C": "highly",
+            "D": "height"
+          },
+          "answer": "C",
+          "explanation": "'매우'라는 뜻으로 형용사를 꾸미는 건 highly예요. high는 '높이'예요."
+        },
+        {
+          "id": "ch11-q12",
+          "section": "ch11-03",
+          "question": "Have you heard from Mr. Kim -------?",
+          "choices": {
+            "A": "later",
+            "B": "late",
+            "C": "latest",
+            "D": "lately"
+          },
+          "answer": "D",
+          "explanation": "현재완료와 어울리는 '최근에'는 lately예요."
+        },
+        {
+          "id": "ch11-q13",
+          "section": "ch11-03",
+          "question": "The CEO will arrive -------, so please get ready.",
+          "choices": {
+            "A": "shortly",
+            "B": "shorten",
+            "C": "short",
+            "D": "shortness"
+          },
+          "answer": "A",
+          "explanation": "'곧'이라는 뜻의 부사는 shortly예요."
+        },
+        {
+          "id": "ch11-q14",
+          "section": "ch11-04",
+          "question": "Ms. Moore is ------- late for meetings.",
+          "choices": {
+            "A": "none",
+            "B": "never",
+            "C": "not never",
+            "D": "ever"
+          },
+          "answer": "B",
+          "explanation": "빈도부사는 be동사 뒤에 와요. '한 번도 ~않다'는 never예요."
+        },
+        {
+          "id": "ch11-q15",
+          "section": "ch11-04",
+          "question": "He ------- takes the subway to work.",
+          "choices": {
+            "A": "usual",
+            "B": "usualness",
+            "C": "usually",
+            "D": "usuals"
+          },
+          "answer": "C",
+          "explanation": "일반동사 앞에 오는 빈도부사 usually예요."
+        },
+        {
+          "id": "ch11-q16",
+          "section": "ch11-04",
+          "question": "Customers ------- complain about our service; most are very satisfied.",
+          "choices": {
+            "A": "often",
+            "B": "usually",
+            "C": "always",
+            "D": "rarely"
+          },
+          "answer": "D",
+          "explanation": "대부분 만족한다고 했으니 '거의 ~않다'인 rarely예요."
+        },
+        {
+          "id": "ch11-q17",
+          "section": "ch11-05",
+          "question": "The report hasn't been finalized -------.",
+          "choices": {
+            "A": "yet",
+            "B": "ever",
+            "C": "already",
+            "D": "still"
+          },
+          "answer": "A",
+          "explanation": "부정문에서 '아직'은 문장 끝 yet이에요."
+        },
+        {
+          "id": "ch11-q18",
+          "section": "ch11-05",
+          "question": "It was ------- a long meeting that everyone was tired.",
+          "choices": {
+            "A": "very",
+            "B": "such",
+            "C": "so",
+            "D": "too"
+          },
+          "answer": "B",
+          "explanation": "뒤에 a + 형용사 + 명사가 오면 such예요."
+        },
+        {
+          "id": "ch11-q19",
+          "section": "ch11-05",
+          "question": "The new model is ------- faster than the old one.",
+          "choices": {
+            "A": "so",
+            "B": "very",
+            "C": "much",
+            "D": "too"
+          },
+          "answer": "C",
+          "explanation": "비교급 강조는 much, even, far예요. very는 쓸 수 없어요."
+        },
+        {
+          "id": "ch11-q20",
+          "section": "ch11-06",
+          "question": "------- 200 people applied for the position.",
+          "choices": {
+            "A": "Approximated",
+            "B": "Approximate",
+            "C": "Approximation",
+            "D": "Approximately"
+          },
+          "answer": "D",
+          "explanation": "숫자를 꾸미는 부사 approximately(대략)예요."
+        },
+        {
+          "id": "ch11-q21",
+          "section": "ch11-06",
+          "question": "The repairs will take ------- three days.",
+          "choices": {
+            "A": "nearly",
+            "B": "nearby",
+            "C": "near",
+            "D": "nearest"
+          },
+          "answer": "A",
+          "explanation": "숫자 앞에서 '거의'라는 부사는 nearly예요."
+        },
+        {
+          "id": "ch11-q22",
+          "section": "ch11-06",
+          "question": "Guests can bring ------- two bags each.",
+          "choices": {
+            "A": "until",
+            "B": "up to",
+            "C": "up on",
+            "D": "upon"
+          },
+          "answer": "B",
+          "explanation": "up to + 숫자는 '최대 ~까지'예요."
+        },
+        {
+          "id": "ch11-q23",
+          "section": "ch11-07",
+          "question": "The train was delayed. -------, we missed the opening speech.",
+          "choices": {
+            "A": "Moreover",
+            "B": "However",
+            "C": "As a result",
+            "D": "Otherwise"
+          },
+          "answer": "C",
+          "explanation": "기차 지연의 결과로 연설을 놓친 거라 As a result예요."
+        },
+        {
+          "id": "ch11-q24",
+          "section": "ch11-07",
+          "question": "Please submit your form by Friday. -------, your application will not be processed.",
+          "choices": {
+            "A": "Meanwhile",
+            "B": "Therefore",
+            "C": "However",
+            "D": "Otherwise"
+          },
+          "answer": "D",
+          "explanation": "'그렇지 않으면'이라는 뜻이라 Otherwise예요."
+        },
+        {
+          "id": "ch11-q25",
+          "section": "ch11-07",
+          "question": "The hotel is close to the station. -------, it offers free breakfast.",
+          "choices": {
+            "A": "In addition",
+            "B": "However",
+            "C": "Otherwise",
+            "D": "Instead"
+          },
+          "answer": "A",
+          "explanation": "장점에 장점을 더하는 거라 In addition(게다가)이에요."
         }
       ]
     },
@@ -3620,6 +5869,162 @@
           },
           "answer": "B",
           "explanation": "prior to: ~전에 (라틴어 비교급, to와 함께)."
+        },
+        {
+          "id": "ch12-q5",
+          "section": "ch12-01",
+          "question": "This route is ------- than the one we took last time.",
+          "choices": {
+            "A": "more short",
+            "B": "shorter",
+            "C": "shortest",
+            "D": "short"
+          },
+          "answer": "B",
+          "explanation": "than이 있으니 비교급이에요. 1음절 short는 -er을 붙여요."
+        },
+        {
+          "id": "ch12-q6",
+          "section": "ch12-01",
+          "question": "For ------- information, please visit our website.",
+          "choices": {
+            "A": "farther",
+            "B": "furthest",
+            "C": "further",
+            "D": "far"
+          },
+          "answer": "C",
+          "explanation": "'추가의'라는 뜻은 further예요. further information은 토익 빈출 표현이에요."
+        },
+        {
+          "id": "ch12-q7",
+          "section": "ch12-02",
+          "question": "The new printer is twice as ------- as the old one.",
+          "choices": {
+            "A": "more fast",
+            "B": "fastest",
+            "C": "faster",
+            "D": "fast"
+          },
+          "answer": "D",
+          "explanation": "as ~ as 사이에는 원급이 와요."
+        },
+        {
+          "id": "ch12-q8",
+          "section": "ch12-02",
+          "question": "Please answer the survey as ------- as you can.",
+          "choices": {
+            "A": "honestly",
+            "B": "honest",
+            "C": "more honestly",
+            "D": "most honest"
+          },
+          "answer": "A",
+          "explanation": "as ~ as 사이 원급이고, 동사 answer를 꾸미니 부사 honestly예요."
+        },
+        {
+          "id": "ch12-q9",
+          "section": "ch12-03",
+          "question": "The more you practice, ------- you will become.",
+          "choices": {
+            "A": "the best",
+            "B": "the better",
+            "C": "best",
+            "D": "better"
+          },
+          "answer": "B",
+          "explanation": "the 비교급, the 비교급 구문이에요."
+        },
+        {
+          "id": "ch12-q10",
+          "section": "ch12-03",
+          "question": "This year's profits are ------- higher than last year's.",
+          "choices": {
+            "A": "too",
+            "B": "so",
+            "C": "far",
+            "D": "very"
+          },
+          "answer": "C",
+          "explanation": "비교급 강조는 far, much, even이에요."
+        },
+        {
+          "id": "ch12-q11",
+          "section": "ch12-04",
+          "question": "Our products are superior ------- those of our competitors.",
+          "choices": {
+            "A": "with",
+            "B": "over",
+            "C": "than",
+            "D": "to"
+          },
+          "answer": "D",
+          "explanation": "superior는 than 대신 to를 써요."
+        },
+        {
+          "id": "ch12-q12",
+          "section": "ch12-04",
+          "question": "All guests should arrive prior ------- the start of the ceremony.",
+          "choices": {
+            "A": "to",
+            "B": "than",
+            "C": "from",
+            "D": "before"
+          },
+          "answer": "A",
+          "explanation": "prior to는 '~전에'예요."
+        },
+        {
+          "id": "ch12-q13",
+          "section": "ch12-05",
+          "question": "Ms. Kim is one of the most talented ------- in our company.",
+          "choices": {
+            "A": "designer",
+            "B": "designers",
+            "C": "design",
+            "D": "designing"
+          },
+          "answer": "B",
+          "explanation": "one of the + 최상급 + 복수명사예요."
+        },
+        {
+          "id": "ch12-q14",
+          "section": "ch12-05",
+          "question": "This is ------- the best restaurant in town.",
+          "choices": {
+            "A": "more",
+            "B": "much more",
+            "C": "by far",
+            "D": "very"
+          },
+          "answer": "C",
+          "explanation": "최상급을 강조할 때는 by far를 써요."
+        },
+        {
+          "id": "ch12-q15",
+          "section": "ch12-06",
+          "question": "Mount Everest is higher than any other ------- in the world.",
+          "choices": {
+            "A": "mountain's",
+            "B": "mountainous",
+            "C": "mountains",
+            "D": "mountain"
+          },
+          "answer": "D",
+          "explanation": "비교급 + than any other + 단수명사예요."
+        },
+        {
+          "id": "ch12-q16",
+          "section": "ch12-06",
+          "question": "No other employee works as ------- as Mr. Choi.",
+          "choices": {
+            "A": "hard",
+            "B": "hardest",
+            "C": "hardly",
+            "D": "harder"
+          },
+          "answer": "A",
+          "explanation": "as ~ as 사이 원급이고 '열심히'는 hard예요. hardly는 '거의 ~않다'예요."
         }
       ]
     },
@@ -4049,6 +6454,240 @@
           },
           "answer": "C",
           "explanation": "comply with: ~을 준수하다."
+        },
+        {
+          "id": "ch13-q5",
+          "section": "ch13-01",
+          "question": "Thank you for ------- us about the change.",
+          "choices": {
+            "A": "inform",
+            "B": "informing",
+            "C": "informed",
+            "D": "to inform"
+          },
+          "answer": "B",
+          "explanation": "전치사 for 뒤에 동사가 오면 동명사 형태예요."
+        },
+        {
+          "id": "ch13-q6",
+          "section": "ch13-01",
+          "question": "The decision was made without ------- the staff.",
+          "choices": {
+            "A": "consulted",
+            "B": "consult",
+            "C": "consulting",
+            "D": "to consult"
+          },
+          "answer": "C",
+          "explanation": "전치사 without 뒤에는 동명사가 와요."
+        },
+        {
+          "id": "ch13-q7",
+          "section": "ch13-01",
+          "question": "This message is just between you and -------.",
+          "choices": {
+            "A": "mine",
+            "B": "I",
+            "C": "my",
+            "D": "me"
+          },
+          "answer": "D",
+          "explanation": "전치사 between의 목적어라 목적격 me예요."
+        },
+        {
+          "id": "ch13-q8",
+          "section": "ch13-02",
+          "question": "The conference will begin ------- 9 a.m.",
+          "choices": {
+            "A": "at",
+            "B": "in",
+            "C": "by",
+            "D": "on"
+          },
+          "answer": "A",
+          "explanation": "구체적인 시각 앞에는 at을 써요."
+        },
+        {
+          "id": "ch13-q9",
+          "section": "ch13-02",
+          "question": "The store will be closed ------- July 4.",
+          "choices": {
+            "A": "in",
+            "B": "on",
+            "C": "at",
+            "D": "for"
+          },
+          "answer": "B",
+          "explanation": "날짜 앞에는 on을 써요."
+        },
+        {
+          "id": "ch13-q10",
+          "section": "ch13-02",
+          "question": "The company was founded ------- 1998.",
+          "choices": {
+            "A": "at",
+            "B": "on",
+            "C": "in",
+            "D": "by"
+          },
+          "answer": "C",
+          "explanation": "연도 앞에는 in을 써요."
+        },
+        {
+          "id": "ch13-q11",
+          "section": "ch13-03",
+          "question": "The museum will be closed ------- the holiday season.",
+          "choices": {
+            "A": "since",
+            "B": "while",
+            "C": "for",
+            "D": "during"
+          },
+          "answer": "D",
+          "explanation": "특정 기간 명사(the holiday season) 앞에는 during이에요. while은 접속사예요."
+        },
+        {
+          "id": "ch13-q12",
+          "section": "ch13-03",
+          "question": "Please return the library books ------- next Monday.",
+          "choices": {
+            "A": "by",
+            "B": "until",
+            "C": "for",
+            "D": "since"
+          },
+          "answer": "A",
+          "explanation": "반납을 '완료'해야 하는 기한이라 by예요."
+        },
+        {
+          "id": "ch13-q13",
+          "section": "ch13-03",
+          "question": "The store will stay open ------- midnight on Friday.",
+          "choices": {
+            "A": "since",
+            "B": "until",
+            "C": "within",
+            "D": "by"
+          },
+          "answer": "B",
+          "explanation": "영업이 '계속'되는 것이라 until이에요."
+        },
+        {
+          "id": "ch13-q14",
+          "section": "ch13-04",
+          "question": "The pharmacy is located ------- the bank and the post office.",
+          "choices": {
+            "A": "among",
+            "B": "along",
+            "C": "between",
+            "D": "across"
+          },
+          "answer": "C",
+          "explanation": "between A and B는 'A와 B 사이에'예요."
+        },
+        {
+          "id": "ch13-q15",
+          "section": "ch13-04",
+          "question": "The new office is on the fifth floor, ------- the elevators.",
+          "choices": {
+            "A": "near to",
+            "B": "next",
+            "C": "beside of",
+            "D": "next to"
+          },
+          "answer": "D",
+          "explanation": "'~ 옆에'는 next to예요."
+        },
+        {
+          "id": "ch13-q16",
+          "section": "ch13-04",
+          "question": "Trees were planted ------- the river.",
+          "choices": {
+            "A": "along",
+            "B": "onto",
+            "C": "among",
+            "D": "between"
+          },
+          "answer": "A",
+          "explanation": "강을 '따라'라는 뜻이라 along이에요."
+        },
+        {
+          "id": "ch13-q17",
+          "section": "ch13-05",
+          "question": "The flight was canceled ------- the storm.",
+          "choices": {
+            "A": "although",
+            "B": "due to",
+            "C": "despite",
+            "D": "because"
+          },
+          "answer": "B",
+          "explanation": "뒤가 명사구이고 이유를 나타내니 due to예요."
+        },
+        {
+          "id": "ch13-q18",
+          "section": "ch13-05",
+          "question": "------- his lack of experience, Mr. Ray was hired.",
+          "choices": {
+            "A": "Although",
+            "B": "Because of",
+            "C": "Despite",
+            "D": "Even though"
+          },
+          "answer": "C",
+          "explanation": "뒤가 명사구이고 '~에도 불구하고'라는 뜻이라 Despite예요."
+        },
+        {
+          "id": "ch13-q19",
+          "section": "ch13-05",
+          "question": "Please contact Ms. Kim ------- the new contract.",
+          "choices": {
+            "A": "regard",
+            "B": "regarded",
+            "C": "regards",
+            "D": "regarding"
+          },
+          "answer": "D",
+          "explanation": "regarding은 '~에 관하여'라는 전치사예요."
+        },
+        {
+          "id": "ch13-q20",
+          "section": "ch13-06",
+          "question": "Applicants must comply ------- all the rules.",
+          "choices": {
+            "A": "with",
+            "B": "on",
+            "C": "for",
+            "D": "to"
+          },
+          "answer": "A",
+          "explanation": "comply with는 '~을 준수하다'예요."
+        },
+        {
+          "id": "ch13-q21",
+          "section": "ch13-06",
+          "question": "Rising costs have resulted ------- higher prices.",
+          "choices": {
+            "A": "from",
+            "B": "in",
+            "C": "on",
+            "D": "to"
+          },
+          "answer": "B",
+          "explanation": "result in은 '~을 초래하다'예요. result from은 '~에서 비롯되다'예요."
+        },
+        {
+          "id": "ch13-q22",
+          "section": "ch13-06",
+          "question": "There has been a sharp increase ------- demand for electric cars.",
+          "choices": {
+            "A": "of",
+            "B": "on",
+            "C": "in",
+            "D": "at"
+          },
+          "answer": "C",
+          "explanation": "increase in은 '~의 증가'예요."
         }
       ]
     },
@@ -4314,6 +6953,279 @@
           },
           "answer": "A",
           "explanation": "occur는 자동사라 수동태 불가. yesterday afternoon → 과거."
+        },
+        {
+          "id": "ch14-q5",
+          "section": "ch14-01",
+          "question": "The meeting room ------- every Friday.",
+          "choices": {
+            "A": "cleaning",
+            "B": "cleans",
+            "C": "has cleaned",
+            "D": "is cleaned"
+          },
+          "answer": "D",
+          "explanation": "회의실은 청소'되는' 대상이고 뒤에 목적어가 없어서 수동태예요."
+        },
+        {
+          "id": "ch14-q6",
+          "section": "ch14-01",
+          "question": "The manager ------- the proposal yesterday.",
+          "choices": {
+            "A": "approved",
+            "B": "approving",
+            "C": "is approved",
+            "D": "was approved"
+          },
+          "answer": "A",
+          "explanation": "뒤에 목적어 the proposal이 있고 매니저가 승인한 거라 능동태예요."
+        },
+        {
+          "id": "ch14-q7",
+          "section": "ch14-01",
+          "question": "The new products ------- at the trade fair next month.",
+          "choices": {
+            "A": "displaying",
+            "B": "will be displayed",
+            "C": "will display",
+            "D": "display"
+          },
+          "answer": "B",
+          "explanation": "제품은 전시'되는' 대상이고 next month라 미래 수동이에요."
+        },
+        {
+          "id": "ch14-q8",
+          "section": "ch14-02",
+          "question": "The road ------- right now, so please take a detour.",
+          "choices": {
+            "A": "repairs",
+            "B": "is repairing",
+            "C": "is being repaired",
+            "D": "has repaired"
+          },
+          "answer": "C",
+          "explanation": "도로는 수리'되는' 중이라 현재진행 수동 is being repaired예요."
+        },
+        {
+          "id": "ch14-q9",
+          "section": "ch14-02",
+          "question": "All the tickets ------- by the time we arrived.",
+          "choices": {
+            "A": "have sold",
+            "B": "sell",
+            "C": "had sold",
+            "D": "had been sold"
+          },
+          "answer": "D",
+          "explanation": "도착한 과거보다 먼저 팔린 거라 과거완료, 티켓은 팔리는 대상이라 수동이에요."
+        },
+        {
+          "id": "ch14-q10",
+          "section": "ch14-02",
+          "question": "The documents must ------- by the end of the day.",
+          "choices": {
+            "A": "be signed",
+            "B": "signed",
+            "C": "sign",
+            "D": "signing"
+          },
+          "answer": "A",
+          "explanation": "서류는 서명'되는' 대상이라 조동사 + be + p.p.예요."
+        },
+        {
+          "id": "ch14-q11",
+          "section": "ch14-03",
+          "question": "Ms. Grant ------- a promotion last week.",
+          "choices": {
+            "A": "offered",
+            "B": "was offered",
+            "C": "offering",
+            "D": "has offered"
+          },
+          "answer": "B",
+          "explanation": "4형식 수동태예요. 승진을 '제안받은' 거라 뒤에 명사가 있어도 수동이에요."
+        },
+        {
+          "id": "ch14-q12",
+          "section": "ch14-03",
+          "question": "All staff members ------- to attend the safety seminar.",
+          "choices": {
+            "A": "have required",
+            "B": "require",
+            "C": "are required",
+            "D": "requiring"
+          },
+          "answer": "C",
+          "explanation": "require + 목적어 + to V의 수동형 be required to V예요."
+        },
+        {
+          "id": "ch14-q13",
+          "section": "ch14-03",
+          "question": "The decision was considered ------- by most employees.",
+          "choices": {
+            "A": "fairer",
+            "B": "fairness",
+            "C": "fairly",
+            "D": "fair"
+          },
+          "answer": "D",
+          "explanation": "5형식 consider + 목적어 + 형용사의 수동태라 형용사 보어 fair가 남아요."
+        },
+        {
+          "id": "ch14-q14",
+          "section": "ch14-04",
+          "question": "The incident ------- late last night.",
+          "choices": {
+            "A": "happened",
+            "B": "is happened",
+            "C": "was happened",
+            "D": "has been happened"
+          },
+          "answer": "A",
+          "explanation": "happen은 자동사라 수동태가 안 돼요."
+        },
+        {
+          "id": "ch14-q15",
+          "section": "ch14-04",
+          "question": "This building ------- to the city.",
+          "choices": {
+            "A": "belonging",
+            "B": "belongs",
+            "C": "is belonged",
+            "D": "belong"
+          },
+          "answer": "B",
+          "explanation": "belong to는 자동사 표현이라 수동태가 안 돼요. 주어가 단수라 belongs예요."
+        },
+        {
+          "id": "ch14-q16",
+          "section": "ch14-04",
+          "question": "Several new problems ------- during the test.",
+          "choices": {
+            "A": "were emerged",
+            "B": "was emerged",
+            "C": "emerged",
+            "D": "emerging"
+          },
+          "answer": "C",
+          "explanation": "emerge(나타나다)는 자동사라 수동태가 안 돼요."
+        },
+        {
+          "id": "ch14-q17",
+          "section": "ch14-05",
+          "question": "The table was covered ------- a white cloth.",
+          "choices": {
+            "A": "at",
+            "B": "by",
+            "C": "of",
+            "D": "with"
+          },
+          "answer": "D",
+          "explanation": "be covered with는 '~로 덮여 있다'예요."
+        },
+        {
+          "id": "ch14-q18",
+          "section": "ch14-05",
+          "question": "The town is known ------- its beautiful beaches.",
+          "choices": {
+            "A": "for",
+            "B": "as",
+            "C": "by",
+            "D": "to"
+          },
+          "answer": "A",
+          "explanation": "유명한 이유를 말할 때는 be known for예요."
+        },
+        {
+          "id": "ch14-q19",
+          "section": "ch14-05",
+          "question": "Our headquarters are located ------- downtown Seoul.",
+          "choices": {
+            "A": "by",
+            "B": "in",
+            "C": "on",
+            "D": "at"
+          },
+          "answer": "B",
+          "explanation": "도시 지역 안에 위치한 거라 be located in이에요."
+        },
+        {
+          "id": "ch14-q20",
+          "section": "ch14-06",
+          "question": "The outdoor concert was called ------- because of the rain.",
+          "choices": {
+            "A": "on",
+            "B": "up",
+            "C": "off",
+            "D": "in"
+          },
+          "answer": "C",
+          "explanation": "call off(취소하다)의 수동태 be called off예요."
+        },
+        {
+          "id": "ch14-q21",
+          "section": "ch14-06",
+          "question": "The problem will be dealt ------- immediately.",
+          "choices": {
+            "A": "by",
+            "B": "for",
+            "C": "to",
+            "D": "with"
+          },
+          "answer": "D",
+          "explanation": "deal with(처리하다)의 수동태라 with를 빠뜨리면 안 돼요."
+        },
+        {
+          "id": "ch14-q22",
+          "section": "ch14-06",
+          "question": "The children were looked ------- by their grandparents.",
+          "choices": {
+            "A": "after",
+            "B": "on",
+            "C": "into",
+            "D": "for"
+          },
+          "answer": "A",
+          "explanation": "look after(돌보다)의 수동태예요."
+        },
+        {
+          "id": "ch14-q23",
+          "section": "ch14-07",
+          "question": "Mr. Park got ------- to manager last year.",
+          "choices": {
+            "A": "promote",
+            "B": "promoted",
+            "C": "promoting",
+            "D": "promotion"
+          },
+          "answer": "B",
+          "explanation": "get + p.p. 수동태예요. 승진'된' 거라 promoted예요."
+        },
+        {
+          "id": "ch14-q24",
+          "section": "ch14-07",
+          "question": "The new model is expected ------- in stores next week.",
+          "choices": {
+            "A": "arriving",
+            "B": "arrived",
+            "C": "to arrive",
+            "D": "arrive"
+          },
+          "answer": "C",
+          "explanation": "be expected to + 동사원형은 '~할 것으로 예상된다'예요."
+        },
+        {
+          "id": "ch14-q25",
+          "section": "ch14-07",
+          "question": "The merger ------- to be completed by June.",
+          "choices": {
+            "A": "expected",
+            "B": "expecting",
+            "C": "expects",
+            "D": "is expected"
+          },
+          "answer": "D",
+          "explanation": "합병이 완료될 것으로 '예상되는' 거라 수동 is expected예요."
         }
       ]
     },
@@ -4626,6 +7538,318 @@
           },
           "answer": "C",
           "explanation": "encourage + O + to V의 수동태 be encouraged to V."
+        },
+        {
+          "id": "ch15-q5",
+          "section": "ch15-01",
+          "question": "The manager decided ------- the event.",
+          "choices": {
+            "A": "not to cancel",
+            "B": "cancel not",
+            "C": "not cancel",
+            "D": "to cancel not"
+          },
+          "answer": "A",
+          "explanation": "to부정사의 부정은 not을 to 앞에 둬요."
+        },
+        {
+          "id": "ch15-q6",
+          "section": "ch15-01",
+          "question": "It is difficult ------- us to finish the project by Friday.",
+          "choices": {
+            "A": "to",
+            "B": "for",
+            "C": "with",
+            "D": "of"
+          },
+          "answer": "B",
+          "explanation": "to부정사의 의미상 주어는 for + 목적격이에요. 성격 형용사(kind 등) 뒤에서만 of를 써요."
+        },
+        {
+          "id": "ch15-q7",
+          "section": "ch15-01",
+          "question": "The report needs ------- before it is sent.",
+          "choices": {
+            "A": "be revised",
+            "B": "revised",
+            "C": "to be revised",
+            "D": "to revise"
+          },
+          "answer": "C",
+          "explanation": "보고서는 수정'되는' 대상이라 to부정사 수동형 to be revised예요."
+        },
+        {
+          "id": "ch15-q8",
+          "section": "ch15-02",
+          "question": "Our goal is ------- customer satisfaction.",
+          "choices": {
+            "A": "improves",
+            "B": "improve",
+            "C": "improved",
+            "D": "to improve"
+          },
+          "answer": "D",
+          "explanation": "be동사 뒤 보어 자리에 '~하는 것'이라는 명사적 용법 to부정사예요."
+        },
+        {
+          "id": "ch15-q9",
+          "section": "ch15-02",
+          "question": "The staff were not sure ------- to do next.",
+          "choices": {
+            "A": "what",
+            "B": "why",
+            "C": "which way",
+            "D": "whether"
+          },
+          "answer": "A",
+          "explanation": "의문사 + to부정사예요. what to do는 '무엇을 해야 할지'예요."
+        },
+        {
+          "id": "ch15-q10",
+          "section": "ch15-02",
+          "question": "We hope ------- the new branch by June.",
+          "choices": {
+            "A": "open",
+            "B": "to open",
+            "C": "opened",
+            "D": "opening"
+          },
+          "answer": "B",
+          "explanation": "hope는 to부정사를 목적어로 취해요."
+        },
+        {
+          "id": "ch15-q11",
+          "section": "ch15-03",
+          "question": "This is a great opportunity ------- new skills.",
+          "choices": {
+            "A": "learned",
+            "B": "learns",
+            "C": "to learn",
+            "D": "learn"
+          },
+          "answer": "C",
+          "explanation": "opportunity to V는 '~할 기회'예요. 명사를 꾸미는 형용사적 용법이에요."
+        },
+        {
+          "id": "ch15-q12",
+          "section": "ch15-03",
+          "question": "Mr. Hill made an effort ------- the problem quickly.",
+          "choices": {
+            "A": "solve",
+            "B": "solution",
+            "C": "solved",
+            "D": "to solve"
+          },
+          "answer": "D",
+          "explanation": "effort to V는 '~하려는 노력'이에요."
+        },
+        {
+          "id": "ch15-q13",
+          "section": "ch15-03",
+          "question": "We need a place ------- the equipment.",
+          "choices": {
+            "A": "to store",
+            "B": "store",
+            "C": "stored",
+            "D": "storing"
+          },
+          "answer": "A",
+          "explanation": "a place to store는 '보관할 장소'예요."
+        },
+        {
+          "id": "ch15-q14",
+          "section": "ch15-04",
+          "question": "Ms. Clark went to the bank ------- a loan.",
+          "choices": {
+            "A": "applying",
+            "B": "to apply for",
+            "C": "apply",
+            "D": "applied"
+          },
+          "answer": "B",
+          "explanation": "'~하기 위해'라는 목적의 to부정사예요. apply for는 '~을 신청하다'예요."
+        },
+        {
+          "id": "ch15-q15",
+          "section": "ch15-04",
+          "question": "We are pleased ------- that our sales have doubled.",
+          "choices": {
+            "A": "announced",
+            "B": "announcing",
+            "C": "to announce",
+            "D": "announce"
+          },
+          "answer": "C",
+          "explanation": "감정 형용사 + to부정사는 '~하게 되어 기쁘다'예요."
+        },
+        {
+          "id": "ch15-q16",
+          "section": "ch15-04",
+          "question": "------- reduce costs, the company switched suppliers.",
+          "choices": {
+            "A": "So that",
+            "B": "Because",
+            "C": "For",
+            "D": "In order to"
+          },
+          "answer": "D",
+          "explanation": "뒤에 동사원형 reduce가 오니 In order to(~하기 위해)예요."
+        },
+        {
+          "id": "ch15-q17",
+          "section": "ch15-05",
+          "question": "Ms. Gomez is likely ------- the position.",
+          "choices": {
+            "A": "to accept",
+            "B": "accept",
+            "C": "accepting",
+            "D": "accepted"
+          },
+          "answer": "A",
+          "explanation": "be likely to V는 '~할 것 같다'예요."
+        },
+        {
+          "id": "ch15-q18",
+          "section": "ch15-05",
+          "question": "The train is scheduled ------- at 3:15 p.m.",
+          "choices": {
+            "A": "departure",
+            "B": "to depart",
+            "C": "depart",
+            "D": "departing"
+          },
+          "answer": "B",
+          "explanation": "be scheduled to V는 '~할 예정이다'예요."
+        },
+        {
+          "id": "ch15-q19",
+          "section": "ch15-05",
+          "question": "Many customers are reluctant ------- online.",
+          "choices": {
+            "A": "paying",
+            "B": "pay",
+            "C": "to pay",
+            "D": "paid"
+          },
+          "answer": "C",
+          "explanation": "be reluctant to V는 '~하기를 꺼리다'예요."
+        },
+        {
+          "id": "ch15-q20",
+          "section": "ch15-06",
+          "question": "The box was too heavy ------- alone.",
+          "choices": {
+            "A": "lifting",
+            "B": "lift",
+            "C": "lifted",
+            "D": "to lift"
+          },
+          "answer": "D",
+          "explanation": "too ~ to V는 '너무 ~해서 …할 수 없다'예요."
+        },
+        {
+          "id": "ch15-q21",
+          "section": "ch15-06",
+          "question": "The hall is large ------- 500 guests.",
+          "choices": {
+            "A": "enough to hold",
+            "B": "enough holding",
+            "C": "enough for hold",
+            "D": "to hold enough"
+          },
+          "answer": "A",
+          "explanation": "형용사 + enough + to V 순서예요."
+        },
+        {
+          "id": "ch15-q22",
+          "section": "ch15-06",
+          "question": "She is ------- to lead the team.",
+          "choices": {
+            "A": "too experienced",
+            "B": "experienced enough",
+            "C": "enough experience",
+            "D": "enough experienced"
+          },
+          "answer": "B",
+          "explanation": "enough는 형용사 뒤에 와요. too experienced to lead는 '경험이 너무 많아 이끌 수 없다'라 어색해요."
+        },
+        {
+          "id": "ch15-q23",
+          "section": "ch15-07",
+          "question": "The manager had his assistant ------- the files.",
+          "choices": {
+            "A": "to organize",
+            "B": "organized",
+            "C": "organize",
+            "D": "organizing"
+          },
+          "answer": "C",
+          "explanation": "사역동사 have + 목적어 + 동사원형이에요. 비서가 직접 정리하는 능동 관계예요."
+        },
+        {
+          "id": "ch15-q24",
+          "section": "ch15-07",
+          "question": "You had better ------- early tomorrow.",
+          "choices": {
+            "A": "left",
+            "B": "leaving",
+            "C": "to leave",
+            "D": "leave"
+          },
+          "answer": "D",
+          "explanation": "had better 뒤에는 동사원형이 와요."
+        },
+        {
+          "id": "ch15-q25",
+          "section": "ch15-07",
+          "question": "Let me ------- you to the meeting room.",
+          "choices": {
+            "A": "show",
+            "B": "shown",
+            "C": "showing",
+            "D": "to show"
+          },
+          "answer": "A",
+          "explanation": "let + 목적어 + 동사원형이에요."
+        },
+        {
+          "id": "ch15-q26",
+          "section": "ch15-08",
+          "question": "We are committed to ------- high-quality products.",
+          "choices": {
+            "A": "provided",
+            "B": "providing",
+            "C": "be providing",
+            "D": "provide"
+          },
+          "answer": "B",
+          "explanation": "be committed to의 to는 전치사라 동명사가 와요."
+        },
+        {
+          "id": "ch15-q27",
+          "section": "ch15-08",
+          "question": "Many employees object to ------- on weekends.",
+          "choices": {
+            "A": "worked",
+            "B": "be work",
+            "C": "working",
+            "D": "work"
+          },
+          "answer": "C",
+          "explanation": "object to의 to는 전치사라 동명사가 와요."
+        },
+        {
+          "id": "ch15-q28",
+          "section": "ch15-08",
+          "question": "When it comes to ------- customers, Ms. Lin is the best.",
+          "choices": {
+            "A": "help",
+            "B": "helped",
+            "C": "helps",
+            "D": "helping"
+          },
+          "answer": "D",
+          "explanation": "when it comes to의 to는 전치사라 동명사가 와요."
         }
       ]
     },
@@ -4852,6 +8076,136 @@
           },
           "answer": "C",
           "explanation": "have difficulty (in) -ing."
+        },
+        {
+          "id": "ch16-q5",
+          "section": "ch16-01",
+          "question": "------- new clients is one of Mr. Ford's main duties.",
+          "choices": {
+            "A": "Finding",
+            "B": "To finding",
+            "C": "Found",
+            "D": "Find"
+          },
+          "answer": "A",
+          "explanation": "주어 자리에 '~하는 것'이 필요하니 동명사 Finding이에요. 동명사 주어는 단수 취급이라 is와도 맞아요."
+        },
+        {
+          "id": "ch16-q6",
+          "section": "ch16-01",
+          "question": "She left the office without ------- goodbye.",
+          "choices": {
+            "A": "said",
+            "B": "saying",
+            "C": "to say",
+            "D": "say"
+          },
+          "answer": "B",
+          "explanation": "전치사 without 뒤에는 동명사가 와요."
+        },
+        {
+          "id": "ch16-q7",
+          "section": "ch16-02",
+          "question": "Would you mind ------- the window?",
+          "choices": {
+            "A": "open",
+            "B": "to open",
+            "C": "opening",
+            "D": "opened"
+          },
+          "answer": "C",
+          "explanation": "mind는 동명사만 목적어로 취해요."
+        },
+        {
+          "id": "ch16-q8",
+          "section": "ch16-02",
+          "question": "The company is considering ------- a new branch.",
+          "choices": {
+            "A": "opened",
+            "B": "open",
+            "C": "to open",
+            "D": "opening"
+          },
+          "answer": "D",
+          "explanation": "consider는 동명사를 목적어로 취해요."
+        },
+        {
+          "id": "ch16-q9",
+          "section": "ch16-03",
+          "question": "I remember ------- this document last week, but I can't find it.",
+          "choices": {
+            "A": "signing",
+            "B": "to sign",
+            "C": "signed",
+            "D": "sign"
+          },
+          "answer": "A",
+          "explanation": "과거에 이미 한 일을 기억하는 거라 remember + -ing예요."
+        },
+        {
+          "id": "ch16-q10",
+          "section": "ch16-03",
+          "question": "We regret ------- you that the event has been canceled.",
+          "choices": {
+            "A": "informed",
+            "B": "to inform",
+            "C": "inform",
+            "D": "informing"
+          },
+          "answer": "B",
+          "explanation": "regret to inform은 '~을 알리게 되어 유감이다'예요. regret -ing는 '~한 것을 후회하다'예요."
+        },
+        {
+          "id": "ch16-q11",
+          "section": "ch16-04",
+          "question": "The museum is worth -------.",
+          "choices": {
+            "A": "visit",
+            "B": "to visit",
+            "C": "visiting",
+            "D": "visited"
+          },
+          "answer": "C",
+          "explanation": "be worth -ing는 '~할 가치가 있다'예요."
+        },
+        {
+          "id": "ch16-q12",
+          "section": "ch16-04",
+          "question": "Ms. Ahn had difficulty ------- a parking space.",
+          "choices": {
+            "A": "to find",
+            "B": "find",
+            "C": "found",
+            "D": "finding"
+          },
+          "answer": "D",
+          "explanation": "have difficulty (in) -ing는 '~하는 데 어려움을 겪다'예요."
+        },
+        {
+          "id": "ch16-q13",
+          "section": "ch16-05",
+          "question": "The staff are responsible for ------- the equipment.",
+          "choices": {
+            "A": "maintaining",
+            "B": "maintain",
+            "C": "maintained",
+            "D": "maintenance"
+          },
+          "answer": "A",
+          "explanation": "뒤에 목적어 the equipment가 있으니 목적어를 가질 수 있는 동명사예요."
+        },
+        {
+          "id": "ch16-q14",
+          "section": "ch16-05",
+          "question": "After a thorough ------- of the data, the team made a decision.",
+          "choices": {
+            "A": "analyzing",
+            "B": "analysis",
+            "C": "analyzed",
+            "D": "analyze"
+          },
+          "answer": "B",
+          "explanation": "관사 a와 형용사 thorough 뒤, 전치사 of 앞이라 명사 analysis예요. 동명사는 형용사의 꾸밈을 받지 않아요."
         }
       ]
     },
@@ -5023,6 +8377,201 @@
           },
           "answer": "B",
           "explanation": "물건이 반품'되는' 수동: to be + p.p."
+        },
+        {
+          "id": "ch17-q5",
+          "section": "ch17-01",
+          "question": "The company is facing ------- costs.",
+          "choices": {
+            "A": "rise",
+            "B": "risen",
+            "C": "rising",
+            "D": "rose"
+          },
+          "answer": "C",
+          "explanation": "비용이 스스로 '오르고 있는' 것이라 현재분사 rising이에요. rise는 자동사라 risen은 수동 뜻이 없어요."
+        },
+        {
+          "id": "ch17-q6",
+          "section": "ch17-01",
+          "question": "Please return the ------- form by Friday.",
+          "choices": {
+            "A": "completing",
+            "B": "completion",
+            "C": "complete",
+            "D": "completed"
+          },
+          "answer": "D",
+          "explanation": "양식은 작성'된' 대상이라 과거분사 completed예요."
+        },
+        {
+          "id": "ch17-q7",
+          "section": "ch17-01",
+          "question": "We need to replace the ------- window in the lobby.",
+          "choices": {
+            "A": "broken",
+            "B": "broke",
+            "C": "break",
+            "D": "breaking"
+          },
+          "answer": "A",
+          "explanation": "창문은 깨'진' 상태라 과거분사 broken이에요."
+        },
+        {
+          "id": "ch17-q8",
+          "section": "ch17-02",
+          "question": "The woman ------- next to Mr. Kim is our new director.",
+          "choices": {
+            "A": "sits",
+            "B": "sitting",
+            "C": "sat",
+            "D": "sit"
+          },
+          "answer": "B",
+          "explanation": "명사 뒤에서 '앉아 있는'이라고 꾸미는 현재분사예요. 문장의 정동사는 is예요."
+        },
+        {
+          "id": "ch17-q9",
+          "section": "ch17-02",
+          "question": "The products ------- in this factory are exported to Europe.",
+          "choices": {
+            "A": "make",
+            "B": "makes",
+            "C": "made",
+            "D": "making"
+          },
+          "answer": "C",
+          "explanation": "제품은 만들어'진' 대상이라 과거분사 made예요."
+        },
+        {
+          "id": "ch17-q10",
+          "section": "ch17-02",
+          "question": "Employees ------- to attend the dinner should reply by Friday.",
+          "choices": {
+            "A": "wished",
+            "B": "wishes",
+            "C": "wish",
+            "D": "wishing"
+          },
+          "answer": "D",
+          "explanation": "직원들이 참석을 '원하는' 능동 관계라 현재분사 wishing이에요."
+        },
+        {
+          "id": "ch17-q11",
+          "section": "ch17-03",
+          "question": "We are looking for an ------- sales manager.",
+          "choices": {
+            "A": "experienced",
+            "B": "experience",
+            "C": "experiences",
+            "D": "experiencing"
+          },
+          "answer": "A",
+          "explanation": "experienced(경험 많은)는 토익 빈출 분사형 형용사예요."
+        },
+        {
+          "id": "ch17-q12",
+          "section": "ch17-03",
+          "question": "Please refer to the ------- document for details.",
+          "choices": {
+            "A": "attachment",
+            "B": "attached",
+            "C": "attach",
+            "D": "attaching"
+          },
+          "answer": "B",
+          "explanation": "문서는 첨부'된' 것이라 attached예요."
+        },
+        {
+          "id": "ch17-q13",
+          "section": "ch17-03",
+          "question": "The ------- balance must be paid within 30 days.",
+          "choices": {
+            "A": "remain",
+            "B": "remains",
+            "C": "remaining",
+            "D": "remained"
+          },
+          "answer": "C",
+          "explanation": "remaining(남아 있는)은 토익 빈출 분사형 형용사예요."
+        },
+        {
+          "id": "ch17-q14",
+          "section": "ch17-04",
+          "question": "Please keep me ------- of any changes.",
+          "choices": {
+            "A": "informing",
+            "B": "information",
+            "C": "inform",
+            "D": "informed"
+          },
+          "answer": "D",
+          "explanation": "keep + 목적어 + p.p.예요. 내가 정보를 '받는' 수동 관계라 informed예요."
+        },
+        {
+          "id": "ch17-q15",
+          "section": "ch17-04",
+          "question": "The results seemed ------- to the investors.",
+          "choices": {
+            "A": "promising",
+            "B": "promises",
+            "C": "promise",
+            "D": "promised"
+          },
+          "answer": "A",
+          "explanation": "seem 뒤 보어 자리예요. promising은 '유망한'이에요."
+        },
+        {
+          "id": "ch17-q16",
+          "section": "ch17-04",
+          "question": "I heard my name ------- from across the room.",
+          "choices": {
+            "A": "calling",
+            "B": "called",
+            "C": "call",
+            "D": "calls"
+          },
+          "answer": "B",
+          "explanation": "지각동사 hear + 목적어 + p.p.예요. 이름이 불리'는' 수동 관계예요."
+        },
+        {
+          "id": "ch17-q17",
+          "section": "ch17-05",
+          "question": "She listened to the speech with her arms -------.",
+          "choices": {
+            "A": "folding",
+            "B": "fold",
+            "C": "folded",
+            "D": "folds"
+          },
+          "answer": "C",
+          "explanation": "팔이 접힌 상태라 with + 명사 + p.p.예요."
+        },
+        {
+          "id": "ch17-q18",
+          "section": "ch17-05",
+          "question": "He sat at his desk with the radio -------.",
+          "choices": {
+            "A": "play",
+            "B": "plays",
+            "C": "played",
+            "D": "playing"
+          },
+          "answer": "D",
+          "explanation": "라디오가 스스로 '나오고 있는' 상태라 with + 명사 + -ing예요."
+        },
+        {
+          "id": "ch17-q19",
+          "section": "ch17-05",
+          "question": "Don't leave the room with the lights -------.",
+          "choices": {
+            "A": "turned on",
+            "B": "turn on",
+            "C": "turning on",
+            "D": "turns on"
+          },
+          "answer": "A",
+          "explanation": "조명이 켜'진' 상태라 과거분사 turned on이에요."
         }
       ]
     },
@@ -5196,6 +8745,162 @@
           },
           "answer": "B",
           "explanation": "when + -ing (접속사를 남긴 분사구문), 뒤에 목적어 the building."
+        },
+        {
+          "id": "ch18-q5",
+          "section": "ch18-01",
+          "question": "------- the email, Ms. Park called the client.",
+          "choices": {
+            "A": "Reads",
+            "B": "Reading",
+            "C": "Read",
+            "D": "To reading"
+          },
+          "answer": "B",
+          "explanation": "Ms. Park이 이메일을 읽은 능동 관계라 분사구문 Reading이에요."
+        },
+        {
+          "id": "ch18-q6",
+          "section": "ch18-01",
+          "question": "------- tired, Mr. Lee went home early.",
+          "choices": {
+            "A": "Felt",
+            "B": "Feels",
+            "C": "Feeling",
+            "D": "Feel"
+          },
+          "answer": "C",
+          "explanation": "Because he felt tired를 줄인 분사구문이라 Feeling이에요."
+        },
+        {
+          "id": "ch18-q7",
+          "section": "ch18-02",
+          "question": "------- left at the corner, you will see the hotel.",
+          "choices": {
+            "A": "Turned",
+            "B": "To turned",
+            "C": "Turn",
+            "D": "Turning"
+          },
+          "answer": "D",
+          "explanation": "'모퉁이에서 왼쪽으로 돌면'이라는 조건의 분사구문이에요."
+        },
+        {
+          "id": "ch18-q8",
+          "section": "ch18-02",
+          "question": "The train left Seoul at 7, ------- in Busan at 10.",
+          "choices": {
+            "A": "arriving",
+            "B": "arrive",
+            "C": "arrives",
+            "D": "arrived"
+          },
+          "answer": "A",
+          "explanation": "출발 후 이어서 도착한 연속동작을 나타내는 분사구문이에요."
+        },
+        {
+          "id": "ch18-q9",
+          "section": "ch18-03",
+          "question": "------- in 1920, the building is one of the oldest in the city.",
+          "choices": {
+            "A": "Building",
+            "B": "Built",
+            "C": "Builds",
+            "D": "Build"
+          },
+          "answer": "B",
+          "explanation": "건물은 지어'진' 대상이라 수동 분사구문 Built예요."
+        },
+        {
+          "id": "ch18-q10",
+          "section": "ch18-03",
+          "question": "------- a tight deadline, the team worked through the weekend.",
+          "choices": {
+            "A": "Faces",
+            "B": "Face",
+            "C": "Facing",
+            "D": "Faced"
+          },
+          "answer": "C",
+          "explanation": "팀이 마감에 '직면한' 능동 관계이고 뒤에 목적어가 있어서 Facing이에요."
+        },
+        {
+          "id": "ch18-q11",
+          "section": "ch18-04",
+          "question": "------- what to say, she remained silent.",
+          "choices": {
+            "A": "Not known",
+            "B": "Don't knowing",
+            "C": "Knowing not",
+            "D": "Not knowing"
+          },
+          "answer": "D",
+          "explanation": "분사구문의 부정은 not을 분사 앞에 둬요."
+        },
+        {
+          "id": "ch18-q12",
+          "section": "ch18-04",
+          "question": "------- the report, Mr. Cho sent it to his manager.",
+          "choices": {
+            "A": "Having finished",
+            "B": "Having been finished",
+            "C": "Finished",
+            "D": "Being finished"
+          },
+          "answer": "A",
+          "explanation": "보낸 것보다 끝낸 게 먼저고 조 씨가 직접 끝낸 능동이라 Having + p.p.예요."
+        },
+        {
+          "id": "ch18-q13",
+          "section": "ch18-05",
+          "question": "Please fill out the form before ------- the clinic.",
+          "choices": {
+            "A": "entered",
+            "B": "entering",
+            "C": "enter",
+            "D": "to enter"
+          },
+          "answer": "B",
+          "explanation": "접속사를 남긴 분사구문 before + -ing예요."
+        },
+        {
+          "id": "ch18-q14",
+          "section": "ch18-05",
+          "question": "If -------, the shipment will arrive within two days.",
+          "choices": {
+            "A": "approving",
+            "B": "approves",
+            "C": "approved",
+            "D": "approve"
+          },
+          "answer": "C",
+          "explanation": "if (it is) approved에서 주어와 be동사가 생략된 형태예요."
+        },
+        {
+          "id": "ch18-q15",
+          "section": "ch18-06",
+          "question": "------- from his accent, he must be from Australia.",
+          "choices": {
+            "A": "To judge",
+            "B": "Judged",
+            "C": "Judge",
+            "D": "Judging"
+          },
+          "answer": "D",
+          "explanation": "judging from은 '~로 판단하건대'라는 관용 표현이에요."
+        },
+        {
+          "id": "ch18-q16",
+          "section": "ch18-06",
+          "question": "------- that the budget is limited, we must cut costs.",
+          "choices": {
+            "A": "Given",
+            "B": "Giving",
+            "C": "Gives",
+            "D": "Give"
+          },
+          "answer": "A",
+          "explanation": "given that은 '~을 고려하면'이에요."
         }
       ]
     },
@@ -5503,6 +9208,240 @@
           },
           "answer": "A",
           "explanation": "뒤가 절, '~할 경우에 대비해' → in case."
+        },
+        {
+          "id": "ch19-q6",
+          "section": "ch19-01",
+          "question": "The hotel is old, ------- it is very clean.",
+          "choices": {
+            "A": "or",
+            "B": "but",
+            "C": "for",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "오래됐지만 깨끗하다는 역접이라 but이에요."
+        },
+        {
+          "id": "ch19-q7",
+          "section": "ch19-01",
+          "question": "Hurry up, ------- you will miss the train.",
+          "choices": {
+            "A": "so",
+            "B": "but",
+            "C": "or",
+            "D": "and"
+          },
+          "answer": "C",
+          "explanation": "명령문 + or는 '그렇지 않으면'이에요."
+        },
+        {
+          "id": "ch19-q8",
+          "section": "ch19-01",
+          "question": "The store was closed, ------- we went to another one.",
+          "choices": {
+            "A": "but",
+            "B": "or",
+            "C": "nor",
+            "D": "so"
+          },
+          "answer": "D",
+          "explanation": "닫혀서 다른 가게에 간 결과라 so예요."
+        },
+        {
+          "id": "ch19-q9",
+          "section": "ch19-02",
+          "question": "------- the manager nor her assistant was available.",
+          "choices": {
+            "A": "Neither",
+            "B": "Both",
+            "C": "Not only",
+            "D": "Either"
+          },
+          "answer": "A",
+          "explanation": "nor와 짝을 이루는 건 neither예요."
+        },
+        {
+          "id": "ch19-q10",
+          "section": "ch19-02",
+          "question": "The course is useful not only for beginners ------- for experienced workers.",
+          "choices": {
+            "A": "or",
+            "B": "but also",
+            "C": "nor",
+            "D": "and"
+          },
+          "answer": "B",
+          "explanation": "not only A but also B예요."
+        },
+        {
+          "id": "ch19-q11",
+          "section": "ch19-02",
+          "question": "------- the price and the quality are important to customers.",
+          "choices": {
+            "A": "Either",
+            "B": "Neither",
+            "C": "Both",
+            "D": "Whether"
+          },
+          "answer": "C",
+          "explanation": "and와 짝을 이루고 동사가 복수 are라 Both예요."
+        },
+        {
+          "id": "ch19-q12",
+          "section": "ch19-03",
+          "question": "Please wait here ------- the doctor calls your name.",
+          "choices": {
+            "A": "by",
+            "B": "during",
+            "C": "since",
+            "D": "until"
+          },
+          "answer": "D",
+          "explanation": "뒤가 절이고 '~할 때까지' 계속 기다리는 거라 접속사 until이에요."
+        },
+        {
+          "id": "ch19-q13",
+          "section": "ch19-03",
+          "question": "Ms. Lim has lived in Busan ------- she was a child.",
+          "choices": {
+            "A": "since",
+            "B": "while",
+            "C": "when",
+            "D": "until"
+          },
+          "answer": "A",
+          "explanation": "현재완료와 함께 '~한 이래로'는 since예요."
+        },
+        {
+          "id": "ch19-q14",
+          "section": "ch19-03",
+          "question": "------- I was waiting for the bus, I read the newspaper.",
+          "choices": {
+            "A": "For",
+            "B": "While",
+            "C": "Meanwhile",
+            "D": "During"
+          },
+          "answer": "B",
+          "explanation": "뒤가 절이라 접속사 While이에요. During은 전치사, Meanwhile은 부사예요."
+        },
+        {
+          "id": "ch19-q15",
+          "section": "ch19-04",
+          "question": "------- you have a reservation, you cannot enter the restaurant.",
+          "choices": {
+            "A": "If",
+            "B": "Because",
+            "C": "Unless",
+            "D": "Although"
+          },
+          "answer": "C",
+          "explanation": "'예약하지 않으면'이라는 뜻이라 Unless(= if not)예요."
+        },
+        {
+          "id": "ch19-q16",
+          "section": "ch19-04",
+          "question": "The room was ------- small that we could not hold the meeting there.",
+          "choices": {
+            "A": "such",
+            "B": "too",
+            "C": "very",
+            "D": "so"
+          },
+          "answer": "D",
+          "explanation": "so + 형용사 + that은 '너무 ~해서 …하다'예요."
+        },
+        {
+          "id": "ch19-q17",
+          "section": "ch19-04",
+          "question": "Please speak louder ------- everyone can hear you.",
+          "choices": {
+            "A": "so that",
+            "B": "because",
+            "C": "such that",
+            "D": "in case of"
+          },
+          "answer": "A",
+          "explanation": "so that + 주어 + can은 '~할 수 있도록'이에요."
+        },
+        {
+          "id": "ch19-q18",
+          "section": "ch19-05",
+          "question": "------- the high cost, the project was approved.",
+          "choices": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "However",
+            "D": "Even though"
+          },
+          "answer": "B",
+          "explanation": "뒤가 명사구라 전치사 Despite예요."
+        },
+        {
+          "id": "ch19-q19",
+          "section": "ch19-05",
+          "question": "The demand is high; -------, prices will probably rise.",
+          "choices": {
+            "A": "however",
+            "B": "because",
+            "C": "therefore",
+            "D": "although"
+          },
+          "answer": "C",
+          "explanation": "세미콜론 뒤 접속부사 자리이고 인과 관계라 therefore예요."
+        },
+        {
+          "id": "ch19-q20",
+          "section": "ch19-05",
+          "question": "------- the store is popular, it has few employees.",
+          "choices": {
+            "A": "In spite of",
+            "B": "However",
+            "C": "Despite",
+            "D": "Although"
+          },
+          "answer": "D",
+          "explanation": "뒤가 절이고 콤마로 다른 절과 이어지니 접속사 Although예요."
+        },
+        {
+          "id": "ch19-q21",
+          "section": "ch19-06",
+          "question": "Applicants should be organized, reliable, and -------.",
+          "choices": {
+            "A": "flexible",
+            "B": "flex",
+            "C": "flexibility",
+            "D": "flexibly"
+          },
+          "answer": "A",
+          "explanation": "and로 형용사들이 나란히 이어지는 병렬 구조라 형용사 flexible이에요."
+        },
+        {
+          "id": "ch19-q22",
+          "section": "ch19-06",
+          "question": "Customers can order by phone, by email, or ------- our website.",
+          "choices": {
+            "A": "though",
+            "B": "through",
+            "C": "throughout",
+            "D": "thorough"
+          },
+          "answer": "B",
+          "explanation": "전치사구끼리 병렬이라 전치사 through(~을 통해)예요."
+        },
+        {
+          "id": "ch19-q23",
+          "section": "ch19-06",
+          "question": "The new manager plans to reduce costs and ------- sales.",
+          "choices": {
+            "A": "increasing",
+            "B": "increased",
+            "C": "increase",
+            "D": "increases"
+          },
+          "answer": "C",
+          "explanation": "to reduce와 (to) increase가 and로 병렬 연결돼요."
         }
       ]
     },
@@ -5727,6 +9666,357 @@
           },
           "answer": "B",
           "explanation": "두 절 연결 + 사람 → most of whom."
+        },
+        {
+          "id": "ch20-q6",
+          "section": "ch20-01",
+          "question": "The employee ------- won the award will give a speech.",
+          "choices": {
+            "A": "whose",
+            "B": "whom",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "D",
+          "explanation": "선행사가 사람이고 뒤에 바로 동사 won이 오니 주격 who예요."
+        },
+        {
+          "id": "ch20-q7",
+          "section": "ch20-01",
+          "question": "This is the laptop ------- I bought last week.",
+          "choices": {
+            "A": "which",
+            "B": "whose",
+            "C": "who",
+            "D": "what"
+          },
+          "answer": "A",
+          "explanation": "선행사가 사물이고 bought의 목적어가 빠진 절이라 which예요."
+        },
+        {
+          "id": "ch20-q8",
+          "section": "ch20-01",
+          "question": "The company ------- I work for is based in Seoul.",
+          "choices": {
+            "A": "what",
+            "B": "which",
+            "C": "who",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "선행사가 사물(회사)이고 전치사 for의 목적어가 빠졌으니 which예요."
+        },
+        {
+          "id": "ch20-q9",
+          "section": "ch20-02",
+          "question": "We contacted the customer ------- order was delayed.",
+          "choices": {
+            "A": "who",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "뒤에 관사 없는 명사 order가 오고 '그 고객의 주문'이라 소유격 whose예요."
+        },
+        {
+          "id": "ch20-q10",
+          "section": "ch20-02",
+          "question": "The manager ------- we met yesterday is very kind.",
+          "choices": {
+            "A": "whose",
+            "B": "which",
+            "C": "what",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "선행사가 사람이고 met의 목적어가 빠졌으니 목적격 whom이에요."
+        },
+        {
+          "id": "ch20-q11",
+          "section": "ch20-02",
+          "question": "Employees who ------- overtime will receive extra pay.",
+          "choices": {
+            "A": "work",
+            "B": "works",
+            "C": "to work",
+            "D": "working"
+          },
+          "answer": "A",
+          "explanation": "주격 관계대명사 뒤 동사는 선행사 Employees(복수)에 맞춰요."
+        },
+        {
+          "id": "ch20-q12",
+          "section": "ch20-03",
+          "question": "This is the best hotel ------- I have ever stayed at.",
+          "choices": {
+            "A": "who",
+            "B": "that",
+            "C": "what",
+            "D": "whose"
+          },
+          "answer": "B",
+          "explanation": "선행사에 최상급이 있으면 주로 that을 써요."
+        },
+        {
+          "id": "ch20-q13",
+          "section": "ch20-03",
+          "question": "Everything ------- you need is in the box.",
+          "choices": {
+            "A": "who",
+            "B": "what",
+            "C": "that",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "-thing 선행사 뒤에는 that을 써요. what은 선행사가 없을 때만 써요."
+        },
+        {
+          "id": "ch20-q14",
+          "section": "ch20-03",
+          "question": "The building, ------- was built in 1950, will be renovated.",
+          "choices": {
+            "A": "that",
+            "B": "what",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "콤마 뒤 계속적 용법에는 that을 쓸 수 없어요."
+        },
+        {
+          "id": "ch20-q15",
+          "section": "ch20-04",
+          "question": "The report ------- by Ms. Kim was very detailed.",
+          "choices": {
+            "A": "written",
+            "B": "writing",
+            "C": "was written",
+            "D": "wrote"
+          },
+          "answer": "A",
+          "explanation": "(which was) written에서 관계대명사와 be동사가 생략된 형태예요."
+        },
+        {
+          "id": "ch20-q16",
+          "section": "ch20-04",
+          "question": "The man ------- at the front desk will help you.",
+          "choices": {
+            "A": "works",
+            "B": "working",
+            "C": "work",
+            "D": "worked"
+          },
+          "answer": "B",
+          "explanation": "(who is) working에서 관계대명사와 be동사가 생략됐어요."
+        },
+        {
+          "id": "ch20-q17",
+          "section": "ch20-04",
+          "question": "The file ------- you sent me is missing a page.",
+          "choices": {
+            "A": "what",
+            "B": "who",
+            "C": "which",
+            "D": "whose"
+          },
+          "answer": "C",
+          "explanation": "선행사가 사물이고 sent의 목적어가 빠졌으니 which예요. 목적격이라 생략도 가능해요."
+        },
+        {
+          "id": "ch20-q18",
+          "section": "ch20-05",
+          "question": "Mr. Chen passed the exam, ------- surprised his coworkers.",
+          "choices": {
+            "A": "who",
+            "B": "that",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "D",
+          "explanation": "콤마 뒤 which는 앞 문장 전체를 받을 수 있어요."
+        },
+        {
+          "id": "ch20-q19",
+          "section": "ch20-05",
+          "question": "The CEO, ------- has led the company for 20 years, will retire.",
+          "choices": {
+            "A": "who",
+            "B": "whom",
+            "C": "which",
+            "D": "that"
+          },
+          "answer": "A",
+          "explanation": "사람 선행사의 계속적 용법 주격이라 who예요."
+        },
+        {
+          "id": "ch20-q20",
+          "section": "ch20-05",
+          "question": "I spoke with Ms. Lee, ------- I met at the conference.",
+          "choices": {
+            "A": "that",
+            "B": "whom",
+            "C": "whose",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "사람 선행사이고 met의 목적어라 whom이에요. 콤마 뒤에는 that을 못 써요."
+        },
+        {
+          "id": "ch20-q21",
+          "section": "ch20-06",
+          "question": "This is the department ------- I am responsible.",
+          "choices": {
+            "A": "which",
+            "B": "for that",
+            "C": "for which",
+            "D": "in that"
+          },
+          "answer": "C",
+          "explanation": "be responsible for에서 for가 앞으로 나온 전치사 + 관계대명사예요. 전치사 뒤에는 that을 못 써요."
+        },
+        {
+          "id": "ch20-q22",
+          "section": "ch20-06",
+          "question": "The person to ------- you should send the form is Mr. Ha.",
+          "choices": {
+            "A": "which",
+            "B": "who",
+            "C": "that",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "전치사 뒤 사람은 whom이에요."
+        },
+        {
+          "id": "ch20-q23",
+          "section": "ch20-06",
+          "question": "The method by ------- the data was collected is explained in the report.",
+          "choices": {
+            "A": "which",
+            "B": "that",
+            "C": "who",
+            "D": "what"
+          },
+          "answer": "A",
+          "explanation": "전치사 뒤 사물은 which예요."
+        },
+        {
+          "id": "ch20-q24",
+          "section": "ch20-07",
+          "question": "The firm has 50 employees, half of ------- work remotely.",
+          "choices": {
+            "A": "who",
+            "B": "whom",
+            "C": "which",
+            "D": "them"
+          },
+          "answer": "B",
+          "explanation": "두 절을 이어야 하니 접속 기능이 있는 관계대명사가 필요해요. 사람이라 whom이에요."
+        },
+        {
+          "id": "ch20-q25",
+          "section": "ch20-07",
+          "question": "We received ten proposals, two of ------- were accepted.",
+          "choices": {
+            "A": "them",
+            "B": "what",
+            "C": "which",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "사물을 받는 수량 표현 + of which예요."
+        },
+        {
+          "id": "ch20-q26",
+          "section": "ch20-07",
+          "question": "There are three candidates, none of ------- has experience.",
+          "choices": {
+            "A": "them",
+            "B": "that",
+            "C": "who",
+            "D": "whom"
+          },
+          "answer": "D",
+          "explanation": "사람을 받는 수량 표현 + of whom이에요."
+        },
+        {
+          "id": "ch20-q27",
+          "section": "ch20-08",
+          "question": "------- the manager said surprised everyone.",
+          "choices": {
+            "A": "What",
+            "B": "That",
+            "C": "Who",
+            "D": "Which"
+          },
+          "answer": "A",
+          "explanation": "선행사가 없고 said의 목적어가 빠진 절이라 what(~하는 것)이에요."
+        },
+        {
+          "id": "ch20-q28",
+          "section": "ch20-08",
+          "question": "This is exactly ------- I was looking for.",
+          "choices": {
+            "A": "that",
+            "B": "what",
+            "C": "which",
+            "D": "who"
+          },
+          "answer": "B",
+          "explanation": "선행사 없이 '내가 찾던 것'이라 what이에요."
+        },
+        {
+          "id": "ch20-q29",
+          "section": "ch20-08",
+          "question": "Please tell me ------- you need for the trip.",
+          "choices": {
+            "A": "whose",
+            "B": "which",
+            "C": "what",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "need의 목적어가 빠진 불완전한 절이고 선행사가 없으니 what이에요."
+        },
+        {
+          "id": "ch20-q30",
+          "section": "ch20-09",
+          "question": "The problem is ------- we don't have enough staff.",
+          "choices": {
+            "A": "which",
+            "B": "what",
+            "C": "who",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "뒤가 완전한 절이라 접속사 that이에요."
+        },
+        {
+          "id": "ch20-q31",
+          "section": "ch20-09",
+          "question": "The book ------- you recommended was helpful.",
+          "choices": {
+            "A": "that",
+            "B": "who",
+            "C": "what",
+            "D": "whose"
+          },
+          "answer": "A",
+          "explanation": "선행사 The book이 있으니 관계대명사 that이에요. what은 선행사가 없을 때 써요."
+        },
+        {
+          "id": "ch20-q32",
+          "section": "ch20-09",
+          "question": "We were surprised by ------- the survey showed.",
+          "choices": {
+            "A": "that",
+            "B": "what",
+            "C": "it",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "전치사 by 뒤에는 that절이 못 와요. showed의 목적어가 빠진 절이라 what이에요."
         }
       ]
     },
@@ -5902,6 +10192,110 @@
           },
           "answer": "B",
           "explanation": "however + 형용사 + 주어 + 동사: 아무리 ~해도."
+        },
+        {
+          "id": "ch21-q5",
+          "section": "ch21-01",
+          "question": "I remember the day ------- I first joined the company.",
+          "choices": {
+            "A": "why",
+            "B": "where",
+            "C": "when",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "시간 선행사 the day 뒤 완전한 절이라 when이에요."
+        },
+        {
+          "id": "ch21-q6",
+          "section": "ch21-01",
+          "question": "Nobody knows the reason ------- the meeting was canceled.",
+          "choices": {
+            "A": "when",
+            "B": "where",
+            "C": "how",
+            "D": "why"
+          },
+          "answer": "D",
+          "explanation": "the reason 뒤 관계부사는 why예요."
+        },
+        {
+          "id": "ch21-q7",
+          "section": "ch21-02",
+          "question": "This is the city ------- I visited last year.",
+          "choices": {
+            "A": "which",
+            "B": "when",
+            "C": "where",
+            "D": "how"
+          },
+          "answer": "A",
+          "explanation": "visited의 목적어가 빠진 불완전한 절이라 관계대명사 which예요."
+        },
+        {
+          "id": "ch21-q8",
+          "section": "ch21-02",
+          "question": "This is the office ------- I worked for five years.",
+          "choices": {
+            "A": "which",
+            "B": "where",
+            "C": "what",
+            "D": "that"
+          },
+          "answer": "B",
+          "explanation": "I worked for five years는 완전한 절이라 관계부사 where예요."
+        },
+        {
+          "id": "ch21-q9",
+          "section": "ch21-03",
+          "question": "You may invite ------- you like to the party.",
+          "choices": {
+            "A": "whatever",
+            "B": "whoever",
+            "C": "whomever",
+            "D": "whichever"
+          },
+          "answer": "C",
+          "explanation": "like의 목적어 역할을 하는 '누구든'이라 목적격 whomever예요."
+        },
+        {
+          "id": "ch21-q10",
+          "section": "ch21-03",
+          "question": "------- happens, we will finish on time.",
+          "choices": {
+            "A": "Whoever",
+            "B": "However",
+            "C": "Whichever",
+            "D": "Whatever"
+          },
+          "answer": "D",
+          "explanation": "'무슨 일이 일어나더라도'라는 뜻이라 Whatever예요."
+        },
+        {
+          "id": "ch21-q11",
+          "section": "ch21-04",
+          "question": "------- you visit the office, Ms. Ko is always there.",
+          "choices": {
+            "A": "Whenever",
+            "B": "Whatever",
+            "C": "Whoever",
+            "D": "However"
+          },
+          "answer": "A",
+          "explanation": "'~할 때마다'는 Whenever예요."
+        },
+        {
+          "id": "ch21-q12",
+          "section": "ch21-04",
+          "question": "------- hard I try, I can't open this file.",
+          "choices": {
+            "A": "Whatever",
+            "B": "However",
+            "C": "Although",
+            "D": "Whenever"
+          },
+          "answer": "B",
+          "explanation": "However + 형용사/부사 + 주어 + 동사는 '아무리 ~해도'예요."
         }
       ]
     },
@@ -6054,6 +10448,136 @@
           },
           "answer": "C",
           "explanation": "명사 evidence 뒤 + 완전한 절 → 동격 that."
+        },
+        {
+          "id": "ch22-q5",
+          "section": "ch22-01",
+          "question": "I wonder ------- the store is open on Sundays.",
+          "choices": {
+            "A": "what",
+            "B": "which",
+            "C": "whether",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "'~인지 궁금하다'는 불확실한 내용이라 whether예요."
+        },
+        {
+          "id": "ch22-q6",
+          "section": "ch22-01",
+          "question": "------- he said at the meeting was surprising.",
+          "choices": {
+            "A": "That",
+            "B": "Whether",
+            "C": "If",
+            "D": "What"
+          },
+          "answer": "D",
+          "explanation": "said의 목적어가 빠진 불완전한 절이 주어 역할을 하니 What이에요."
+        },
+        {
+          "id": "ch22-q7",
+          "section": "ch22-02",
+          "question": "Please make sure ------- all doors are locked.",
+          "choices": {
+            "A": "that",
+            "B": "which",
+            "C": "if",
+            "D": "what"
+          },
+          "answer": "A",
+          "explanation": "make sure 뒤 완전한 절이 오는 명사절 접속사 that이에요."
+        },
+        {
+          "id": "ch22-q8",
+          "section": "ch22-02",
+          "question": "The news ------- the company would expand pleased everyone.",
+          "choices": {
+            "A": "which",
+            "B": "that",
+            "C": "whether",
+            "D": "what"
+          },
+          "answer": "B",
+          "explanation": "명사 news의 내용을 설명하는 동격의 that이에요."
+        },
+        {
+          "id": "ch22-q9",
+          "section": "ch22-03",
+          "question": "------- the project will succeed depends on funding.",
+          "choices": {
+            "A": "That",
+            "B": "If",
+            "C": "Whether",
+            "D": "What"
+          },
+          "answer": "C",
+          "explanation": "주어 자리에서 '~인지'는 whether만 쓸 수 있어요. if는 주어 자리에 못 와요."
+        },
+        {
+          "id": "ch22-q10",
+          "section": "ch22-03",
+          "question": "We haven't decided ------- to accept the offer.",
+          "choices": {
+            "A": "if",
+            "B": "that",
+            "C": "what",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "whether + to부정사는 가능하지만 if to는 안 돼요."
+        },
+        {
+          "id": "ch22-q11",
+          "section": "ch22-04",
+          "question": "Can you tell me ------- the next train leaves?",
+          "choices": {
+            "A": "when",
+            "B": "that",
+            "C": "whether",
+            "D": "what"
+          },
+          "answer": "A",
+          "explanation": "뒤가 완전한 절이고 '언제' 떠나는지 묻는 간접의문문이라 when이에요."
+        },
+        {
+          "id": "ch22-q12",
+          "section": "ch22-04",
+          "question": "I don't know ------- book is mine.",
+          "choices": {
+            "A": "if",
+            "B": "which",
+            "C": "that",
+            "D": "whether"
+          },
+          "answer": "B",
+          "explanation": "의문형용사 which + 명사로 '어느 책'이라는 뜻이에요."
+        },
+        {
+          "id": "ch22-q13",
+          "section": "ch22-05",
+          "question": "The manager asked ------- had finished the report.",
+          "choices": {
+            "A": "whom",
+            "B": "what",
+            "C": "who",
+            "D": "that"
+          },
+          "answer": "C",
+          "explanation": "had finished의 주어가 빠진 절이고 사람을 묻는 거라 who예요."
+        },
+        {
+          "id": "ch22-q14",
+          "section": "ch22-05",
+          "question": "There is a question about ------- the budget was approved.",
+          "choices": {
+            "A": "that",
+            "B": "if",
+            "C": "what",
+            "D": "whether"
+          },
+          "answer": "D",
+          "explanation": "전치사 about 뒤에는 that과 if가 못 와요. 완전한 절이니 whether예요."
         }
       ]
     },
@@ -6248,6 +10772,110 @@
           },
           "answer": "A",
           "explanation": "명사구 앞 + 가정법 과거완료 주절 → Without(~이 없었다면)."
+        },
+        {
+          "id": "ch23-q5",
+          "section": "ch23-01",
+          "question": "If I ------- the CEO, I would raise salaries.",
+          "choices": {
+            "A": "were",
+            "B": "will be",
+            "C": "had been",
+            "D": "am"
+          },
+          "answer": "A",
+          "explanation": "주절이 would + 원형인 가정법 과거라 if절에 were를 써요."
+        },
+        {
+          "id": "ch23-q6",
+          "section": "ch23-01",
+          "question": "If she had studied harder, she ------- the exam.",
+          "choices": {
+            "A": "passed",
+            "B": "would have passed",
+            "C": "would pass",
+            "D": "had passed"
+          },
+          "answer": "B",
+          "explanation": "if절이 had p.p.인 가정법 과거완료라 주절은 would have p.p.예요."
+        },
+        {
+          "id": "ch23-q7",
+          "section": "ch23-02",
+          "question": "------- I known about the traffic, I would have left earlier.",
+          "choices": {
+            "A": "Should",
+            "B": "Were",
+            "C": "Had",
+            "D": "If"
+          },
+          "answer": "C",
+          "explanation": "If I had known에서 if를 생략하고 Had를 앞으로 보낸 도치예요."
+        },
+        {
+          "id": "ch23-q8",
+          "section": "ch23-02",
+          "question": "------- you require further information, please contact us.",
+          "choices": {
+            "A": "Were",
+            "B": "Had",
+            "C": "Would",
+            "D": "Should"
+          },
+          "answer": "D",
+          "explanation": "If you should require에서 if를 생략한 도치예요. 뒤에 동사원형 require가 있어요."
+        },
+        {
+          "id": "ch23-q9",
+          "section": "ch23-03",
+          "question": "I wish I ------- more time to finish the project.",
+          "choices": {
+            "A": "had",
+            "B": "having",
+            "C": "have",
+            "D": "will have"
+          },
+          "answer": "A",
+          "explanation": "지금 시간이 없다는 현재 사실의 반대라 I wish + 과거형이에요."
+        },
+        {
+          "id": "ch23-q10",
+          "section": "ch23-03",
+          "question": "He talks as if he ------- the boss.",
+          "choices": {
+            "A": "is",
+            "B": "were",
+            "C": "being",
+            "D": "be"
+          },
+          "answer": "B",
+          "explanation": "실제로는 사장이 아닌데 '마치 ~인 것처럼'이라 가정법 과거 were예요."
+        },
+        {
+          "id": "ch23-q11",
+          "section": "ch23-04",
+          "question": "------- the bad weather, the event would have been a success.",
+          "choices": {
+            "A": "Unless",
+            "B": "But",
+            "C": "Without",
+            "D": "Despite"
+          },
+          "answer": "C",
+          "explanation": "Without + 명사가 '~이 없었다면'(가정)의 뜻이에요. Unless는 절 앞에 와요."
+        },
+        {
+          "id": "ch23-q12",
+          "section": "ch23-04",
+          "question": "I was busy; -------, I would have joined you.",
+          "choices": {
+            "A": "therefore",
+            "B": "instead",
+            "C": "however",
+            "D": "otherwise"
+          },
+          "answer": "D",
+          "explanation": "'그렇지 않았다면(바쁘지 않았다면)'이라는 뜻이라 otherwise예요."
         }
       ]
     },
@@ -6368,6 +10996,136 @@
           },
           "answer": "B",
           "explanation": "Not until ~ 도치: did + 주어 + 원형."
+        },
+        {
+          "id": "ch24-q4",
+          "section": "ch24-01",
+          "question": "Never ------- such a beautiful view.",
+          "choices": {
+            "A": "have I seen",
+            "B": "I seen",
+            "C": "I have seen",
+            "D": "seen I have"
+          },
+          "answer": "A",
+          "explanation": "부정어 Never가 문장 앞에 오면 조동사 + 주어 순서로 도치돼요."
+        },
+        {
+          "id": "ch24-q5",
+          "section": "ch24-01",
+          "question": "Only after the meeting ------- the mistake.",
+          "choices": {
+            "A": "noticed he",
+            "B": "did he notice",
+            "C": "he noticed",
+            "D": "he did notice"
+          },
+          "answer": "B",
+          "explanation": "Only + 부사구가 앞에 오면 도치돼요. 일반동사는 did + 주어 + 원형이에요."
+        },
+        {
+          "id": "ch24-q6",
+          "section": "ch24-02",
+          "question": "On the desk ------- the documents you asked for.",
+          "choices": {
+            "A": "is",
+            "B": "be",
+            "C": "are",
+            "D": "was"
+          },
+          "answer": "C",
+          "explanation": "장소 부사구 도치예요. 진짜 주어 the documents가 복수라 are예요."
+        },
+        {
+          "id": "ch24-q7",
+          "section": "ch24-02",
+          "question": "Here ------- the bus.",
+          "choices": {
+            "A": "coming",
+            "B": "is come",
+            "C": "come",
+            "D": "comes"
+          },
+          "answer": "D",
+          "explanation": "Here + 동사 + 주어 도치예요. 주어 the bus가 단수라 comes예요."
+        },
+        {
+          "id": "ch24-q8",
+          "section": "ch24-03",
+          "question": "Enclosed ------- a copy of the invoice.",
+          "choices": {
+            "A": "is",
+            "B": "were",
+            "C": "have",
+            "D": "are"
+          },
+          "answer": "A",
+          "explanation": "보어 도치예요. 진짜 주어 a copy가 단수라 is예요."
+        },
+        {
+          "id": "ch24-q9",
+          "section": "ch24-03",
+          "question": "Included in the price ------- breakfast and dinner.",
+          "choices": {
+            "A": "has",
+            "B": "are",
+            "C": "have",
+            "D": "is"
+          },
+          "answer": "B",
+          "explanation": "진짜 주어 breakfast and dinner가 복수라 are예요."
+        },
+        {
+          "id": "ch24-q10",
+          "section": "ch24-04",
+          "question": "A: I didn't like the movie. B: Neither ------- I.",
+          "choices": {
+            "A": "was",
+            "B": "do",
+            "C": "did",
+            "D": "am"
+          },
+          "answer": "C",
+          "explanation": "앞 문장이 일반동사 과거 부정이라 Neither did I예요."
+        },
+        {
+          "id": "ch24-q11",
+          "section": "ch24-04",
+          "question": "Ms. Park has finished her report, and so ------- Mr. Kim.",
+          "choices": {
+            "A": "does",
+            "B": "did",
+            "C": "is",
+            "D": "has"
+          },
+          "answer": "D",
+          "explanation": "앞이 현재완료(has finished)라 so has + 주어예요."
+        },
+        {
+          "id": "ch24-q12",
+          "section": "ch24-05",
+          "question": "------- I in your position, I would accept the offer.",
+          "choices": {
+            "A": "Were",
+            "B": "Had",
+            "C": "Was",
+            "D": "Should"
+          },
+          "answer": "A",
+          "explanation": "If I were에서 if를 생략한 도치예요."
+        },
+        {
+          "id": "ch24-q13",
+          "section": "ch24-05",
+          "question": "------- the order arrive damaged, please contact us.",
+          "choices": {
+            "A": "Had",
+            "B": "Should",
+            "C": "Were",
+            "D": "Would"
+          },
+          "answer": "B",
+          "explanation": "If the order should arrive에서 if를 생략한 도치예요. 뒤에 동사원형 arrive가 있어요."
         }
       ]
     },
@@ -6501,6 +11259,136 @@
           },
           "answer": "B",
           "explanation": "It is not until ~ that 강조 구문."
+        },
+        {
+          "id": "ch25-q4",
+          "section": "ch25-01",
+          "question": "It was Mr. Ryu ------- solved the problem.",
+          "choices": {
+            "A": "what",
+            "B": "whom",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "It was ~ that 강조구문에서 강조 대상이 사람이고 주어라 who를 쓸 수 있어요."
+        },
+        {
+          "id": "ch25-q5",
+          "section": "ch25-01",
+          "question": "It was in 2015 ------- the company went public.",
+          "choices": {
+            "A": "which",
+            "B": "who",
+            "C": "what",
+            "D": "that"
+          },
+          "answer": "D",
+          "explanation": "부사구(in 2015)를 강조하는 It was ~ that 구문이에요."
+        },
+        {
+          "id": "ch25-q6",
+          "section": "ch25-02",
+          "question": "I ------- send the email; please check your spam folder.",
+          "choices": {
+            "A": "did",
+            "B": "does",
+            "C": "done",
+            "D": "do"
+          },
+          "answer": "A",
+          "explanation": "동사 강조 did + 원형(정말 보냈어요)이에요. 과거 일이라 did예요."
+        },
+        {
+          "id": "ch25-q7",
+          "section": "ch25-02",
+          "question": "This is ------- book I was looking for.",
+          "choices": {
+            "A": "very the",
+            "B": "the very",
+            "C": "very",
+            "D": "so"
+          },
+          "answer": "B",
+          "explanation": "명사 강조 the very + 명사(바로 그)예요."
+        },
+        {
+          "id": "ch25-q8",
+          "section": "ch25-03",
+          "question": "When -------, the form should be sent to HR.",
+          "choices": {
+            "A": "completion",
+            "B": "complete",
+            "C": "completed",
+            "D": "completing"
+          },
+          "answer": "C",
+          "explanation": "When (it is) completed에서 주어와 be동사가 생략됐어요. 양식은 작성'되는' 대상이에요."
+        },
+        {
+          "id": "ch25-q9",
+          "section": "ch25-03",
+          "question": "Please call me if -------.",
+          "choices": {
+            "A": "necessarily",
+            "B": "necessity",
+            "C": "need",
+            "D": "necessary"
+          },
+          "answer": "D",
+          "explanation": "if (it is) necessary에서 주어와 be동사가 생략된 관용 표현이에요."
+        },
+        {
+          "id": "ch25-q10",
+          "section": "ch25-04",
+          "question": "Ms. Rivera, ------- of ABC Corp., will speak at the event.",
+          "choices": {
+            "A": "CEO",
+            "B": "the CEO's",
+            "C": "is the CEO",
+            "D": "who CEO"
+          },
+          "answer": "A",
+          "explanation": "콤마 사이에서 Ms. Rivera를 다시 설명하는 동격이에요. 직책이 동격일 때는 관사를 생략할 수 있어요."
+        },
+        {
+          "id": "ch25-q11",
+          "section": "ch25-04",
+          "question": "There is a possibility ------- the meeting will be postponed.",
+          "choices": {
+            "A": "whether",
+            "B": "that",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "B",
+          "explanation": "possibility의 내용을 설명하는 동격의 that이에요."
+        },
+        {
+          "id": "ch25-q12",
+          "section": "ch25-05",
+          "question": "He is the candidate ------- I believe is the most qualified.",
+          "choices": {
+            "A": "whom",
+            "B": "whose",
+            "C": "who",
+            "D": "which"
+          },
+          "answer": "C",
+          "explanation": "I believe는 삽입절이에요. 빼면 who is가 되니 주격 who예요."
+        },
+        {
+          "id": "ch25-q13",
+          "section": "ch25-05",
+          "question": "There are few, -------, errors in the report.",
+          "choices": {
+            "A": "as it were",
+            "B": "so to speak",
+            "C": "if ever",
+            "D": "if any"
+          },
+          "answer": "D",
+          "explanation": "if any는 '(있다 해도) 거의 없는'이라는 삽입 표현이에요."
         }
       ]
     },
@@ -6691,6 +11579,110 @@
           },
           "answer": "A",
           "explanation": "변하지 않는 과학적 사실은 시제 일치 예외 → 현재."
+        },
+        {
+          "id": "ch26-q4",
+          "section": "ch26-01",
+          "question": "Mr. Kim said that he ------- busy that day.",
+          "choices": {
+            "A": "was",
+            "B": "will be",
+            "C": "has been",
+            "D": "is"
+          },
+          "answer": "A",
+          "explanation": "주절이 과거(said)라 종속절도 과거 was로 맞춰요."
+        },
+        {
+          "id": "ch26-q5",
+          "section": "ch26-01",
+          "question": "She told me that she ------- the report the day before.",
+          "choices": {
+            "A": "will finish",
+            "B": "had finished",
+            "C": "has finished",
+            "D": "finishes"
+          },
+          "answer": "B",
+          "explanation": "말한 것보다 끝낸 게 먼저라 과거완료예요. the day before도 단서예요."
+        },
+        {
+          "id": "ch26-q6",
+          "section": "ch26-02",
+          "question": "The teacher explained that light ------- faster than sound.",
+          "choices": {
+            "A": "had traveled",
+            "B": "would travel",
+            "C": "travels",
+            "D": "traveled"
+          },
+          "answer": "C",
+          "explanation": "과학적 사실은 주절이 과거여도 현재시제를 써요."
+        },
+        {
+          "id": "ch26-q7",
+          "section": "ch26-02",
+          "question": "We learned that the Korean War ------- in 1950.",
+          "choices": {
+            "A": "breaks out",
+            "B": "has broken out",
+            "C": "had broken out",
+            "D": "broke out"
+          },
+          "answer": "D",
+          "explanation": "역사적 사실은 항상 과거시제를 써요."
+        },
+        {
+          "id": "ch26-q8",
+          "section": "ch26-03",
+          "question": "He asked me ------- I was ready.",
+          "choices": {
+            "A": "if",
+            "B": "that",
+            "C": "what",
+            "D": "which"
+          },
+          "answer": "A",
+          "explanation": "Yes/No 의문문을 간접화법으로 바꾸면 if(whether)를 써요."
+        },
+        {
+          "id": "ch26-q9",
+          "section": "ch26-03",
+          "question": "The manager told us ------- late again.",
+          "choices": {
+            "A": "not be",
+            "B": "not to be",
+            "C": "don't be",
+            "D": "to not being"
+          },
+          "answer": "B",
+          "explanation": "부정 명령문은 간접화법에서 tell + 사람 + not to V가 돼요."
+        },
+        {
+          "id": "ch26-q10",
+          "section": "ch26-04",
+          "question": "Ms. Lee ------- us that the office would close early.",
+          "choices": {
+            "A": "said",
+            "B": "talked",
+            "C": "told",
+            "D": "spoke"
+          },
+          "answer": "C",
+          "explanation": "사람 목적어(us)를 바로 쓰는 건 tell이에요."
+        },
+        {
+          "id": "ch26-q11",
+          "section": "ch26-04",
+          "question": "We ------- about the new project for an hour.",
+          "choices": {
+            "A": "spoke to",
+            "B": "said",
+            "C": "told",
+            "D": "talked"
+          },
+          "answer": "D",
+          "explanation": "talk about은 '~에 대해 이야기하다'예요."
         }
       ]
     },
@@ -6960,6 +11952,279 @@
           },
           "answer": "A",
           "explanation": "request that + 주어 + (should) 동사원형."
+        },
+        {
+          "id": "ch27-q6",
+          "section": "ch27-01",
+          "question": "The ------- of the new product has been delayed.",
+          "choices": {
+            "A": "launch",
+            "B": "to launch",
+            "C": "launches",
+            "D": "launched"
+          },
+          "answer": "A",
+          "explanation": "품사 문제예요. 관사 the와 of 사이 명사 자리이고, 동사가 has라 단수 launch예요."
+        },
+        {
+          "id": "ch27-q7",
+          "section": "ch27-01",
+          "question": "The software update will be installed ------- the weekend.",
+          "choices": {
+            "A": "within",
+            "B": "during",
+            "C": "for",
+            "D": "while"
+          },
+          "answer": "B",
+          "explanation": "전치사·접속사 문제예요. 뒤가 특정 기간 명사라 during이에요."
+        },
+        {
+          "id": "ch27-q8",
+          "section": "ch27-01",
+          "question": "The marketing director ------- the budget proposal yesterday.",
+          "choices": {
+            "A": "review",
+            "B": "reviews",
+            "C": "reviewed",
+            "D": "reviewing"
+          },
+          "answer": "C",
+          "explanation": "동사 형태 문제예요. 정동사가 필요하고 yesterday라 과거형이에요."
+        },
+        {
+          "id": "ch27-q9",
+          "section": "ch27-02",
+          "question": "The new system has ------- reduced processing time.",
+          "choices": {
+            "A": "significant",
+            "B": "signify",
+            "C": "significance",
+            "D": "significantly"
+          },
+          "answer": "D",
+          "explanation": "have + ___ + p.p. 사이는 부사 자리예요."
+        },
+        {
+          "id": "ch27-q10",
+          "section": "ch27-02",
+          "question": "Thank you for your ------- response.",
+          "choices": {
+            "A": "prompt",
+            "B": "prompting",
+            "C": "promptness",
+            "D": "promptly"
+          },
+          "answer": "A",
+          "explanation": "소유격과 명사 사이는 형용사 자리예요. prompt는 '즉각적인'이에요."
+        },
+        {
+          "id": "ch27-q11",
+          "section": "ch27-02",
+          "question": "The committee found the proposal -------.",
+          "choices": {
+            "A": "accept",
+            "B": "acceptable",
+            "C": "acceptably",
+            "D": "acceptance"
+          },
+          "answer": "B",
+          "explanation": "find + 목적어 + ___ 는 형용사 보어 자리예요."
+        },
+        {
+          "id": "ch27-q12",
+          "section": "ch27-03",
+          "question": "The list of new procedures ------- to all employees last week.",
+          "choices": {
+            "A": "sent",
+            "B": "has sent",
+            "C": "was sent",
+            "D": "were sent"
+          },
+          "answer": "C",
+          "explanation": "주어는 The list(단수), 목적어가 없으니 수동, last week라 과거예요."
+        },
+        {
+          "id": "ch27-q13",
+          "section": "ch27-03",
+          "question": "Each of the applicants ------- an interview next week.",
+          "choices": {
+            "A": "are having",
+            "B": "have",
+            "C": "having",
+            "D": "will have"
+          },
+          "answer": "D",
+          "explanation": "each of는 단수이고 next week라 미래 will have예요."
+        },
+        {
+          "id": "ch27-q14",
+          "section": "ch27-03",
+          "question": "The contract ------- by both parties before work begins.",
+          "choices": {
+            "A": "must be signed",
+            "B": "has signed",
+            "C": "must sign",
+            "D": "signing"
+          },
+          "answer": "A",
+          "explanation": "계약서는 서명'되는' 대상이고 by both parties가 있으니 수동이에요."
+        },
+        {
+          "id": "ch27-q15",
+          "section": "ch27-04",
+          "question": "------- the meeting ran late, we missed our train.",
+          "choices": {
+            "A": "Due to",
+            "B": "Because",
+            "C": "Because of",
+            "D": "Therefore"
+          },
+          "answer": "B",
+          "explanation": "뒤가 절이고 콤마로 주절과 이어지니 접속사 Because예요."
+        },
+        {
+          "id": "ch27-q16",
+          "section": "ch27-04",
+          "question": "The product is expensive. -------, it sells well.",
+          "choices": {
+            "A": "Because",
+            "B": "Despite",
+            "C": "Nevertheless",
+            "D": "Although"
+          },
+          "answer": "C",
+          "explanation": "마침표 뒤 문장 앞, 콤마가 있으니 접속부사 자리예요. 역접이라 Nevertheless예요."
+        },
+        {
+          "id": "ch27-q17",
+          "section": "ch27-04",
+          "question": "------- the renovation, the lobby will be closed.",
+          "choices": {
+            "A": "When",
+            "B": "Meanwhile",
+            "C": "While",
+            "D": "During"
+          },
+          "answer": "D",
+          "explanation": "뒤가 명사구라 전치사 During이에요."
+        },
+        {
+          "id": "ch27-q18",
+          "section": "ch27-05",
+          "question": "We are writing to thank you for your recent order. ------- items will be shipped tomorrow.",
+          "choices": {
+            "A": "Your",
+            "B": "Its",
+            "C": "His",
+            "D": "Their"
+          },
+          "answer": "A",
+          "explanation": "앞 문장의 your order를 이어받아 '주문하신 상품'이라 Your예요. 앞뒤 문맥으로 대명사를 골라요."
+        },
+        {
+          "id": "ch27-q19",
+          "section": "ch27-05",
+          "question": "The office will be closed on Monday for maintenance. -------, employees may work from home.",
+          "choices": {
+            "A": "Despite",
+            "B": "In the meantime",
+            "C": "Although",
+            "D": "During"
+          },
+          "answer": "B",
+          "explanation": "문장 앞 콤마 자리라 접속부사가 필요해요. '그동안'이라는 뜻의 In the meantime이에요."
+        },
+        {
+          "id": "ch27-q20",
+          "section": "ch27-05",
+          "question": "Last month, our team ------- a new product. Sales have been strong since then.",
+          "choices": {
+            "A": "is launching",
+            "B": "launches",
+            "C": "launched",
+            "D": "will launch"
+          },
+          "answer": "C",
+          "explanation": "Last month와 뒤 문장의 since then을 보면 과거에 출시한 거예요."
+        },
+        {
+          "id": "ch27-q21",
+          "section": "ch27-06",
+          "question": "The equipment ------- inspected every month.",
+          "choices": {
+            "A": "have",
+            "B": "are",
+            "C": "has",
+            "D": "is"
+          },
+          "answer": "D",
+          "explanation": "equipment는 불가산명사라 단수 취급해요."
+        },
+        {
+          "id": "ch27-q22",
+          "section": "ch27-06",
+          "question": "Please submit the form ------- Friday.",
+          "choices": {
+            "A": "by",
+            "B": "since",
+            "C": "for",
+            "D": "until"
+          },
+          "answer": "A",
+          "explanation": "제출 완료 기한이라 by예요. until은 계속되는 동작에 써요."
+        },
+        {
+          "id": "ch27-q23",
+          "section": "ch27-06",
+          "question": "We look forward to ------- you soon.",
+          "choices": {
+            "A": "be seen",
+            "B": "seeing",
+            "C": "see",
+            "D": "seen"
+          },
+          "answer": "B",
+          "explanation": "look forward to의 to는 전치사라 동명사가 와요."
+        },
+        {
+          "id": "ch27-q24",
+          "section": "ch27-07",
+          "question": "Ms. Rossi has worked here ------- 2018.",
+          "choices": {
+            "A": "in",
+            "B": "for",
+            "C": "since",
+            "D": "from"
+          },
+          "answer": "C",
+          "explanation": "현재완료와 과거 시점이 함께 오면 since예요."
+        },
+        {
+          "id": "ch27-q25",
+          "section": "ch27-07",
+          "question": "The seminar was so ------- that many attendees asked for more sessions.",
+          "choices": {
+            "A": "informatively",
+            "B": "information",
+            "C": "inform",
+            "D": "informative"
+          },
+          "answer": "D",
+          "explanation": "so + 형용사 + that 구문이고 be동사 보어 자리라 형용사 informative예요."
+        },
+        {
+          "id": "ch27-q26",
+          "section": "ch27-07",
+          "question": "------- interested in the position should send a résumé.",
+          "choices": {
+            "A": "Those",
+            "B": "Them",
+            "C": "They",
+            "D": "These"
+          },
+          "answer": "A",
+          "explanation": "those + 형용사(분사)는 '~한 사람들'이에요."
         }
       ]
     }
