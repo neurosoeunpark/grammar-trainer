@@ -1,6 +1,7 @@
-# 문법 트레이너
+# 토익 트레이너
 
-토익 왕초보용 영어 문법 27강 + 단어 플래시카드 웹앱입니다.
+토익 왕초보용 RC 문법 27강, LC 리스닝(Part 1~4), 단어 플래시카드 웹앱입니다.
+LC 음성은 브라우저에 내장된 영어 음성(TTS)으로 재생되며, 기기에 설치된 음성에 따라 목소리가 달라집니다.
 `index.html` 하나에 모든 데이터가 들어 있어서 서버 없이 GitHub Pages로 바로 쓸 수 있습니다.
 
 ## GitHub Pages로 올리기
@@ -29,7 +30,9 @@
 | --- | --- |
 | `index.html` | 앱 본체 (문법·단어 데이터 포함) |
 | `data/english_grammar_toeic.json` | 문법 27강, 확인 문제, 부록 원본 데이터 |
+| `data/toeic_lc.json` | LC 강의 6개, Part 1~4 연습 문제와 스크립트·해석 |
 | `data/toeic_vocab.json` | 해커스 토익 단어장, 구동사 단어장, 토익 빈출 단어장 데이터 |
+| `images/` | Part 1 문제 사진 원본 (참고용. 앱은 index.html 안에 넣어 둔 사진을 씀) |
 | `manifest.webmanifest`, `icons/` | 홈 화면 추가용 앱 정보와 아이콘 |
 | `.nojekyll` | GitHub Pages가 파일을 그대로 서비스하도록 하는 설정 |
 

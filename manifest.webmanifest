@@ -1,6 +1,6 @@
 {
-  "name": "문법 트레이너",
-  "short_name": "문법 트레이너",
+  "name": "토익 트레이너",
+  "short_name": "토익 트레이너",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#F2F3F7",
